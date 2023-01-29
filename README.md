@@ -4,6 +4,10 @@
 * [FOCUS Code of Conduct](code_of_conduct.md)
 * [FOCUS Steering Committee](steering_committee.md)
 
+## What is FinOps Open Cost & Usage Specification (FOCUS)?
+
+FOCUS is a community specification that works to establish an open standard for cloud billing data. It specifies vendor neutral cross-cloud measures for key cost & usage dimensions/metrics. These measures and their derivations establish a baseline schema that enables cloud billing data to be surfaced in a common FinOps-serviceable format. This project is sponsored and maintained by the [FinOps Foundation](https://www.finops.org).
+
 ## Membership Documents
 
 * FOCUS [Membership Agreement](Foundation-Participation_Agreement-Preview.pdf) and [Code of Conduct](code_of_conduct.md)
