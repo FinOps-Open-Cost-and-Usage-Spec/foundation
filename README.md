@@ -15,4 +15,4 @@ All of the FOCUS repositories are managed by EasyCLA. Project participants must 
 
 To initiate the signature process please open a PR against the [EasyCLA repo](https://github.com/FinOps-Open-Cost-and-Usage-Spec/EasyCLA). The EasyCLA bot will block the merge if we still need a membership agreement from you.
 
-If you have issues, please email [operations@finops.org](mailto:operations@finops.org) **TODO: get email **.
+If you have issues, please email [hello@finops.org](mailto:hello@finops.org).
