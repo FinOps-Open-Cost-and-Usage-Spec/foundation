@@ -1,12 +1,12 @@
 # FinOps Open Cost and Usage Specification (FOCUS) - Charter and Legal Documents
 
 * [FOCUS Charter v1.0](Foundation-Participation_Agreement-Preview.pdf)
-* [FOCUS Code of Conduct v1.0](https://github.com/finopsfoundation/foundation/blob/main/code_of_conduct.md) - Covered by the FinOps Foundation Code of Conduct
-* [FOCUS Steering Committee](TBD)
+* [FOCUS Code of Conduct](code_of_conduct.md)
+* [FOCUS Steering Committee](steering_committee.md)
 
 ## Membership Documents
 
-* FOCUS Membership Agreement and Code of Conduct: TBD
+* FOCUS [Membership Agreement](Foundation-Participation_Agreement-Preview.pdf) and [Code of Conduct](code_of_conduct.md)
 * FOCUS Membership: https://finops.org/membership
 
 ## Contributing to FOCUS repositories
