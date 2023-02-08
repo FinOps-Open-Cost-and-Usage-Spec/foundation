@@ -6,7 +6,7 @@ Workflow Overview
 
 In order to meet our W3C Patent requirements the following workflow has been outlined. All working groups working under this process must strictly follow this workflow.
 
-![Document Release Workflow](images/FOCUS_Document_Release_Workflow_v1.0.0.png?raw=true "Document Release Workflow")
+![Document Release Workflow](images/FOCUS_Document_Release_Workflow_v1.0.1.png?raw=true "Document Release Workflow")
 
 GIT Repository Configuration
 ------------------
@@ -23,9 +23,9 @@ The W3C Patent document statuses of "Last Call Working Draft" and "Proposed Reco
 
 Git tags using [Semantic Versioning 2.0](https://semver.org/spec/v2.0.0.html) will be used to mark the official releases.
 
-![Git Workflow](images/git_workflow_v1.0.0.png?raw=true "Git Workflow")
+![Git Workflow](images/FOCUS_GIT_Workflow_v1.0.1.png?raw=true "Git Workflow")
 
-All development work will be completed in the `working_draft` branch or in topic branches that are strictly merged back into the `working_draft` branch. When the specification hits development milestones and is ready to released a pull request is raised from the `working_draft` branch into the `candidate_recommendation` branch. This pull request is reviewed by the working_group and FinOps Foundation Governing Board before it is approved and merged (**TBC**: who will perform the merge Working Group Chair?). 
+All development work will be completed in the `working_draft` branch or in topic branches that are strictly merged back into the `working_draft` branch. When the specification hits development milestones and is ready to released a pull request is raised from the `working_draft` branch into the `candidate_recommendation` branch. This pull request is reviewed by the working_group before it is approved and merged by the Working Group Chair. 
 
 Once a pull request is merged into the `candidate_recommendation` branch a notification period of 30 days is started. No content that has not been held in the `candidate_recommendation` branch can be progressed into the `main` branch. Any essential claims made against the release will be associcated with a GitHub Issue ticket and all tickets must be resolved before a pull request is able to be raised from the `candidate_recommendation` branch into the `main` branch.
 
