@@ -29,6 +29,8 @@ FOCUS Operating Procedures
 
 ## 2.2 Organization Structure
 
+![Org Structure](images/org_structure.png?raw=true "Org Structure")
+
 ### 2.2.1 Steering Committee
 
   One of the more important duties of the Steering Committee (SC) is the approval of the Specifications and other works produced as a consensus product of the FOCUS Working Groups.
