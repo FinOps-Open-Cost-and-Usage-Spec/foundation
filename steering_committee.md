@@ -5,7 +5,7 @@ The FOCUS TSC will be responsible for all technical oversight of the open source
 
 ## Technical Charter and Code of Conduct
 
-The FOCUS TSC is governed by the [Charter](Specification%20Membership%20Agreement.pdf) **TODO: confirm URL **, which establishes the Committee and its basic principles and procedures.  The charter is designed to provide the TSC the freedom to govern itself in an efficient manner. This document establishes TSC policies and procedures.
+The FOCUS TSC is governed by the [Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf): confirm URL **, which establishes the Committee and its basic principles and procedures.  The charter is designed to provide the TSC the freedom to govern itself in an efficient manner. This document establishes TSC policies and procedures.
 
 In addition, as provided under the Technical Charter, FOCUS will align with the FinOps Foundation [Code of Conduct](code_of_conduct.md) that applies to all FOCUS activities and spaces. If you believe there has been a violation of the Code of Conduct, please contact [hello@finops.org](mailto:hello@finops.org).
 
@@ -98,17 +98,17 @@ We thank all our prior TSC members for their contribution:
 
 ### Becoming a TSC Member
 
-The [Technical Charter](Specification%20Membership%20Agreement.pdf) describes the composition of the TSC. The TSC memberships are managed by the FinOps Foundation Governing Board.
+The [Technical Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf) describes the composition of the TSC. The TSC memberships are managed by the FinOps Foundation Governing Board.
 
 ## Policies and procedures
 
-The FOCUS TSC is governed by the [Technical Charter](Specification%20Membership%20Agreement.pdf). The Charter provides a foundational structure for the TSC on topics such as its scope, how to make decisions, and how to make changes to itself.  At the same time, it grants the TSC a high degree of freedom when determining how to implement the policies of FOCUS.
+The FOCUS TSC is governed by the [Technical Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf). The Charter provides a foundational structure for the TSC on topics such as its scope, how to make decisions, and how to make changes to itself.  At the same time, it grants the TSC a high degree of freedom when determining how to implement the policies of FOCUS.
 
 The following policies and procedures have been adopted by the TSC.
 
 ### Making changes to this document
 
-Pull requests against this document that do not conflict with the [Technical Charter](Specification%20Membership%20Agreement.pdf) can be merged provided the following conditions have been met:
+Pull requests against this document that do not conflict with the [Technical Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf) can be merged provided the following conditions have been met:
 
 * There are no outstanding objections
 * There are two approvals by TSC members (not including the author)
