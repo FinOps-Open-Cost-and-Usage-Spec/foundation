@@ -31,8 +31,13 @@ FOCUS Operating Procedures
 
 ![Org Structure](images/org_structure.png?raw=true "Org Structure")
 
+**WIP: This structure is being confirmed with Linux Foundation legal**
+
 ### 2.2.1 Steering Committee
 
+  
+  **WIP: This structure is being confirmed with Linux Foundation legal**
+  
   One of the more important duties of the Steering Committee (SC) is the approval of the Specifications and other works produced as a consensus product of the FOCUS Working Groups.
 
   The Steering Committee is initially composed of a representative of the founding members of the Organization and it has a single primary member representing each company. Additional SC members will be appointed by the FinOps Foundation Governing Board as specified in the FOCUS Project Governance document.
@@ -158,11 +163,11 @@ Table 3.0-1: Membership Benefits
 |                        | May propose a Work Package                                       |    Yes   |   Yes   |     Yes     |
 |                        | Counted towards minimum support quorum of a Work Package         |    Yes   |   Yes   |     Yes     |
 | **Voting**                                                                                                                   |
-|                        | Approval of Publications, Working Group formation and Governance |    Yes   |    **   |      **     |
+|                        | Approval of Publications, FOCUS (working) Group formation and Governance |    Yes   |    **   |      **     |
 |                        | Vote in a Supermajority vote                                     |    Yes   |    No   |      No     |
-|                        | Vote in an informal technical vote                               |    Yes   |   Yes   |     Yes     |
+|                        | Vote in an FOCUS (working) group vote                               |    Yes   |   Yes   |     Yes     |
 | **Access to Meetings**                                                                                                       |
-|                        | Attend Work Group meetings (any mode)                            |    Yes   |   Yes   |     Yes     |
+|                        | Attend FOCUS (Work) Group meetings (any mode)                            |    Yes   |   Yes   |     Yes***     |
 | **Process Administration**                                                                                                   |
 |                        | May propose the creation of a Working Group                      |    Yes   |   Yes   |      No     |
 |                        | May appeal on technical issues                                   |    Yes   |   Yes   |     Yes     |
@@ -170,6 +175,7 @@ Table 3.0-1: Membership Benefits
 
 \* The FOCUS SC may appoint individuals to these roles at its discretion
 \*\* The FinOps Foundation Governing Board may appoint individuals to these roles at its discretion
+\*\*\* Approval by the FOCUS Group chairperson
 
 # 4\. FOCUS Working Group (FG) Meetings
 
