@@ -11,7 +11,7 @@ FOCUS is a community specification that works to establish an open standard for 
 ## Membership Documents
 
 * FOCUS [Membership Agreement](FOCUS_-_Membership_Agreement_Package_for_use.pdf) and [Code of Conduct](code_of_conduct.md)
-* FinOps Foundation Membership: [F2 Membership](https://finops.org/membership)
+* FinOps Foundation [Membership Agreement](https://cdn.platform.linuxfoundation.org/agreements/finops.pdf) and [Code of Conduct](https://github.com/finopsfoundation/foundation/blob/main/code_of_conduct.md)
 
 ## Contributing to FOCUS repositories
 

@@ -102,17 +102,17 @@ We thank all our prior SC members for their contribution:
 
 ### Becoming a SC Member
 
-The [Technical Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf) describes the composition of the SC. The SC memberships are managed by the FinOps Foundation Governing Board.
+The [Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf) describes the composition of the SC. Membership levels of Member organizations are managed by the FinOps Foundation and Steering Committee memberships are voted on and approved by the FinOps Foundation Governing Board.
 
 ## Policies and procedures
 
-The FOCUS SC is governed by the [Technical Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf). The Charter provides a foundational structure for the SC on topics such as its scope, how to make decisions, and how to make changes to itself.  At the same time, it grants the SC a high degree of freedom when determining how to implement the policies of FOCUS.
+The FOCUS SC is governed by the [Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf). The Charter provides a foundational structure for the SC on topics such as its scope, how to make decisions, and how to make changes to itself.  At the same time, it grants the SC a high degree of freedom when determining how to implement the policies of FOCUS.
 
 The following policies and procedures have been adopted by the SC.
 
 ### Making changes to this repository
 
-Pull requests against documents in this repository that do not conflict with the [Technical Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf) can be merged provided the following conditions have been met:
+Pull requests against documents in this repository that do not conflict with the [Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf) can be merged provided the following conditions have been met:
 
 * There are no outstanding objections
 * There are two approvals by SC members (not including the author)
@@ -143,4 +143,4 @@ Each repository will be managed by the EasyCLA signature tool, ensuring that all
 
 ### Speaking on behalf of the FOCUS Project
 
-FOCUS Contributors as individuals are welcome to express opinions and messages of political advocacy in any of their personal spaces (e.g. personal Twitter, blog) as well as within GitHub issues and PR discussions, provided it adheres to our [Code of Conduct](code_of_conduct.md). We require approval via FOCUS SC vote prior to posting opinions or messages of political advocacy using the voice of the FOCUS project (e.g. within technical docs, project websites, project Twitter, READMEs, or anything merged into a git repository under the FOCUS organization).
+FOCUS contributors as individuals are welcome to express opinions and messages of political advocacy in any of their personal spaces (e.g. personal Twitter, blog) as well as within GitHub issues and PR discussions, provided it adheres to our [Code of Conduct](code_of_conduct.md). We require approval via FOCUS SC vote prior to posting opinions or messages of political advocacy using the voice of the FOCUS project (e.g. within technical docs, project websites, project Twitter, READMEs, or anything merged into a git repository under the FOCUS organization).
