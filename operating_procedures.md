@@ -47,12 +47,24 @@ FOCUS Operating Procedures
 
   The votes are taken only by the appointed representatives of the Steering Committee. Minutes of the meeting are taken to record the attendance, votes and their outcomes.
 
-### 2.2.2 Marketing Committee Team
+### 2.2.2 Steering Committee Approval
+
+  The FinOps Foundation Governing Board has set the following criteria for the FOCUS Project Steering Committee make up.
+
+  Criteria for appointment to the FOCUS Steering Committee from among FOCUS Members:
+  *  One member from the F2 Staff/Linux Foundation to initialize the project
+  *  At least 2 should represent Cloud Service Providers as producers of cloud billing data
+  *  At least 2 should be Premier Members of FinOps Foundation
+  *  At least 2 should be Consumers of the FOCUS work outputs and cloud billing data
+
+  FinOps GB designates all FOCUS Steering Committee members, and may add/remove FOCUS Steering Committee members to meet the criteria.
+
+### 2.2.3 Marketing Committee Team
 
   There will be no Marketing Committee within the FOCUS Project.
   Marketing and other Shared Services will be provided by the FinOps Foundation as the project’s funding sponsor.
 
-### 2.2.3 FOCUS [Working] Groups (FG)
+### 2.2.4 FOCUS [Working] Groups (FG)
 
   FOCUS Working Groups are chartered by the SC to handle one or more Work Packages. 
 
