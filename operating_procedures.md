@@ -157,9 +157,10 @@ Table 3.0-1: Membership Benefits
 | **Pricing**                                                                                                                          |
 |                        | Price                                                                    |    N/A   |   N/A   |     N/A     |
 | **Leadership**                                                                                                                       |
-|                        | Eligible to participate in the Steering Committee                        |    Yes   |   N/A   |      **     |
-|                        | Eligible for a Working Group Maintainer position                         |    Yes   |   N/A   |     Yes     |
-|                        | Eligible for a Working Group Co-Maintainer position                      |    Yes   |   N/A   |     Yes     |
+|                        | Eligible to participate in the Steering Committee                        |    Yes   |   N/A   |      No     |
+|                        | Eligible for a FOCUS (Working) Group Chair position                      |    Yes*  |   N/A   |     Yes*    |
+|                        | Eligible for a FOCUS (Working) Group Co-Chair position                   |    Yes*  |   N/A   |     Yes*    |
+|                        | Eligible for a FOCUS (Working) Maintainer position                       |    Yes** |    N/A  |     Yes**   |
 | **Participation**                                                                                                                    |
 |                        | Eligible to join a Working Group                                         |    Yes   |   N/A   |     Yes     |
 |                        | Eligible to join the Steering Committee                                  |    Yes   |   N/A   |      **     |
@@ -174,15 +175,14 @@ Table 3.0-1: Membership Benefits
 |                        | Vote in a Supermajority vote                                             |    Yes   |   N/A   |      No     |
 |                        | Vote in an FOCUS (working) group vote                                    |    Yes   |   N/A   |     Yes     |
 | **Access to Meetings**                                                                                                               |
-|                        | Attend FOCUS (Work) Group meetings (any mode)                            |    Yes   |   N/A   |     Yes***  |
+|                        | Attend FOCUS (Work) Group meetings (any mode)                            |    Yes   |   N/A   |     Yes**   |
 | **Process Administration**                                                                                                           |
 |                        | May propose the creation of a Working Group                              |    Yes   |   N/A   |     Yes     |
 |                        | May appeal on technical issues                                           |    Yes   |   N/A   |     Yes     |
 |                        | May appeal on procedural issues                                          |    Yes   |   N/A   |      No     |
 
 \* The FOCUS SC may appoint individuals to these roles at its discretion
-\*\* The FinOps Foundation Governing Board may appoint individuals to these roles at its discretion
-\*\*\* Approval by the FOCUS Group chairperson
+\*\* Approval by the FOCUS Group chairperson
 
 # 4\. FOCUS Working Group (FG) Meetings
 
