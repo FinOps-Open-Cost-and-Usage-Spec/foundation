@@ -182,6 +182,7 @@ Table 3.0-1: Membership Benefits
 |                        | May appeal on procedural issues                                          |    Yes   |   N/A   |      No     |
 
 \* The FOCUS SC may appoint individuals to these roles at its discretion
+
 \*\* Approval by the FOCUS Group chairperson
 
 # 4\. FOCUS Working Group (FG) Meetings
