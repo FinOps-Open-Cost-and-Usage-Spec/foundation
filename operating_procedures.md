@@ -18,25 +18,20 @@ FOCUS Operating Procedures
   There are three Membership levels:
 
   * Steering Members
-  * General Members
+  * General Members (Currently not in use)
   * Contributing Members
 
 ### 2.0.2 Membership Requirements
 
-  Steering Members of FOCUS must be Premier Members of the FinOps Foundation and have signed the FOCUS Project CLA. 
-  General Members of FOCUS must be General Members of the Finops Foundation and have signed the FOCUS Project CLA
-  Contributing Members of FOCUS are individual contributors that do not require any membership with the FinOps Foundation and have signed the FOCUS Project CLA.
+  Steering Members of FOCUS are individuals selected by organizations that have been designated by the FinOps Foundation Governing Board as members and have signed the FOCUS Project CLA. 
+  General Members of FOCUS are currently not in use.
+  Contributing Members of FOCUS are individual contributors that do not require any membership with the FinOps Foundation and have signed the FOCUS Project CLA along with their corporations.
 
 ## 2.2 Organization Structure
 
 ![Org Structure](images/org_structure.png?raw=true "Org Structure")
 
-**WIP: This structure is being confirmed with Linux Foundation legal**
-
 ### 2.2.1 Steering Committee
-
-  
-  **WIP: This structure is being confirmed with Linux Foundation legal**
   
   One of the more important duties of the Steering Committee (SC) is the approval of the Specifications and other works produced as a consensus product of the FOCUS Working Groups.
 
@@ -145,33 +140,33 @@ FOCUS Operating Procedures
 # 3\. Membership Benefits
 
 Table 3.0-1: Membership Benefits
-| Benefit Area           | Benefit                                                          | Steering | General | Contributor |
-|------------------------|------------------------------------------------------------------|----------|---------|-------------|
-| **Pricing**                                                                                                                  |
-|                        | Price                                                            |    N/A   |   N/A   |     N/A     |
-| **Leadership**                                                                                                               |
-|                        | Eligible to participate in the Steering Committee                |    Yes   |    **   |      **     |
-|                        | Eligible for a Working Group Maintainer position                 |    Yes   |   Yes   |     Yes     |
-|                        | Eligible for a Working Group Co-Maintainer position              |    Yes   |   Yes   |     Yes     |
-| **Participation**                                                                                                            |
-|                        | Eligible to join a Working Group                                 |    Yes   |   Yes   |     Yes     |
-|                        | Eligible to join the Steering Committee                          |    Yes   |    **   |      **     |
-|                        | Eligible to join the Marketing Team                              |    N/A   |   N/A   |     N/A     |
-| **Contribution**                                                                                                             |
-|                        | Contribute to Working Groups                                     |    Yes   |   Yes   |     Yes     |
-|                        | Propose new working groups                                       |    Yes   |   Yes   |      No     |
-|                        | May propose a Work Package                                       |    Yes   |   Yes   |     Yes     |
-|                        | Counted towards minimum support quorum of a Work Package         |    Yes   |   Yes   |     Yes     |
-| **Voting**                                                                                                                   |
-|                        | Approval of Publications, FOCUS (working) Group formation and Governance |    Yes   |    **   |      **     |
-|                        | Vote in a Supermajority vote                                     |    Yes   |    No   |      No     |
-|                        | Vote in an FOCUS (working) group vote                               |    Yes   |   Yes   |     Yes     |
-| **Access to Meetings**                                                                                                       |
-|                        | Attend FOCUS (Work) Group meetings (any mode)                            |    Yes   |   Yes   |     Yes***     |
-| **Process Administration**                                                                                                   |
-|                        | May propose the creation of a Working Group                      |    Yes   |   Yes   |      No     |
-|                        | May appeal on technical issues                                   |    Yes   |   Yes   |     Yes     |
-|                        | May appeal on procedural issues                                  |    Yes   |   Yes   |      No     |
+| Benefit Area           | Benefit                                                                  | Steering | General | Contributor |
+|------------------------|--------------------------------------------------------------------------|----------|---------|-------------|
+| **Pricing**                                                                                                                          |
+|                        | Price                                                                    |    N/A   |   N/A   |     N/A     |
+| **Leadership**                                                                                                                       |
+|                        | Eligible to participate in the Steering Committee                        |    Yes   |   N/A   |      **     |
+|                        | Eligible for a Working Group Maintainer position                         |    Yes   |   N/A   |     Yes     |
+|                        | Eligible for a Working Group Co-Maintainer position                      |    Yes   |   N/A   |     Yes     |
+| **Participation**                                                                                                                    |
+|                        | Eligible to join a Working Group                                         |    Yes   |   N/A   |     Yes     |
+|                        | Eligible to join the Steering Committee                                  |    Yes   |   N/A   |      **     |
+|                        | Eligible to join the Marketing Team                                      |    N/A   |   N/A   |     N/A     |
+| **Contribution**                                                                                                                     |
+|                        | Contribute to Working Groups                                             |    Yes   |   N/A   |     Yes     |
+|                        | Propose new working groups                                               |    Yes   |   N/A   |     Yes     |
+|                        | May propose a Work Package                                               |    Yes   |   N/A   |     Yes     |
+|                        | Counted towards minimum support quorum of a Work Package                 |    Yes   |   N/A   |     Yes     |
+| **Voting**                                                                                                                           |
+|                        | Approval of Publications, FOCUS (working) Group formation and Governance |    Yes   |   N/A   |      No     |
+|                        | Vote in a Supermajority vote                                             |    Yes   |   N/A   |      No     |
+|                        | Vote in an FOCUS (working) group vote                                    |    Yes   |   N/A   |     Yes     |
+| **Access to Meetings**                                                                                                               |
+|                        | Attend FOCUS (Work) Group meetings (any mode)                            |    Yes   |   N/A   |     Yes***  |
+| **Process Administration**                                                                                                           |
+|                        | May propose the creation of a Working Group                              |    Yes   |   N/A   |     Yes     |
+|                        | May appeal on technical issues                                           |    Yes   |   N/A   |     Yes     |
+|                        | May appeal on procedural issues                                          |    Yes   |   N/A   |      No     |
 
 \* The FOCUS SC may appoint individuals to these roles at its discretion
 \*\* The FinOps Foundation Governing Board may appoint individuals to these roles at its discretion
