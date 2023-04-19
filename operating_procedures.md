@@ -11,7 +11,7 @@ FOCUS Operating Procedures
 
   All contributors to the FOCUS work products must be Members of FOCUS.
 
-  Membership is between FOCUS Project and the Employer of any contributing person unless that person is unemployed and joins as a Contributor as an individual.
+  Membership is between FOCUS Project and the Employer of any contributing person.
 
 ### 2.0.1 Membership Levels
 
@@ -23,9 +23,9 @@ FOCUS Operating Procedures
 
 ### 2.0.2 Membership Requirements
 
-  Steering Members of FOCUS are individuals selected by organizations that have been designated by the FinOps Foundation Governing Board as members and have signed the FOCUS Project CLA. 
+  Steering Members of FOCUS are organizations that have been designated by the FinOps Foundation Governing Board as members and have signed the FOCUS Project CLA. 
   General Members of FOCUS are currently not in use.
-  Contributing Members of FOCUS are individual contributors that do not require any membership with the FinOps Foundation and have signed the FOCUS Project CLA along with their corporations.
+  All organizations after the initial Members join as Contributing Members of FOCUS. Contributing Members are organizations that must sign the FOCUS Project CLA to become members.
 
 ## 2.2 Organization Structure
 
@@ -57,7 +57,7 @@ FOCUS Operating Procedures
   *  At least 2 should be Premier Members of FinOps Foundation
   *  At least 2 should be Consumers of the FOCUS work outputs and cloud billing data
 
-  FinOps GB designates all FOCUS Steering Committee members, and may add/remove FOCUS Steering Committee members to meet the criteria.
+  FinOps Foundation Governing Board designates all FOCUS Steering Committee members. The FinOps Foundation Governing Board may add/remove FOCUS Steering Committee members and reserve the right to alter the criteria.
 
 ### 2.2.3 Marketing Committee Team
 
@@ -454,15 +454,15 @@ Appendix A. - Checklist for Working Groups Chairs
 
 ## A2. General Responsibilities
 
-- [ ] Read, understand and follow the OMP processes as defined in the OMP Rules of Engagement, and ensure that all rules are followed. Where there is doubt, seek advice from the parent group chair or ORG Team Officers as appropriate.
-- [ ] Read, understand and follow any other related OMP procedures and guidelines. Familiarize themselves with IPR and Antitrust laws.
-- [ ] Ensure execution and fulfillment of the mandate bestowed on the group through its charter and assigned work packages. Work closely with the officers of the parent group to ensure the integrated approach required for OMP is achieved.
+- [ ] Read, understand and follow the FOCUS processes as defined in the FOCUS operational proceedures, and ensure that all rules are followed. Where there is doubt, seek advice from the Steering Committee.
+- [ ] Read, understand and follow any other related FOCUS procedures and guidelines. Familiarize themselves with IPR and Antitrust laws.
+- [ ] Ensure execution and fulfillment of the mandate bestowed on the group through its charter and assigned work packages. Work closely with the Steering Committee to ensure the integrated approach required for FOCUS is achieved.
 - [ ] Inform the parent group if the work of the group has been completed and recommend closure of the group.
 - [ ] Interact with other groups as may be necessary to fulfill the group's own or another group's, charter and work packages.
 - [ ] Interact with external fora (consistent with the liaison process) as necessary and report all interaction with external fora to the parent group.
 - [ ] At all times act fully impartially in conducting the group's mandate and be prepared to work confidentially with a group member if they wish to express any concerns in private.
 - [ ] Support, promote and keep updated the work packages as appropriate. Support the parent group with the responsibilities delegated.
-- [ ] Conduct all group business in a fair, reasonable and open manner in accordance with the approved OMP processes and procedures.
+- [ ] Conduct all group business in a fair, reasonable and open manner in accordance with the approved FOCUS processes and procedures.
 - [ ] Chairs: Arrange for an agreed number of co-chairs to support the chair in the group leadership; arrange the task assignment for the chairs and co-chairs, delegate assigned tasks to, and supervise, the co-chairs.
 - [ ] Co-chairs: Support the chair/convenor/interim chair in task assignment and execute delegated tasks and stand in for the chair as appropriate to fulfill the roles of the group.
 - [ ] Internally structure the group as appropriate (e.g. create/modify/close sub-working groups, etc) to best fulfill the mandate.
@@ -476,8 +476,8 @@ Appendix A. - Checklist for Working Groups Chairs
 - [ ] Moderate the meeting to ensure the work within the group progresses in a timely manner.
 - [ ] When issues are raised within the meeting that the chair considers editorial and that may result in lengthy discussions, the chair should direct the editor to handle these issues outside the face to face session or conference call session subject to agreement on the resulting changes.
 - [ ] For class Editorial PRs should be pre-reviewed, then in the meeting the chair should seek agreement and direct the editor to incorporate them in the document without further discussion during the meeting (unless non-editorial issues are raised).
-- [ ] Organize and run the meetings in accordance with the processes and procedures of OMP as defined in the OMP "Rules of Engagement" and other guidelines, and ensure that all rules are followed.
-- [ ] Where there is doubt, seek advice from the parent group chair or ORG Officers as appropriate. Issue a call for meeting agenda items in a timely manner as defined in the "Rules of Engagement". Ensure that an agenda is prepared for every meeting (face to face or by conference call).
+- [ ] Organize and run the meetings in accordance with the processes and procedures of FOCUS as defined in the FOCUS operational proceedures and other guidelines, and ensure that all rules are followed.
+- [ ] Where there is doubt, seek advice from the Steering Committee as appropriate. Issue a call for meeting agenda items in a timely manner as defined in the operational proceedures. Ensure that an agenda is prepared for every meeting (face to face or by conference call).
 - [ ] When scheduling non-face-to-face real-time meetings such as phone conferences, have in consideration the time zone of the participants.
 - [ ] Issue meeting agendas to fulfill the groups charter and work packages.
 - [ ] Monitor the discussion and activity of the group and facilitate to ensure that decisions are reached through consensus in a timely manner.
@@ -489,7 +489,7 @@ Appendix A. - Checklist for Working Groups Chairs
 ## A4. Administrative Aspects
 
 - [ ] Ensure the technical activities of the group are progressed in a timely manner in accordance with the processes and procedures defined in the "Rules of Engagement".
-- [ ] Organize and run the meetings in accordance with the processes and procedures of OMP as defined in the OMP "Rules of Engagement" and other documents, and ensure that all rules are followed. Where there is doubt, seek advice from the parent group chair or ORG Officers as appropriate.
+- [ ] Organize and run the meetings in accordance with the processes and procedures of FOCUS as defined in the FOCUS operational proceedures and other documents, and ensure that all rules are followed. Where there is doubt, seek advice from the parent group chair or ORG Officers as appropriate.
 
 ## A5. Technical Aspects
 
