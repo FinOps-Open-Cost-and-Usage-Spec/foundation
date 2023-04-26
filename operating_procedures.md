@@ -547,4 +547,3 @@ Abbreviations
 | JDF | Joint Development Foundation |
 | FG | FOCUS [Working] Group - used in place of WG/Working Group |
 | REPO | GitHub Repository for the Project or FOCUS Group |
-| IPR | Intellectual property rights |
