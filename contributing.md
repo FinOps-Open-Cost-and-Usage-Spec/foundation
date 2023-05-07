@@ -58,7 +58,7 @@ Examples of minor corrections include:
 
 The Working Group uses pull requests to track changes. To submit a change to the specification:
 
-**3.1.** Create a topic branch prefixed with the issue-id included in the name (e.g. issue#4-dimension-resource-name)
+**3.1.** Create a topic branch prefixed with the issue-id included in the name (e.g. 4-resource-name-dimension)
 
 **3.2.** Modify the Specification to Address the Issue. This work can happen outside of the GitHub flow as you and your team may want to do live collaboration on the spec content before converting to GitHub and Markdown. Once mostly aligned within your group, you can convert the content to markdown and submit the change to the topic branch created above.
 
