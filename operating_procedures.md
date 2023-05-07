@@ -228,12 +228,14 @@ After the Acceptance Period, this FinOps Working Group Transition will be comple
 ## 4.2 Meeting Agenda
 
 Each Meeting of an FG SHALL have a published Agenda published in a Google document and linked in the FOCUS Group Github repository.
+Meeting agenda is available here: [Agenda](https://docs.google.com/document/d/1ZmHoBRPm1krxiajMMzi72UcJS4Ux2RlIy4Kxjdg3Oyo/)
 
 ## 4.3 Meeting Minutes
 
 Each meeting of an FG shall record its minutes, including attendee list, in the designated Github repository for the FG. 
 
 Because FG meetings are expected to include members from many time zones regularly, each FG may elect to record its meetings using Zoom or similar meeting software. Links to these recordings SHALL be posted to the Github repository for the FG for no more than 60 days, before the recordings are deleted. Meeting minutes should be taken and posted in a Google document prior to meeting recordings being deleted. 
+Meeting minutes are captured in-line in the agenda, and is available here: [Agenda](https://docs.google.com/document/d/1ZmHoBRPm1krxiajMMzi72UcJS4Ux2RlIy4Kxjdg3Oyo/)
 
 # 5\. Technical Decision Making
 
