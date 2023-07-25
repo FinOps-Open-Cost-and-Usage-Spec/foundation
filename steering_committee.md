@@ -5,82 +5,7 @@ The FOCUS SC will be responsible for all oversight of the open source projects. 
 
 ## Charter and Code of Conduct
 
-The FOCUS SC is governed by the [Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf): confirm URL **, which establishes the Committee and its basic principles and procedures.  The charter is designed to provide the SC the freedom to govern itself in an efficient manner. This document establishes SC policies and procedures.
-
-In addition, as provided under the Charter, FOCUS will align with the FinOps Foundation [Code of Conduct](code_of_conduct.md) that applies to all FOCUS activities and spaces. If you believe there has been a violation of the Code of Conduct, please contact [hello@finops.org](mailto:hello@finops.org).
-
-## About the FOCUS project
-
-### What problem are we trying to solve?
-
-There’s no standard way to normalize key cloud cost and usage measures across multiple Cloud Service Providers (CSPs), Software as a Service (SaaS) products, or license sellers. This creates challenges for stakeholders when making decisions and quantifying the business value of cloud. This project will define a consistent set of measures, describe their origins, and prescribe and approach for surfacing the corresponding billing data via a shared data schema that is serviceable across all billing sources.
-
-This open specification will be critical for the FinOps community, especially as more and more service providers continue to enter the market with their own billing data formats and measures.
-
-### Why are we building this as a specification?
-
-The FinOps Foundation is the Sponsoring Project of FOCUS, but FOCUS will be a standalone specification Project to better protect and manage the intellectual property rights that will be necessary for users of the FOCUS Project outputs. In order for organizations to trust the specifications and reference implementations that result from the FOCUS Project, they must be able to rely upon the right to use these work products under the terms of license agreements.
-
-Establishing a FOCUS working group allows contributions, contributors, license rights, and any intellectual property rights to be clearly and precisely tracked over time. This ensures that those contributing to and relying upon the specification are protected.
-
-### How to get started with FOCUS?
-
-FOCUS will be developed using a hybrid contribution model, meaning that changes and additions may be proposed either via Github issues and pull requests or at FOCUS Working Group meetings. Github will be the official system of record for the Specifications and any other work products. The contribution model will be officially defined in the FOCUS repository.
-
-The Project will have multiple tiers of membership once established, but will work toward consensus approval of changes in every case possible. If you have a technical contribution to make to the Project, please contact us using the link below. If you would like to review or license the specification, reference implementations or other work products, please continue to check back here in Feburary 2023 to review the details available at that time.
-
-Also, please review the [Code of Conduct](code_of_conduct.md), [Scope](scope.md) files. Instructions for contributors are included in the [Contributing](contributing.md) file.
-
-### Who develops and maintains FOCUS?
-
-The specification is being developed by the [FinOps Foundation](https://www.finops.org) community with inspiration, guidance and resources from [Joint Development Foundation](https://www.jointdevelopment.org), the [Open Web Foundation agreements](https://openwebfoundation.org), the [Alliance for Open Media Patent License 1.0](https://aomedia.org/license/patent-license/), and the [Linux Foundation](https://www.linuxfoundation.org/).
-
-### Contributions
-
-Development of the FinOps Open Cost and Usage Specification (FOCUS) is managed by the [FOCUS Working Group](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec). This is the primary place where work is done on the FinOps Open Cost and Usage Specification (FOCUS).
-
-Members who are covered under a signed CLA membership agreement at the General Membership level or above are able to contribute to any FOCUS working group.
-
-Members who are covered under a signed CLA membership agreement at the Contributor Membership level are able to apply to the FOCUS group chair to contribute.
-
-## Steering Committee (SC) meetings
-
-The FOCUS SC will meet at a time and cadence to be determined by the SC. The goal is to meet regularly to address any agenda items quickly and openly.
-
-To attend a FOCUS SC meeting, you must open a PR to add your name to the list of attendees in the meeting agenda. If you have not signed the Membership Agreement you will be prompted to do so. You cannot attend until you have completed this document.
-
-### Scope
-
-The SC provides oversight for all FOCUS efforts within the scope of the project. This includes:
-
-* Approving formal releases of the FinOps Open Cost and Usage Specification (FOCUS).
-* Approving new projects and working groups.
-* Creating, transferring, organizing, and renaming GitHub repos under the [FOCUS GitHub org](https://github.com/FinOps-Open-Cost-and-Usage-Spec).
-* Resolving technical or community issues that span multiple projects, or are deadlocked within a project.
-* Delegating decisions on publishing releases.
-
-The scope of the SC should not include decisions that can be made within one of the projects, unless there is a specific issue that cannot be resolved and requires mediation. In general, the SC prefers that decisions be made at the lowest possible level.
-
-#### Decision-making authority
-
-The following table is a rough outline of who is responsible for decisions. In keeping with the principle that decisions should be made at the lowest possible level and as efficiently as possible, unless there is a specific escalation to the SC.
-
-| Decision | Who decides | Can it be delegated? |
-|---|---|---|
-| Create a new project or working group | SC | No |
-| Approve a Specification release | SC | No |
-| Release a reference implementation | SC or maintainers | Yes |
-| Adding a new repo in the FOCUS organization | SC | No |
-| Changes to this document | SC | No |
-
-
-## Who can participate on the SC
-
-SC meeting are open to anybody who wishes to participate. Aside from items which require a formal vote (such as approving specification verions or elections), anyone who has signed a CLA Membership Agreement may participate in discussions. As defined in the charter, the SC will use the consensus decision-making process as often as possible.
-
-The SC will also include a number of individuals who have been elected as members. These individuals are expected to be active participants on the SC, and to be engaged and responsive on matters that require a formal vote.
-
-You must add yourself to the meeting agenda via PR in order to be able to join a FOCUS meeting.
+The FOCUS SC is governed by the [Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf), which establishes the Committee and its basic principles and procedures. The charter is designed to provide the SC the freedom to govern itself in an efficient manner. This document establishes SC policies and procedures.
 
 ### SC Members
 
@@ -100,28 +25,41 @@ We thank all our prior SC members for their contribution:
 | -------------------------------------------------- | --------------------- | ----------- | ------------ |
 | - | - | - | - |
 
+
+One of the more important duties of the Steering Committee (SC) is the approval of the Specifications and other works produced as a consensus product of the FOCUS Working Groups.
+
+  The Steering Committee is initially composed of a representative of the founding members of the Organization and it has a single primary member representing each company. Additional SC members will be appointed by the FinOps Foundation Governing Board as specified in the FOCUS Project Governance document.
+
+  Each Steering Committee meeting is called on a regular interval, although this interval can be ad-hoc as long as the proper notice is given.
+
+  Proper notice of the Steering Committee (SC) meeting is given to its representatives including an agenda with the topics to be voted by the SC having been prepared with a proper notice period, typically 7 days.
+
+  A meeting of the Steering Committee should have a quorum of more than one half of currently serving Steering Committee participants for any call to vote to proceed.
+
+  Motions are made and accepted by a vote of the designated Steering Committee members. Members may debate the motion, make changes if thought fit, accept or reject the motion. It is an important principle that there is an opportunity for questions and clarifications of the motion in the process.
+
+  The votes are taken only by the appointed representatives of the Steering Committee. Minutes of the meeting are taken to record the attendance, votes and their outcomes.
+
 ### Becoming a SC Member
 
-The [Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf) describes the composition of the SC. Membership levels of Member organizations are managed by the FinOps Foundation and Steering Committee memberships are voted on and approved by the FinOps Foundation Governing Board.
+Section 3 of the [Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf) describes the composition of the SC. Membership levels of Member organizations are managed by the FinOps Foundation and Steering Committee memberships are voted on and approved by the FinOps Foundation Governing Board.
 
-## Policies and procedures
 
-The FOCUS SC is governed by the [Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf). The Charter provides a foundational structure for the SC on topics such as its scope, how to make decisions, and how to make changes to itself.  At the same time, it grants the SC a high degree of freedom when determining how to implement the policies of FOCUS.
+### Steering Committee Approval
 
-The following policies and procedures have been adopted by the SC.
+  The FinOps Foundation Governing Board has set the following criteria for the FOCUS Project Steering Committee make up.
+
+  Criteria for appointment to the FOCUS Steering Committee from among FOCUS Members:
+  *  One member from the F2 Staff/Linux Foundation to initialize the project
+  *  At least 2 should represent Cloud Service Providers as producers of cloud billing data
+  *  At least 2 should be Premier Members of FinOps Foundation
+  *  At least 2 should be Consumers of the FOCUS work outputs and cloud billing data
+
+  FinOps Foundation Governing Board designates all FOCUS Steering Committee members. The FinOps Foundation Governing Board may add/remove FOCUS Steering Committee members and reserve the right to alter the criteria.
 
 ### Making changes to this repository
 
-Pull requests against documents in this repository that do not conflict with the [Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf) can be merged provided the following conditions have been met:
-
-* There are no outstanding objections
-* There are two approvals by SC members (not including the author)
-* The PR has been open for at least 72 hours
-* The changes have been sent to the FinOps Foundation Governing Board for approval
-
-Pull requests that change governance of the SC (excluding the charter) must be open for at least 14 days.
-
-An exception is made for errata or to update meeting logistics. These may be landed immediately, provided all EasyCLA checks have passed.
+All changes to this repository will follow the process outlined in [changes.md](changes.md).
 
 ### Security policy
 
@@ -132,15 +70,3 @@ Our goal is to provide complete, accurate, and actionable disclosures once a rep
 In the case of responsible disclosures, the SC is expected to work in good faith toward a resolution that is in the best interest of the community, including coordinating with maintainers on pre-disclosure patches and the CVE process. As responsible and knowledgable stewards of the FOCUS ecosystem, the SC is empowered to negotiate the priority level and timelines for announcements and fixes.
 
 In the case of irresponsible disclosure, regardless of the circumstances, the SC is expected to make themselves available to convene urgently and to decide upon a communications and action plan.
-
-### Adding and archiving projects under the FinOps Open Cost and Usage Specification (FOCUS)
-
-The SC may add and archive specifications, projects, and their corresponding repositories by a majority vote.
-
-The SC is responsible for defining a policy and a naming convention for any repositories created or transferred into the [FOCUS Github org](https://github.com/FinOps-Open-Cost-and-Usage-Spec).
-
-Each repository will be managed by the EasyCLA signature tool, ensuring that all contributors have agreed to the FOCUS Membership Agreement.
-
-### Speaking on behalf of the FOCUS Project
-
-FOCUS contributors as individuals are welcome to express opinions and messages of political advocacy in any of their personal spaces (e.g. personal Twitter, blog) as well as within GitHub issues and PR discussions, provided it adheres to our [Code of Conduct](code_of_conduct.md). We require approval via FOCUS SC vote prior to posting opinions or messages of political advocacy using the voice of the FOCUS project (e.g. within technical docs, project websites, project Twitter, READMEs, or anything merged into a git repository under the FOCUS organization).

@@ -4,14 +4,14 @@ W3C Patent Workflow for Working Groups
 Workflow Overview
 -----------------
 
-In order to meet our W3C Patent requirements the following workflow has been outlined. All working groups working under this process must strictly follow this workflow.
+In order to meet our [W3C Patent][W3C Patent] requirements the following workflow has been outlined. All working groups working under this process must strictly follow this workflow.
 
 ![Document Release Workflow](images/FOCUS_Document_Release_Workflow_v1.0.1.png?raw=true "Document Release Workflow")
 
 GIT Repository Configuration
 ------------------
 
-In order to work within the W3C Patent process the following workflow has been outlined for all repositories working under the W3C Patent process inside the FOCUS organization.
+In order to work within the [W3C Patent][W3C Patent] process the following workflow has been outlined for all repositories working under the [W3C Patent][W3C Patent] process inside the FOCUS organization.
 
 Working group repos will have the following standard branches:
 
@@ -19,7 +19,7 @@ Working group repos will have the following standard branches:
 * `candidate_recommendation` (Equal to the "Candidate Recommendation" document status)
 * `main` (Equal to the "Recommendation" document status)
 
-The W3C Patent document statuses of "Last Call Working Draft" and "Proposed Recommendation" are reflected by Pull Requests to be reviewed and approved by the relevant groups.
+The [W3C Patent][W3C Patent] document statuses of "Last Call Working Draft" and "Proposed Recommendation" are reflected by Pull Requests to be reviewed and approved by the relevant groups.
 
 Git tags using [Semantic Versioning 2.0](https://semver.org/spec/v2.0.0.html) will be used to mark the official releases.
 
@@ -38,3 +38,6 @@ Minor corrections which do not materially change the document, such as:
 * Spacing issues
 
 Can be corrected via branch, pull request and merge. This is to avoid having to do the full 30 day release cycle to make these minor corrections.
+
+
+[W3C Patent]: http://www.w3.org/Consortium/Patent-Policy-20040205
