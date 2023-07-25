@@ -13,9 +13,9 @@ The current members of the FOCUS SC are:
 
 | Name                                               | Affiliation           | Term begins | Term ends    |
 | -------------------------------------------------- | --------------------- | ----------- | ------------ |
-| Mike Fuller | Linux Foundation | 3/29/2023 | 3/29/2025 |
-| Michael Flanakin | Microsoft | 3/29/2023 | 3/29/2025 |
-| Eleni Rundle | Google | 3/29/2023 | 3/29/2025 |
+| Mike Fuller                                        | Linux Foundation      | 3/29/2023   | 3/29/2025    |
+| Michael Flanakin                                   | Microsoft             | 3/29/2023   | 3/29/2025    |
+| Eleni Rundle                                       | Google                | 3/29/2023   | 3/29/2025    |
 
 #### Emeriti
 
@@ -23,7 +23,7 @@ We thank all our prior SC members for their contribution:
 
 | Name                                               | Affiliation           | Term began  | Term ended   |
 | -------------------------------------------------- | --------------------- | ----------- | ------------ |
-| - | - | - | - |
+| -                                                  | -                     | -           | -            |
 
 
 One of the more important duties of the Steering Committee (SC) is the approval of the Specifications and other works produced as a consensus product of the FOCUS Working Groups.
@@ -32,7 +32,7 @@ One of the more important duties of the Steering Committee (SC) is the approval 
 
   Each Steering Committee meeting is called on a regular interval, although this interval can be ad-hoc as long as the proper notice is given.
 
-  Proper notice of the Steering Committee (SC) meeting is given to its representatives including an agenda with the topics to be voted by the SC having been prepared with a proper notice period, typically 7 days.
+  Proper notice of the Steering Committee (SC) meeting is given to its representatives including an agenda with the topics to be voted by the SC having been prepared with a proper notice period - 7 days.
 
   A meeting of the Steering Committee should have a quorum of more than one half of currently serving Steering Committee participants for any call to vote to proceed.
 
@@ -45,7 +45,7 @@ One of the more important duties of the Steering Committee (SC) is the approval 
 Section 3 of the [Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf) describes the composition of the SC. Membership levels of Member organizations are managed by the FinOps Foundation and Steering Committee memberships are voted on and approved by the FinOps Foundation Governing Board.
 
 
-### Steering Committee Approval
+### Steering Committee Appointment
 
   The FinOps Foundation Governing Board has set the following criteria for the FOCUS Project Steering Committee make up.
 
