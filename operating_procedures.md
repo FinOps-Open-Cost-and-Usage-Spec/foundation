@@ -3,11 +3,7 @@ FOCUS Operating Procedures
 
 # 1\. Introduction
 
-  This document provides the working procedures used by the FOCUS Project. The [Project Charter]() establishes the terms upon which this project operates. This operational proceedure document outlines how the members of the project adhere to these terms. Terms in this document do not override the Project Charter, if there is any ambiguity between this document and the [Project Charter]().
-
-## 1.1 Changes to this document
-
-  All changes to this document must follow the process outlined in the [changes.md](changes.md) of this repository.
+  This document provides the working procedures used by the FOCUS Project. The [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf) establishes the terms upon which this project operates. This operational proceedure document outlines how the members of the project adhere to these terms. Terms in this document do not override the Project Charter, if there is any ambiguity between this document and the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
 
 # 2\. Governance
 
@@ -162,15 +158,15 @@ Table 3.0-1: Membership Benefits
 
 # 4\. FOCUS Working Group (FG) 
 
-Each FOCUS Working group will have an operational_proceedures.md document in the FOCUS Group GitHub respository that outlines their processes and proceedures.
+Each FOCUS Working group may have an operational_proceedures.md document in the FOCUS Group GitHub respository that outlines their processes and proceedures.
 
-# 7\. FOCUS Process Flows
+# 5\. FOCUS Process Flows
 
-The workflow for all Working Groups covered by the W3C patent process will follow the guidelines in [w3c_patent_workflow.md](w3c_patent_workflow.md).
+The workflow for all Working Groups covered by Patent Policy Option 4: W3C Mode will follow the guidelines in [w3c_mode_workflow.md](w3c_mode_workflow.md).
 
-# 8\. Github Flows
+# 6\. Github Flows
 
-## 8.1 GitHub Access Rights
+## 6.1 GitHub Access Rights
 
 Table 8.1-1: GitHub Access Rights
 |     Role           |                                                              Access Rights                                                                |   |
@@ -179,25 +175,25 @@ Table 8.1-1: GitHub Access Rights
 | FOCUS Maintainers  | WRITE - FOCUS Member permissions, plus merge to `working_draft` branch and work on `GitHub Projects`.                                     |   |
 | FOCUS Chair        | ADMINISTRATOR - FOCUS Maintainers permissions, they can also manage GitHub repository settings.                                           |   |
 
-# 9\. Publication
+# 7\. Publication
 
-## 9.1 GitHub
+## 7.1 GitHub
 
-Published releases of the FG outputs will be maintained on the 'main' branch of the respective FG REPOs. Each merge on this branch will be [tagged](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/managing-tags) with a version following Symantic Versioning. A `releases.md` file will be maintained in the REPO to allow consumers of the FG outputs to determine what has changed and when releases occurred.
+Published releases of the FG outputs will be maintained on the `main` branch of the respective FG REPOs. Each merge on this branch will be [tagged](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/managing-tags) with a version following Symantic Versioning. A `releases.md` file will be maintained in the REPO to allow consumers of the FG outputs to determine what has changed and when releases occurred.
 
-## 9.2 Website Releases
+## 7.2 Website Releases
 
 Some releases may be converted to web friendly formats (such as, PDF, HTML) and made available via the website [focus.finops.org](https://focus.finops.org/). These releases will clearly attribute the ownership of the material to the FOCUS Project and make it easy to identify the version of the publication.
 
-# 10\. Documentation
+# 8\. Documentation
 
-## 10.1 Terminology and Conventions
+## 8.1 Terminology and Conventions
 
-### 10.1.1 Language
+### 8.1.1 Language
 
 The default language for writing documentation is American English, English (United States).
 
-### 10.1.2 Conventions
+### 8.1.2 Conventions
 
 The keywords “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”,
 and “OPTIONAL” in this document are to be interpreted as described in [RFC2119].

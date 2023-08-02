@@ -57,10 +57,6 @@ Section 3 of the [Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf) des
 
   FinOps Foundation Governing Board designates all FOCUS Steering Committee members. The FinOps Foundation Governing Board may add/remove FOCUS Steering Committee members and reserve the right to alter the criteria.
 
-### Making changes to this repository
-
-All changes to this repository will follow the process outlined in [changes.md](changes.md).
-
 ### Security policy
 
 Security concerns that impact repos under the [FOCUS GitHub org](https://github.com/FinOps-Open-Cost-and-Usage-Spec) (including reference implementations and official tools) may be responsibly disclosed to the SC via any current SC member, with the expectation that they will be discussed and triaged by the SC as a whole. You may reach a subset of current SC members via [focus@finops.org](mailto:focus@finops.org).
