@@ -65,8 +65,6 @@ FOCUS Operating Procedures
 
   FG members MUST read the Project documentation (e.g.: this operational document, contribution guidelines, README, Contributing, and Release Planning documents) before attempting to submit an Issue or Pull Request
 
-  FG members must only contribute to FGs content that is not protected by patents or is not likely to have essential claims made against it. Contributions MUST only come from Members who have signed the CLA.
-
 ### 2.3.2 FOCUS Group Maintainer
   
   FG Maintainers are a subset of the FOCUS Group members who have been given write access to one or more FOCUS Working Group repositories within the FOCUS Project's Github organization. They will advance the day-to-day evolution of the specification and related work products.
