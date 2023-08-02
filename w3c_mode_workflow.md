@@ -6,7 +6,7 @@ Workflow Overview
 
 In order to meet our patent requirements the following workflow has been outlined. All FOCUS working groups working under Patent Policy Option 4: W3C Mode must strictly follow this workflow.
 
-![Document Release Workflow](images/FOCUS_Document_Release_Workflow_v1.0.1.png?raw=true "Document Release Workflow")
+![Document Release Workflow](images/FOCUS_Document_Release_Workflow_v1.0.2.png?raw=true "Document Release Workflow")
 
 GIT Repository Configuration
 ------------------
@@ -21,7 +21,7 @@ Working group repos will have the following standard branches:
 
 Git tags using [Semantic Versioning 2.0](https://semver.org/spec/v2.0.0.html) will be used to mark the official releases.
 
-![Git Workflow](images/FOCUS_GIT_Workflow_v1.0.1.png?raw=true "Git Workflow")
+![Git Workflow](images/FOCUS_GIT_Workflow_v1.0.2.png?raw=true "Git Workflow")
 
 All development work will be completed in the `working_draft` branch or in topic branches that are strictly merged back into the `working_draft` branch. When the specification hits development milestones and is ready to released a pull request is raised from the `working_draft` branch into the `candidate_recommendation` branch. This pull request is reviewed by the working_group before it is approved and merged by the Working Group Chair. 
 
