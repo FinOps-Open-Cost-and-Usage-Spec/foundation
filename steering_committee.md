@@ -45,7 +45,7 @@ One of the more important duties of the Steering Committee (SC) is the approval 
 Section 3 of the [Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf) describes the composition of the SC. Membership levels of Member organizations are managed by the FinOps Foundation and Steering Committee memberships are voted on and approved by the FinOps Foundation Governing Board.
 
 
-### Steering Committee Appointment
+### Steering Committee Membership Criteria
 
   The FinOps Foundation Governing Board has set the following criteria for the FOCUS Project Steering Committee make up.
 

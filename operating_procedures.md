@@ -3,44 +3,30 @@ FOCUS Operating Procedures
 
 # 1\. Introduction
 
-  This document provides the working procedures used by the FOCUS Project. The [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf) establishes the terms upon which this project operates. This operational proceedure document outlines how the members of the project adhere to these terms. Terms in this document do not override the Project Charter, if there is any ambiguity between this document and the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
+  This document provides the working procedures used by the Joint Development Foundation Projects, LLC, FinOps Open Cost and Usage Specification (FOCUS) Project. The [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf) establishes the terms upon which this project operates. This operational proceedure document outlines how the members of the project adhere to these terms. Terms in this document do not override the Project Charter, if there is any ambiguity between this document and the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
 
 # 2\. Governance
 
 ## 2.0 Membership
 
-  All contributors to the FOCUS work products must be Members of FOCUS.
+  All contributors to the FOCUS work products sign the [FOCUS Series Membership Agreement](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
 
   Membership is between FOCUS Project and the Employer of any contributing person.
 
-### 2.0.1 Membership Levels
-
-  There are three Membership levels:
-
-  * Steering Members
-  * General Members (Currently not in use)
-  * Contributing Members
-
-### 2.0.2 Membership Requirements
-
-  Steering Members of FOCUS are organizations that have been designated by the FinOps Foundation Governing Board as members and have signed the FOCUS Project CLA. 
-  General Members of FOCUS are currently not in use.
-  All organizations after the initial Members join as Contributing Members of FOCUS. Contributing Members are organizations that must sign the FOCUS Project CLA to become members.
-
-## 2.2 Organization Structure
+## 2.1 Organization Structure
 
 ![Org Structure](images/org_structure.png?raw=true "Org Structure")
 
-### 2.2.1 Steering Committee
+### 2.1.1 Steering Committee
   
   The Steering Committee roles, responsibilities and processes are covered in [steering_committee.md](steering_committee.md).
 
-### 2.2.2 Marketing Committee Team
+### 2.1.2 Marketing Committee Team
 
   There will be no Marketing Committee within the FOCUS Project.
   Marketing and other Shared Services will be provided by the FinOps Foundation as the project’s funding sponsor.
 
-### 2.2.3 FOCUS [Working] Groups (FG)
+### 2.1.3 FOCUS [Working] Groups (FG)
 
   FOCUS Working Groups are chartered by the SC to handle one or more Work Packages. 
 
