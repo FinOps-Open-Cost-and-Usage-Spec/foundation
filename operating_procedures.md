@@ -36,7 +36,7 @@ FOCUS Operating Procedures
 
   We use the term FOCUS Working Group or FOCUS Group, or the abbreviation FG to refer to the FOCUS working groups in non-legal documentation. In CLAs, licenses and governance documents the term "Working Group". 
 
-## 2.3 Organization Roles
+## 2.2 Organization Roles
 
   Organizational Roles involved in performing work within the Project or as a member of a FOCUS Working Group are:
 
@@ -45,13 +45,13 @@ FOCUS Operating Procedures
   * FOCUS Group Chair(s)
   * Support Staff
 
-### 2.3.1 FOCUS Group members (FG member)
+### 2.2.1 FOCUS Group members (FG member)
 
   An FG member is any individual creating content or commenting on an issue or pull request.
 
   FG members MUST read the Project documentation (e.g.: this operational document, contribution guidelines, README, Contributing, and Release Planning documents) before attempting to submit an Issue or Pull Request
 
-### 2.3.2 FOCUS Group Maintainer
+### 2.2.2 FOCUS Group Maintainer
   
   FG Maintainers are a subset of the FOCUS Group members who have been given write access to one or more FOCUS Working Group repositories within the FOCUS Project's Github organization. They will advance the day-to-day evolution of the specification and related work products.
 
@@ -73,7 +73,7 @@ FOCUS Operating Procedures
 
   An FG may select a new FG Maintainer or FG Maintainers upon Approval of the FG members, with the approval of the FG’s Chair.
 
-### 2.3.3 FOCUS Group Chair(s)
+### 2.2.3 FOCUS Group Chair(s)
 
   Chair(s) are a subset of the FOCUS Group members and are responsible for organizing activities around work product(s) developed by the FG, including:
   
@@ -97,7 +97,7 @@ FOCUS Operating Procedures
 
   The work and progress of the group is appropriately communicated through regular status reports to the SC. The Chair(s) MAY delegate tasks to other Chair(s).
 
-### 2.3.4 Support Staff
+### 2.2.4 Support Staff
 
   Where possible the FinOps Foundation staff will support the operations of the FOCUS Project. This may include:
 
