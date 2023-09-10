@@ -34,7 +34,7 @@ One of the more important duties of the Steering Committee (SC) is the approval 
 
   Proper notice of the Steering Committee (SC) meeting is given to its representatives including an agenda with the topics to be voted by the SC having been prepared with a proper notice period - 7 days.
 
-  A meeting of the Steering Committee should have a quorum of more than one half of currently serving Steering Committee participants for any call to vote to proceed.
+  A quorum of 51% of the Steering Committee is required for a vote to proceed.
 
   Motions are made and accepted by a vote of the designated Steering Committee members. Members may debate the motion, make changes if thought fit, accept or reject the motion. It is an important principle that there is an opportunity for questions and clarifications of the motion in the process.
 
