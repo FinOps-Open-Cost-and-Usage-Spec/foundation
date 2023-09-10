@@ -30,7 +30,7 @@ FOCUS Operating Procedures
 
   FOCUS Working Groups are chartered by the SC to handle one or more Work Packages. 
 
-  Each FOCUS Group will generate its own operational proceedures. Typically each FOCUS Group will work in its own Github repository or in a previously established Github repository within the FOCUS Project's GitHub Organization depending on the FOCUS Group's scope and deliverables. 
+  Each FOCUS Group may extend this operational proceedures with their own proceedures as long as they do not conflict or overrule any of the processes in this document or the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf). Typically each FOCUS Group will work in its own Github repository or in a previously established Github repository within the FOCUS Project's GitHub Organization depending on the FOCUS Group's scope and deliverables. 
 
   A list of current and previous FOCUS Groups will be maintained in GitHub [focus_groups.md](focus_groups.md).
 
@@ -57,7 +57,7 @@ FOCUS Operating Procedures
 
   FG Maintainers are responsible for ensuring that the contents of documents and work products accurately reflect the decisions that have been made by the group, and that the specification adheres to formatting and content guidelines. 
 
-  FG Chair(s) will designate a FG Maintainer or FG Maintainers for the FG. FG Maintainer(s) work on behalf of the FG Chair(s).
+  FG Chair(s) will designate a FG Maintainer or FG Maintainers for the FG. FG Maintainer(s) are overseen by of the FG Chair(s).
 
   The FG Maintainer(s) MUST keep the project documentation up to date (e.g.: contributing, readme and release planning documents).
 
@@ -142,7 +142,7 @@ Table 3.0-1: Membership Benefits
 
 # 4\. FOCUS Working Group (FG) 
 
-Each FOCUS Working group may have an operational_proceedures.md document in the FOCUS Group GitHub respository that outlines their processes and proceedures.
+Each FOCUS Working group may have an operational_proceedures.md document in the FOCUS Group GitHub respository that outlines their extensions to the processes and proceedures as long as they do not conflict or overrule any of the processes in this document or the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
 
 # 5\. FOCUS Process Flows
 
@@ -158,6 +158,8 @@ Table 8.1-1: GitHub Access Rights
 | FOCUS Members      | TRIAGE - Can read and clone this repository, and push to a repository feature branches. Can also manage `GitHub Issues` and Pull Requests.|   |
 | FOCUS Maintainers  | WRITE - FOCUS Member permissions, plus merge to `working_draft` branch and work on `GitHub Projects`.                                     |   |
 | FOCUS Chair        | ADMINISTRATOR - FOCUS Maintainers permissions, they can also manage GitHub repository settings.                                           |   |
+
+All Members are required to have 2FA enabled.
 
 # 7\. Publication
 
