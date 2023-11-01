@@ -8,7 +8,7 @@ In order to meet our patent requirements the following workflow has been outline
 
 ![Document Release Workflow](images/FOCUS_Document_Release_Workflow_v1.0.3.png?raw=true "Document Release Workflow")
 
-GIT Repository Configuration
+Git Repository Configuration
 ------------------
 
 In order to abide by the requirements set out in the "Patent Policy Option 4: W3C Mode" of the project charter, the following workflow has been outlined.
