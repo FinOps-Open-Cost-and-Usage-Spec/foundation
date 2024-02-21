@@ -103,7 +103,7 @@ The next section contains more information on the workflow followed for Pull Req
 
 ## Monitoring Project Status
 
-Access the project board at [FOCUS WG](https://github.com/orgs/FinOps-Open-Cost-and-Usage-Spec/projects/5) to view the overall status, contributions, and pending tasks.
+Access the project board at [FOCUS WG](https://github.com/orgs/FinOps-Open-Cost-and-Usage-Spec/projects/5) to view the overall status, contributions, and pending tasks. The project contains the following stages:
 
 * **Creation & Triage:** WG members submit issues and PRs for evaluation, with Maintainers triaging to determine their impact, urgency, and whether to assign them to a Task Force or the Parking Lot.
 * **Parking Lot:** Items deemed valuable but not immediately actionable are placed here, awaiting further engagement and eventual processing.
