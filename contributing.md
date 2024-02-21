@@ -46,7 +46,7 @@ The issue lifecycle is mainly driven by the Maintainer. All issue types follow t
   * Spacing issues
 
 ## How to Contribute with a Pull Request
-* The Working Group uses pull requests to track changes. To submit a change to the specification follow these steps:
+The Working Group uses pull requests to track changes. To submit a change to the specification follow these steps:
 
 #### **1. Create a topic branch:** 
 * Prefixed with the issue-id included in the name (e.g. `4-resource-name-dimension`)
@@ -100,3 +100,21 @@ The next section contains more information on the workflow followed for Pull Req
 * An Approved pull request should stay open until the designated Maintainer merge the pull request.
 * Pull requests can be closed by the author without merging.
 * Pull requests may be closed by a Maintainer if the decision is made that it is not going to be merged.
+
+## Monitoring Project Status
+
+- Access the project board at [FOCUS WG](https://github.com/orgs/FinOps-Open-Cost-and-Usage-Spec/projects/5) to view the overall status, contributions, and pending tasks.
+
+## Release Planning
+For a detailed roadmap of the specification's development, please see the [RELEASE PLANNING]() document in the repository. 
+
+## Questions?
+
+If you have any questions or need further guidance, feel free to open an issue for discussion or contact the project maintainers directly.
+
+## Final Notes
+
+- **Patience is Key:** The specification development process is thorough and can take time. Please be patient as the WG and community work through the stages.
+- **Feedback is a Gift:** Whether positive or negative, feedback is an opportunity to improve. Embrace it.
+
+Thank you for contributing to the FOCUS Group projects. Your efforts help us to develop robust and effective specifications for the community.
