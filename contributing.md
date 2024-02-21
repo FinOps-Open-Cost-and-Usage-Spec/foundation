@@ -45,8 +45,11 @@ Examples of minor corrections include:
   * Miss labeled figures
   * Spacing issues
 
-### How to Contribute with a Pull Request
-The Working Group uses pull requests to track changes. To submit a change to the specification:
+## How to Contribute with a Pull Request
+The Working Group uses pull requests to track changes. 
+
+### Pull Request Lifecyle
+To submit a change to the specification:
 
 #### **1. Create a topic branch:** 
 Prefixed with the issue-id included in the name (e.g. `4-resource-name-dimension`)
