@@ -68,7 +68,9 @@ The next section contains more information on the workflow followed for Pull Req
 
 * **2.	Triage:** The Maintainer in charge of triaging will apply the proper fields and labels for the issue. This should include a milestone, category, and an 'awaiting review' label once all housekeeping tasks are done.
 
-* **3. Work in Progress:** 
+* **3. Work in Progress:** At this stage, the Working Group critically evaluates the pull request to thoroughly understand the issue and explore potential solutions.
+    * Contributors should actively engage in discussions and revisions. 
+    >Labels indicating the approval criteria will be assigned to guide evaluation.
 
 * **4.	Review & Approval:** All reviews will be completed using the Review and Approval process:
 
@@ -78,16 +80,15 @@ The next section contains more information on the workflow followed for Pull Req
         * `OBJECTION`: This comment SHOULD be used sporadically as convey a strong disagrement with the proposal and it cannot be merged as it is. If a pull request receives an `OBJECTION` the submitter MUST provide written details about the nature of this `OBJECTION`.
 
     * **APPROVAL CRITERIA:**
-* Reviewers MAY update labels as needed (such as needs rebase).
-* When a review is approved, the reviewer should add LGTM as a comment.
-* Final approval is required by a designated Editor. Merging is blocked without this final approval. Editors will factor reviews from all other reviewers into their approval process.
+        * During the Work in Progress phase, the group should establish and agree on the approval criteria for each pull request, denoted by a specific label. The criteria are as follows:
 
-**4.4.	Responsiveness** 
+            * **Editorial & Bug:** These can be merged by the Editor(s) directly, without needing full group consensus.
 
-Pull request owner should try to be responsive to comments by answering questions or changing text. Once all comments have been addressed, the pull request is ready to be merged.
+            * **Review Process:** A pull request can be merged if, after being reviewed for a specified number of days (X), it secures enough approvals from Members (Y) and Maintainers (Z), with no objections raised.
 
-**4.5.	Merge or Close**
+        >Final merging requires the designated Maintainer's approval, with Editors incorporating feedback from all reviews into the final decision.
 
-* A pull request should stay open until a Maintainer has marked the pull request as approved.
-* Pull requests can be closed by the author without merging.
-* Pull requests may be closed by a Maintainer if the decision is made that it is not going to be merged.
+
+* **5.	Merge or Close:** An Approved pull request should stay open until the designated  Maintainer merge the pull request.
+    * Pull requests can be closed by the author without merging.
+    * Pull requests may be closed by a Maintainer if the decision is made that it is not going to be merged.
