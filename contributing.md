@@ -12,9 +12,16 @@ This Working Group accepts contributions via issues and  pull requests. The foll
 ## How to Contribute with Issues 
 Issues are used as the primary method for tracking anything to do with this specification Working Group.
 
-**Issue Types:**  There are four types of issues (each with their own corresponding label):
-* **Discussion Topic:** A category for tracking inquiries or functionality discussions for future reference, which may evolve into specification changes.
-* **Proposal, Spec Change, FinOps Use Case Feedback:** Processes for introducing, discussing, and implementing new ideas or changes in specifications, including feedback on FinOps use cases not supported by the current specification.
+**Issue Types:**  There are several types of issues (each with their own corresponding label):
+
+
+**Discussion Topic:** These are support or functionality inquiries that we want to have a record of for future reference. Depending on the discussion, these can turn into "Spec Change" issues.
+
+**Proposal:** Used for items that propose a new ideas or functionality that require a larger discussion. This allows for feedback from others before a specification change is actually written. All issues that are proposals should both have a label and an issue title of "Proposal: [the rest of the title]." A proposal does not require a milestone and can become a "Spec Change" once triaged.
+
+**Spec Change:** These track specific spec changes until they are completed. They can evolve from "Proposal" and "Discussion" items, or can be submitted directly. Each spec change will be placed into a milestone once triaged.
+
+* **FinOps Use Case Feedback:** Processes for introducing, discussing, and implementing new ideas or changes in specifications, including feedback on FinOps use cases not supported by the current specification.
 
 ### Issue Lifecycle
 
