@@ -5,7 +5,7 @@ The FOCUS Steering Comittee will be responsible for all oversight of the open so
 
 ## Charter and Code of Conduct
 
-The FOCUS Steering Committee is governed by the [Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf), which establishes the Committee and its basic principles and procedures. The charter is designed to provide the Steering Committee the freedom to govern itself in an efficient manner. This document establishes Steering Committee policies and procedures.
+The FOCUS Steering Committee is governed by the [Project Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf), which establishes the Committee and its basic principles and procedures. The charter is designed to provide the Steering Committee the freedom to govern itself in an efficient manner. This document establishes Steering Committee policies and procedures.
 
 ### FOCUS Steering Committee Members
 
@@ -42,7 +42,7 @@ One of the more important duties of the Steering Committee is the approval of th
 
 ### Becoming a FOCUS Steering Committee Member
 
-Section 3 of the [Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf) describes the composition of the Steering Committee. Membership levels of Member organizations are managed by the FinOps Foundation and Steering Committee memberships are voted on and approved by the FinOps Foundation Governing Board.
+Section 3 of the [Project Charter](FOCUS_-_Membership_Agreement_Package_for_use.pdf) describes the composition of the Steering Committee. Membership levels of Member organizations are managed by the FinOps Foundation and Steering Committee memberships are voted on and approved by the FinOps Foundation Governing Board.
 
 
 ### Steering Committee Membership Criteria
