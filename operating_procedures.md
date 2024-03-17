@@ -9,7 +9,7 @@ FOCUS Operating Procedures
 
 ## 2.0 Membership
 
-  All contributors to the FOCUS work products sign the [FOCUS Series Membership Agreement](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
+  All contributors to the FOCUS work products MUST sign the [FOCUS Series Membership Agreement](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
 
   Membership is between FOCUS Project and the Employer of any contributing person.
 
@@ -165,7 +165,7 @@ All Members are required to have 2FA enabled.
 
 ## 7.1 GitHub
 
-Published releases of the FG outputs will be maintained on the `main` branch of the respective FG REPOs. Each merge on this branch will be [tagged](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/managing-tags) with a version following Symantic Versioning. A `releases.md` file will be maintained in the REPO to allow consumers of the FG outputs to determine what has changed and when releases occurred.
+Published releases of the FG outputs will be maintained on the `main` branch of the respective FG REPOs. Each merge on this branch will be [tagged](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/managing-tags) with a version following Symantic Versioning. A [`RELEASE-PLANNING.md`](RELEASE-PLANNING.md) file will be maintained in the REPO to allow consumers of the FG outputs to determine what has changed and when releases occurred.
 
 ## 7.2 Website Releases
 
