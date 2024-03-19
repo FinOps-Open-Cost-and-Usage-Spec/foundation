@@ -107,7 +107,7 @@ Creating an issue for a minor correction might be overkill. The details provided
 * Pull requests may be closed by a Maintainer if the decision is made that it is not going to be merged.
 
 
-## Monitoring Project Status
+## 5. Monitoring Project Status
 
 Access the project board at [FOCUS WG](https://github.com/orgs/FinOps-Open-Cost-and-Usage-Spec/projects/5) to view the overall status, contributions, and pending tasks. The project contains the following stages:
 
@@ -117,14 +117,14 @@ Access the project board at [FOCUS WG](https://github.com/orgs/FinOps-Open-Cost-
 * **Review & Approval:** Items undergo a thorough review to ensure they meet the group's standards, with contributors expected to address comments and make necessary revisions promptly.
 * **Merged or Closed:** Contributions that meet approval criteria are merged, marking their successful addition, while those that don't are closed, providing learning opportunities for future submissions.
 
-## Release Planning
+## 6. Release Planning
 For a detailed roadmap of the specification's development, please see the [RELEASE PLANNING]() document in the repository. 
 
-## Questions?
+## 7. Questions?
 
 If you have any questions or need further guidance, feel free to open an issue for discussion or contact the project maintainers directly.
 
-## Final Notes
+## 8. Final Notes
 
 - **Patience is Key:** The specification development process is thorough and can take time. Please be patient as the WG and community work through the stages.
 - **Feedback is a Gift:** Whether positive or negative, feedback is an opportunity to improve. Embrace it.
