@@ -4,12 +4,12 @@ All repositories and files in this [FOCUS GitHub Organization](https://github.co
 
 Materials in this repository other than source code are provided as follows:
 
-Copyright (c) 2023 - 2024 Joint Development Foundation Projects, LLC, FinOps Open Cost and Usage Specification (FOCUS) Series and its contributors. All rights reserved. The materials are subject to the Creative Commons Attribution 4.0 International license (CC-BY-4.0), available at https://creativecommons.org/licenses/by/4.0/legalcode.
+Copyright (c) Joint Development Foundation Projects, LLC, FinOps Open Cost and Usage Specification (FOCUS) Series and its contributors. The materials in this repository are made available under the Creative Commons Attribution 4.0 International license (CC-BY-4.0), available at https://creativecommons.org/licenses/by/4.0/legalcode.
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed under a
+This work is made available under
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
