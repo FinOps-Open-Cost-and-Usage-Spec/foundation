@@ -13,7 +13,7 @@ This Working Group accepts contributions via pull requests (previously linked to
 
 **1.1.1.	Issue Types**  There are four types of issues (each with their own corresponding label):
 
-**1.1.1.1.	Discussion Topic:** These are support or functionality inquiries that we want to have a record of for future reference. Depending on the discussion, these can turn into "Spec Change" issues.
+**1.1.1.1.	Discussion Topic:** These are support or functionality inquiries that we want to have a record of for future reference. These can turn into "Spec Change" issues depending on the outcome of a discussion.
 
 **1.1.1.2.	Proposal:** Used for items that propose a new ideas or functionality that require a larger discussion. This allows for feedback from others before a specification change is actually written. 
 
@@ -23,14 +23,15 @@ This Working Group accepts contributions via pull requests (previously linked to
 
 ## 2.	Issue Lifecycle
 
-The issue lifecycle is mainly driven by people assign to the Issue. All issue types follow the same general lifecycle. Differences are noted below.
+The issue lifecycle is mainly driven by people assigned to the Issue. All issue types follow the same general lifecycle. Differences are noted below.
 
 **2.1.	Issue Creation**
-The submitter needs to select one of the issue templates (Discussion Topic, Proposal, Spec Change, or FinOps Use Case Feedback, etc) when submitting an issue and fill out the details in the template.
+
+The submitter must select one of the issue templates (Discussion Topic, Proposal, Spec Change, or FinOps Use Case Feedback, etc) when submitting an issue and fill out the details in the template.
 
 **2.2.	Triage**
 
-The Maintainers will TRIAGE the issue and apply additional necessary fields and labels. This includes fields for target release, category, and metadata.
+The Maintainers will triage the issue and apply additional necessary fields and labels. This includes fields for target release, category, and metadata.
 
 (If needed) Clean up the title to succinctly and clearly state the issue.
 
@@ -42,11 +43,12 @@ Feedback from the signed member community is expected and needed to ensure propo
 
 **2.4.	Issue Closure**
 
-The Issues can be closed by the Editors or a Maintainers. Issues linked to a merged PR will closed automatically. 
+The Issues can be closed Editors or Maintainers. Issues linked to a merged PR will closed automatically. 
 
 **2.5. Minor corrections**
 
 Minor corrections which do not materially change the document (such as the items listed below) can skip the issue creation process OR create a single running issue for a given version / milestone and reference it in pull requests.
+
 Examples of minor corrections include:
 * Spelling mistakes
 * Miss labeled figures
@@ -58,7 +60,7 @@ The Working Group uses pull requests to track changes. To submit a change to the
 
 **3.1.** Create a topic branch prefixed with the issue-id included in the name (e.g. 4-resource-name-dimension). Ensure that the group has agreed the creation of a PR based on a particular Issue.
 
-**3.2.** Modify the Specification to Address the Issue. This work can happen outside of the GitHub flow as you and your team may want to do live collaboration on the spec content before converting to GitHub and Markdown. Once mostly aligned within your group, you can convert the content to markdown and submit the change to the topic branch created above.
+**3.2.** Modify the Specification to Address the Issue. This work can happen outside of the GitHub flow, as you and your team may want to collaborate live on the spec content before converting to GitHub and Markdown. Once you are mostly aligned within your group, you can convert the content to Markdown and submit the change to the topic branch created above.
 
 **3.3.** Submit a Pull Request to merge the change from the topic branch to the 'working_draft' branch (see details below)
 
@@ -69,17 +71,20 @@ The Working Group uses pull requests to track changes. To submit a change to the
 The next section contains more information on the workflow followed for Pull Requests.
 
 **4.1.	Pull Request Creation**
-Pull requests must reference the issue they're working on in the title. Description can be used to describe the changes and reference if a particular issue will have multiple pull requests or if this is for the complete scope.
+
+Pull requests must reference the issue they're working on in the title. The description can describe the changes and indicate whether a particular issue will have multiple pull requests or if this is for the complete scope.
 
 The Maintainers and Group Members will decide how to move forward the PR. See below [Monitoring Porject Status](monitoring-project-status)
 
-Creating an issue for a minor correction might be overkill. The details provided in the pull request description would suffice in this case. See section [Minor corrections](#2.5.-minor-corrections) for details
+Creating an issue for a minor correction might be overkill. In this case, the details provided in the pull request description would suffice. See section [Minor corrections](#2.5.-minor-corrections) for details
 
 **4.2. Triage:** 
-* The Maintainers in charge of triaging will apply the proper fields and labels to the PR. This should include a milestone, category, and an 'awaiting review' label once all housekeeping tasks are done.
+
+* During triage, the assigned Maintainers will apply the proper fields and labels to the PR. Once all housekeeping tasks are done, this should include a milestone, category, and an 'awaiting review' label.
 
 **4.3. Work in Progress:** 
-* At this stage, the Working Group critically evaluates the pull request to thoroughly understand the issue and explore potential solutions.
+
+* At this stage, the Working Group critically evaluates the pull request to understand the issue and explore potential solutions thoroughly.
 * Contributors should actively engage in discussions and revisions. 
     >Labels indicating the approval criteria will be assigned to guide evaluation.
 
@@ -102,16 +107,16 @@ Creating an issue for a minor correction might be overkill. The details provided
         >Final merging requires the designated Maintainer's approval, with Editors incorporating feedback from all reviews into the final decision.
 
 **4.5. Merge or Close:** 
-* An Approved pull request should stay open until the designated Maintainer merge the pull request.
+* An Approved pull request should stay open until the designated Maintainer merges the pull request.
 * Pull requests can be closed by the author without merging.
-* Pull requests may be closed by a Maintainer if the decision is made that it is not going to be merged.
+* Pull requests may be closed by a Maintainer if the decision is made that they are not going to be merged.
 
 
 ## 5. Monitoring Project Status
 
 Access the project board at [FOCUS WG](https://github.com/orgs/FinOps-Open-Cost-and-Usage-Spec/projects/5) to view the overall status, contributions, and pending tasks. The project contains the following stages:
 
-* **Creation & Triage:** WG members submit issues and PRs for evaluation, with Maintainers triaging to determine their impact, urgency, and whether to assign them to a Task Force or the Parking Lot.
+* **Creation & Triage:** WG members submit issues and PRs for evaluation, with Maintainers triaging them to determine their impact, urgency, and whether to assign them to a Task Force or the Parking Lot.
 * **Parking Lot:** Items deemed valuable but not immediately actionable are placed here, awaiting further engagement and eventual processing.
 * **Work In Progress:** Task Forces actively discuss and refine Issues and PRs, focusing on problem-solving and solution exploration, with contributors encouraged to participate in discussions.
 * **Review & Approval:** Items undergo a thorough review to ensure they meet the group's standards, with contributors expected to address comments and make necessary revisions promptly.
