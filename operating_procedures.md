@@ -129,9 +129,9 @@ Table 3.0-1: Membership Benefits
 |                        | Approval of Publications, FOCUS (working) Group formation and Governance |    Yes   |   N/A   |      No     |
 |                        | Vote in a Steering Committee vote                                        |    Yes   |   N/A   |      No     |
 |                        | Vote in an FOCUS working group Supermajority vote                        |    Yes   |   N/A   |      No     |
-|                        | Participate in discussions that reach consensus                          |    Yes   |   N/A   |     Yes     |
+|                        | Participate in discussions that reach consensus                          |    Yes   |   Yes   |     Yes     |
 | **Access to Meetings**                                                                                                               |
-|                        | Attend FOCUS (Work) Group meetings (any mode)                            |    Yes   |   N/A   |     Yes     |
+|                        | Attend FOCUS (Work) Group meetings (any mode)                            |    Yes   |   Yes   |     Yes     |
 | **Process Administration**                                                                                                           |
 |                        | May propose the creation of a Working Group                              |    Yes   |   N/A   |     Yes     |
 |                        | May appeal on technical issues                                           |    Yes   |   N/A   |     Yes     |
