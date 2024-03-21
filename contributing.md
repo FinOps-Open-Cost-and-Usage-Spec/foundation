@@ -62,7 +62,7 @@ The Working Group uses pull requests to track changes. To submit a change to the
 
 **3.3.** Submit a Pull Request to merge the change from the topic branch to the 'working_draft' branch (see details below)
 
-**3.4.** Notify the Maintainers about your pull request and ask for feedback. Address comments on your topic branch until reviewers have approved.
+**3.4.** Notify the focus members about your pull request and ask for feedback. Address comments on your topic branch until reviewers have approved.
 
 ## 4.	Pull Request Workflow
 
