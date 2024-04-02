@@ -43,7 +43,7 @@ Feedback from the signed member community is expected and needed to ensure propo
 
 **2.4.	Issue Closure**
 
-The Issues can be closed Editors or Maintainers. Issues linked to a merged PR will closed automatically. 
+Issues can be closed by Editors or Maintainers. Issues linked to a merged PR will closed automatically.
 
 **2.5. Minor corrections**
 
