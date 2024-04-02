@@ -9,7 +9,7 @@ FOCUS Operating Procedures
 
 ## 2.0 Membership
 
-  All contributors to the FOCUS work products sign the [FOCUS Series Membership Agreement](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
+  All contributors to the FOCUS work products MUST sign the [FOCUS Series Membership Agreement](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
 
   Membership is between FOCUS Project and the Employer of any contributing person.
 
@@ -128,9 +128,10 @@ Table 3.0-1: Membership Benefits
 | **Voting**                                                                                                                           |
 |                        | Approval of Publications, FOCUS (working) Group formation and Governance |    Yes   |   N/A   |      No     |
 |                        | Vote in a Steering Committee vote                                        |    Yes   |   N/A   |      No     |
-|                        | Vote in an FOCUS (working) group vote                                    |    Yes   |   N/A   |     Yes     |
+|                        | Vote in an FOCUS working group Supermajority vote                        |    Yes   |   N/A   |      No     |
+|                        | Participate in discussions that reach consensus                          |    Yes   |   Yes   |     Yes     |
 | **Access to Meetings**                                                                                                               |
-|                        | Attend FOCUS (Work) Group meetings (any mode)                            |    Yes   |   N/A   |     Yes     |
+|                        | Attend FOCUS (Work) Group meetings (any mode)                            |    Yes   |   Yes   |     Yes     |
 | **Process Administration**                                                                                                           |
 |                        | May propose the creation of a Working Group                              |    Yes   |   N/A   |     Yes     |
 |                        | May appeal on technical issues                                           |    Yes   |   N/A   |     Yes     |
@@ -165,7 +166,7 @@ All Members are required to have 2FA enabled.
 
 ## 7.1 GitHub
 
-Published releases of the FG outputs will be maintained on the `main` branch of the respective FG REPOs. Each merge on this branch will be [tagged](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/managing-tags) with a version following Symantic Versioning. A `releases.md` file will be maintained in the REPO to allow consumers of the FG outputs to determine what has changed and when releases occurred.
+Published releases of the FG outputs will be maintained on the `main` branch of the respective FG REPOs. Each merge on this branch will be [tagged](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/managing-tags) with a version following Symantic Versioning. A [`RELEASE-PLANNING.md`](RELEASE-PLANNING.md) file will be maintained in the REPO to allow consumers of the FG outputs to determine what has changed and when releases occurred.
 
 ## 7.2 Website Releases
 
@@ -200,7 +201,7 @@ Appendix A. - Checklist for Working Groups Chairs
 - [ ] The chair has overall responsibility for the management of the group
 - [ ] Co-chairs can provide full cover for the Chair - the intent being continuity of leadership to the group Chairs and co-chairs are to behave as a single team generating the group's vision
 - [ ] Co-chairs provide the chair with a 2nd pair of eyes and ears to gauge the meeting
-- [ ] Officers have to have visibility of all officers' communications to ensure transparency in the leadership (e.g. a leadership mailing list)
+- [ ] Officers (Chairs, and Co-chairs) have to have visibility of all officers' communications to ensure transparency in the leadership (e.g. a leadership mailing list)
 - [ ] Chair needs to drive the co-chairs' support
 
 ## A2. General Responsibilities
