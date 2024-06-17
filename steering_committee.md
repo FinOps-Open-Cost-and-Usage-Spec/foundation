@@ -15,10 +15,10 @@ The current members of the FOCUS Steering Committee are:
 | -------------------------------------------------- | --------------------- | ----------- | ------------ |
 | Mike Fuller                                        | Linux Foundation      | 3/29/2023   | 3/29/2025    |
 | Michael Flanakin                                   | Microsoft             | 3/29/2023   | 3/29/2025    |
-| Sarah McMullin                                     | Google                | 3/29/2023   | 3/29/2025    |
-| Roy Wolman                                         | Amazon                | 3/29/2023   | 3/29/2025    |
-| Tim O'Brien                                        | Walmart               | 3/29/2023   | 3/29/2025    |
-| Anne Johnston                                      | Capital One           | 3/29/2023   | 3/29/2025    |
+| Sarah McMullin                                     | Google                | 10/10/2023   | 10/10/2025    |
+| Roy Wolman                                         | Amazon                | 10/10/2023   | 10/10/2025    |
+| Tim O'Brien                                        | Walmart               | 10/10/2023   | 10/10/2025    |
+| Anne Johnston                                      | Capital One           | 10/10/2023   | 10/10/2025    |
 
 #### Emeriti
 
