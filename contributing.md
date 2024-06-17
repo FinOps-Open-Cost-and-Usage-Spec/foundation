@@ -123,7 +123,7 @@ Access the project board at [FOCUS WG](https://github.com/orgs/FinOps-Open-Cost-
 * **Merged or Closed:** Contributions that meet approval criteria are merged, marking their successful addition, while those that don't are closed, providing learning opportunities for future submissions.
 
 ## 6. Release Planning
-For a detailed roadmap of the specification's development, please see the [RELEASE PLANNING]() document in the repository. 
+For a detailed roadmap of the specification's development, please see the [RELEASE PLANNING](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/RELEASE-PLANNING.md) document in the repository. 
 
 ## 7. Questions?
 
