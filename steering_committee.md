@@ -18,6 +18,7 @@ The current members of the FOCUS Steering Committee are:
 | Sarah McMullin                                     | Google                | 10/10/2023   | 10/10/2025    |
 | Roy Wolman                                         | Amazon                | 10/10/2023   | 10/10/2025    |
 | Tim O'Brien                                        | Walmart               | 10/10/2023   | 10/10/2025    |
+
 | Anne Johnston                                      | Capital One           | 10/10/2023   | 10/10/2025    |
 
 #### Emeriti
