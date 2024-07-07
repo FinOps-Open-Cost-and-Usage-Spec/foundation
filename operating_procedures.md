@@ -40,16 +40,49 @@ FOCUS Operating Procedures
 
   Organizational Roles involved in performing work within the Project or as a member of a FOCUS Working Group are:
 
-  * FOCUS Group members (FG member)
+  * FOCUS Group members (Contributors)
   * FOCUS Group Maintainer
   * FOCUS Group Chair(s)
   * Support Staff
 
-### 2.2.1 FOCUS Group members (FG member)
+### 2.2.1 FOCUS Group members (Contributors)
 
-  An FG member is any individual creating content or commenting on an issue or pull request.
+  An FOCUS Group Member or Contributor is any individual creating content or commenting on an issue or pull request.
 
-  FG members MUST read the Project documentation (e.g.: this operational document, contribution guidelines, README, Contributing, and Release Planning documents) before attempting to submit an Issue or Pull Request
+  FOCUS Contributors MUST read the Project documentation (e.g.: this operational document, contribution guidelines, README, Contributing, and RELEASE_PLANNING documents) before attempting to submit an Issue or Pull Request.
+
+  Contributors of the FOCUS project play a fundamental role in maintaining the collaborative and dynamic nature of the project by contributing to a variety of tasks. Their responsibilities encompass actively participating in members' and task force meetings, as well as engaging on GitHub. Contributors are crucial in labeling issues and pull requests, ensuring that these accurately reflect the content's nature and urgency. They are also involved in reviewing and providing constructive feedback on pull requests and issues, thus directly contributing to the refinement of project specifications and adherence to editorial guidelines.
+
+  In collaboration with Editors and Maintainers, Contributors help drive the evolution of project standards and participate in decision-making processes. Their engagement extends to the wider community through participation in discussions, staying informed about project updates and continuously enhancing their understanding of the evolving standards. Additionally, they provide essential input on project documentation, advocating for clarity, accuracy, and accessibility to ensure the documentation serves as a reliable resource.
+
+  These are some of the tasks where Contributors are expected to collaborate:
+
+* **Suggest Labels for PRs and Issues**
+  * Propose appropriate [labels](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/labels) to qualify items created (Pull Requests and Issues) at the creation time.
+  * Ensure labels reflect the nature and priority of each item.
+
+* **Review and Comment on PRs and Issues**
+  * Review [Pull Requests](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/pulls) and [Issues](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues), providing constructive feedback and suggestions.
+  * Engage in discussions to help refine and improve submissions.
+  * Review and comment on issues and PRs related to [Task Forces](https://github.com/orgs/FinOps-Open-Cost-and-Usage-Spec/projects/5), providing feedback and suggestions to enhance their work.
+  * Follow [Editorial Guidelines](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/Editorial_Guidelines.md) and rules when contributing to the FOCUS Specifications.
+
+* **Collaborate with Editors and Maintainers**
+  * Work closely with editors and maintainers to improve the specifications.
+  * Contribute to discussions and decision-making processes.
+
+* **Engage with the Community**
+  * Participate in community discussions and activities.
+  * Encourage new members to contribute and support their onboarding process.
+
+* **Stay Informed and Updated**
+  * Keep up-to-date with project developments and changes.
+  * Continuously learn about the standards and guidelines being developed.
+
+* **Provide Input on Documentation**
+  * Review project documentation and suggest improvements.
+  * Ensure that documentation is clear, accurate, and accessible.
+
 
 ### 2.2.2 FOCUS Group Maintainer
   
