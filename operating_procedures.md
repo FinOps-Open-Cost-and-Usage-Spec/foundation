@@ -49,7 +49,7 @@ FOCUS Operating Procedures
 
   An FOCUS Group Member or Contributor is any individual creating content or commenting on an issue or pull request.
 
-  FOCUS Contributors MUST read the Project documentation (e.g.: this operational document, contribution guidelines, README, Contributing, and RELEASE_PLANNING documents) before attempting to submit an Issue or Pull Request.
+  FOCUS Contributors MUST read the Project documentation (e.g.: this operational document, contribution guidelines, [README](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/README.md), [CONTRIBUTING](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/CONTRIBUTING.md), and [RELEASE_PLANNING](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/RELEASE-PLANNING.md) documents) before attempting to submit an Issue or Pull Request.
 
   Contributors of the FOCUS project play a fundamental role in maintaining the collaborative and dynamic nature of the project by contributing to a variety of tasks. Their responsibilities encompass actively participating in members' and task force meetings, as well as engaging on GitHub. Contributors are crucial in labeling issues and pull requests, ensuring that these accurately reflect the content's nature and urgency. They are also involved in reviewing and providing constructive feedback on pull requests and issues, thus directly contributing to the refinement of project specifications and adherence to editorial guidelines.
 
