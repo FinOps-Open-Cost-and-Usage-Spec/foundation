@@ -41,6 +41,24 @@ Feedback from the signed member community is expected and needed to ensure propo
 
 * Whoever is working on an issue should add his/her name to the issue. Issues MUST be linked to related Pull Requests. Use GitHub (Development) feature to link an Issue to a PR.
 
+***2.3.1. Issue Resources***
+
+To ensure that all contributors to an issue have access to the necessary resources and documents to support a discussion, the following steps will be taken to establish links to content relevant to an issue:
+
+(If needed) Maintainers will create a directory for issue discussion in the FOCUS file sharing system. The directory will be named using the issue number and will be located in a directory named "Discussion-Docs" in the root of the FOCUS file sharing system. A link to this directory will be provided in the issue's description under the heading "Issue Resources" in a list item named "Discussion Documents".  This directory MUST be used to store any relevant files or documents directly related to the issue being discussed. 
+
+If an issue discussion references a document outside of an issue's dedicated directory, a link to this external document MUST be supplied under the "Issue Resources" heading in a list item or sublist named "External Document(s)".
+
+(If needed) Maintainers will create a directory in GitHub under "supporting_content" to support the discussion of an issue. The directory will be created in the appropriate subdirectory, and a link to this directory MUST be added to the "Issue Resources" header in a list item named "Supporting Content".
+
+To summarize, the end of an Issue MAY contain a heading named "Issue Resources" with the following list items:
+
+* Discussion Documents: A link to the directory in the FOCUS file sharing system containing documents directly related to the discussion of an issue.
+* External Documents: A link to any documents outside of the current issue's dedicated discussion directory that are either relevant to the issue or have been mentioned in the issue's discussion.
+* Supporting Content: A link to a GitHub directory containing supporting content for the issue.
+
+(If needed) Maintainers will ensure that all contributors to an issue have access to resources listed in the Issue Resources section of an issue.
+
 **2.4.	Issue Closure**
 
 Issues can be closed by Editors or Maintainers. Issues linked to a merged PR will closed automatically.
