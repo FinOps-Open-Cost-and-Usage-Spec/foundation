@@ -198,6 +198,97 @@ The FinOps FOCUS Project is structured to ensure efficient collaboration and coo
 - **Maintainers**: Engage with stakeholders on technical matters; Ensure stakeholder expectations are met.
 - **Program Manager**: Primary liaison for all stakeholder communication; Integrate feedback into strategic planning; Manage stakeholder relationships.
 
+>Note: the group may decide to render the above content as a table:
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Grouped Tasks</th>
+      <th>Contributors</th>
+      <th>Editors</th>
+      <th>Task Force Conveners</th>
+      <th>Working Group Chair</th>
+      <th>Maintainers</th>
+      <th>Program Manager</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Create, Review & Feedback</td>
+      <td>Create, review and comment on PRs and issues; Provide constructive feedback</td>
+      <td>Approve editorial PRs; Enforce documentation standards</td>
+      <td>Lead task force meetings to review technical contributions; Approve or reject contributions</td>
+      <td>Lead working group meetings; Oversee comprehensive review processes; Address escalated issues</td>
+      <td>Final review and merge of PRs; Ensure compliance with technical standards; Support Editors</td>
+      <td>Oversee the overall review process; Ensure that project goals are met; Resolve conflicts</td>
+    </tr>
+    <tr>
+      <td>Labeling & Triage</td>
+      <td>Suggest labels for PRs and issues; Participate in labeling discussions</td>
+      <td>Validate and refine labels for editorial consistency</td>
+      <td>Oversee labeling specific to their task force; Ensure technical relevance of labels</td>
+      <td>Monitor overall labeling practices across task forces; Ensure consistency</td>
+      <td>Final approval of labels; Ensure proper categorization; Maintain label definitions</td>
+      <td>Oversee labeling strategy; Ensure alignment with project milestones and objectives</td>
+    </tr>
+    <tr>
+      <td>Collaboration & Coordination</td>
+      <td>Collaborate with Editors and Maintainers; Engage in task force meetings</td>
+      <td>Coordinate with Task Force Conveners; Support cross-team communication</td>
+      <td>Facilitate collaboration within the task force; Coordinate with other conveners and the Working Group Chair</td>
+      <td>Coordinate all task forces; Ensure alignment with project goals; Facilitate inter-task force collaboration</td>
+      <td>Coordinate technical work across teams; Manage integration of contributions; Support cross-functional communication</td>
+      <td>Ensure cohesive collaboration among all teams; Address process issues; Align team efforts with strategic goals</td>
+    </tr>
+    <tr>
+      <td>Community & Engagement</td>
+      <td>Engage with the community; Provide support to new contributors</td>
+      <td>Encourage community participation; Facilitate discussions on editorial improvements</td>
+      <td>Engage with stakeholders; Promote task force activities; Gather feedback</td>
+      <td>Facilitate community discussions; Engage with external stakeholders; Promote the project's mission</td>
+      <td>Foster community engagement; Support new contributors; Mentor community members</td>
+      <td>Primary contact for stakeholders; Maintain stakeholder engagement; Promote project visibility and community involvement</td>
+    </tr>
+    <tr>
+      <td>Documentation & Reporting</td>
+      <td>Contribute to documentation; Advocate for clarity and accessibility</td>
+      <td>Oversee document updates; Ensure accuracy and adherence to editorial standards</td>
+      <td>Document task force activities; Ensure documentation reflects technical accuracy and completeness</td>
+      <td>Ensure comprehensive documentation; Report task force activities to stakeholders; Address documentation gaps</td>
+      <td>Maintain overall documentation; Keep communication channels updated; Ensure repository accuracy</td>
+      <td>Comprehensive documentation; Prepare detailed status reports; Communicate project progress and challenges</td>
+    </tr>
+    <tr>
+      <td>Monitoring & Maintenance</td>
+      <td>Participate in monitoring discussions; Report issues</td>
+      <td>Oversee editorial quality and consistency in documentation</td>
+      <td>Monitor task force-specific contributions; Ensure ongoing relevance and accuracy</td>
+      <td>Monitor overall project quality; Ensure task forces are meeting their objectives; Address quality issues</td>
+      <td>Regular monitoring of repositories; Ensure technical accuracy and compliance; Implement best practices</td>
+      <td>Monitor overall project health and adherence to timelines; Ensure milestones are met</td>
+    </tr>
+    <tr>
+      <td>Learning & Improvement</td>
+      <td>Stay informed and updated; Participate in training sessions</td>
+      <td>Conduct editorial reviews; Recommend improvements based on best practices</td>
+      <td>Facilitate technical learning within the task force; Implement improvements based on feedback</td>
+      <td>Lead continuous improvement initiatives; Encourage innovation and the adoption of best practices</td>
+      <td>Continuous learning and implementation of new technologies; Mentor team members</td>
+      <td>Lead and promote a culture of continuous improvement; Facilitate training and professional development</td>
+    </tr>
+    <tr>
+      <td>Stakeholder Management</td>
+      <td>Provide feedback from the community; Participate in stakeholder discussions</td>
+      <td>N/A</td>
+      <td>Engage with stakeholders for feedback on task force outputs; Ensure stakeholder needs are addressed</td>
+      <td>Serve as the primary liaison for stakeholders; Integrate stakeholder feedback into the project</td>
+      <td>Engage with stakeholders on technical matters; Ensure stakeholder expectations are met</td>
+      <td>Primary liaison for all stakeholder communication; Integrate feedback into strategic planning; Manage stakeholder relationships</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 # 3\. Membership Benefits
 
