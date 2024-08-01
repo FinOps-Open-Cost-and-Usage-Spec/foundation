@@ -40,22 +40,37 @@ FOCUS Operating Procedures
 
   Organizational Roles involved in performing work within the Project or as a member of a FOCUS Working Group are:
 
-  * FOCUS Group members (Contributors)
-  * FOCUS Group Maintainer
-  * FOCUS Group Chair(s)
+  * Contributors (Members)
+  * Editors
+  * Task Force Conveners
+  * Working Group Chair
+  * Maintainers
   * Support Staff
 
-### 2.2.1 FOCUS Group members (Contributors)
 
-  An FOCUS Group Member or Contributor is any individual creating content or commenting on an issue or pull request.
+**Contributors**
 
-  FOCUS Contributors MUST read the Project documentation (e.g.: this operational document, contribution guidelines, [README](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/README.md), [CONTRIBUTING](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/CONTRIBUTING.md), and [RELEASE_PLANNING](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/RELEASE-PLANNING.md) documents) before attempting to submit an Issue or Pull Request.
+An FOCUS Group Member or Contributor is any individual creating content or commenting on an issue or pull request.
 
-  Contributors of the FOCUS project play a fundamental role in maintaining the collaborative and dynamic nature of the project by contributing to a variety of tasks. Their responsibilities encompass actively participating in members' and task force meetings, as well as engaging on GitHub. Contributors are crucial in labeling issues and pull requests, ensuring that these accurately reflect the content's nature and urgency. They are also involved in reviewing and providing constructive feedback on pull requests and issues, thus directly contributing to the refinement of project specifications and adherence to editorial guidelines.
+FOCUS Contributors MUST read the Project documentation (e.g.: this operational document, contribution guidelines, [README](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/README.md), [CONTRIBUTING](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/CONTRIBUTING.md), and [RELEASE_PLANNING](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/RELEASE-PLANNING.md) documents) before attempting to submit an Issue or Pull Request.
 
-  In collaboration with Editors and Maintainers, Contributors help drive the evolution of project standards and participate in decision-making processes. Their engagement extends to the wider community through participation in discussions, staying informed about project updates and continuously enhancing their understanding of the evolving standards. Additionally, they provide essential input on project documentation, advocating for clarity, accuracy, and accessibility to ensure the documentation serves as a reliable resource.
+Contributors of the FOCUS project play a fundamental role in maintaining the collaborative and dynamic nature of the project by contributing to a variety of tasks. Their responsibilities encompass actively participating in members' and task force meetings, as well as engaging on GitHub. Contributors are crucial in labeling issues and pull requests, ensuring that these accurately reflect the content's nature and urgency. They are also involved in reviewing and providing constructive feedback on pull requests and issues, thus directly contributing to the refinement of project specifications and adherence to editorial guidelines.
 
-  These are some of the tasks where Contributors are expected to collaborate:
+In collaboration with Editors and Maintainers, Contributors help drive the evolution of project standards and participate in decision-making processes. Their engagement extends to the wider community through participation in discussions, staying informed about project updates and continuously enhancing their understanding of the evolving standards. Additionally, they provide essential input on project documentation, advocating for clarity, accuracy, and accessibility to ensure the documentation serves as a reliable resource.
+
+**Editors**
+
+Editors within the FOCUS project are tasked with the crucial role of overseeing the quality and accuracy of documentation. Editor responsibilities include incorporating and notifying Members of the incorporation of editorial pull requests, managing document updates, and maintaining standards across all project materials. Editors collaborate closely with team members and task force conveners to refine project specifications and integrate new findings effectively. Additionally, they are responsible for enforcing editorial guidelines to ensure all contributions meet the project's quality expectations and are in line with established practices. This role is pivotal in sustaining the integrity and progression of the FOCUS project's documentation efforts.
+
+**Task Force Conveners**
+
+**Working Group Members Chair**
+
+**Maintainers**
+
+**Program Manager**
+
+
 
 * **Suggest Labels for PRs and Issues**
   * Propose appropriate [labels](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/labels) to qualify items created (Pull Requests and Issues) at the creation time.
