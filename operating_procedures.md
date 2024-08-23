@@ -127,78 +127,7 @@ Task Force Conveners are dedicated Maintainers within the FinOps FOCUS project w
 ### FinOps FOCUS Project Task Organization
 The FinOps FOCUS Project is structured to ensure efficient collaboration and coordination among various roles, each contributing to the overall success and continuous improvement of the project. The key tasks include creating, reviewing, and providing feedback on pull requests, managing labeling and triage, fostering community engagement, and maintaining comprehensive documentation. The project also emphasizes collaboration across teams, monitoring and maintaining project quality, and continuous learning. Stakeholder management is central to aligning the project with external needs and expectations. Each role, from Contributors to the Program Manager, plays a vital part in driving the project's mission forward, ensuring technical standards are met and fostering a supportive and inclusive community.
 
-#### 1. Create, Review & Feedback
-
-- **Contributors**: Create, review and comment on PRs and issues; Provide constructive feedback.
-- **Editors**: Approve editorial PRs; Enforce documentation standards.
-- **Task Force Conveners**: Lead task force meetings to review technical contributions; Approve or reject contributions.
-- **Working Group Chair**: Lead working group meetings; Oversee comprehensive review processes; Address escalated issues.
-- **Maintainers**: Final review and merge of PRs; Ensure compliance with technical standards; Support Editors.
-- **Program Manager**: Oversee the overall review process; Ensure that project goals are met; Resolve conflicts.
-
-#### 2. Labeling & Triage
-
-- **Contributors**: Suggest labels for PRs and issues; Participate in labeling discussions.
-- **Editors**: Validate and refine labels for editorial consistency.
-- **Task Force Conveners**: Oversee labeling specific to their task force; Ensure technical relevance of labels.
-- **Working Group Chair**: Monitor overall labeling practices across task forces; Ensure consistency.
-- **Maintainers**: Final approval of labels; Ensure proper categorization; Maintain label definitions.
-- **Program Manager**: Oversee labeling strategy; Ensure alignment with project milestones and objectives.
-
-#### 3. Collaboration & Coordination
-
-- **Contributors**: Collaborate with Editors and Maintainers; Engage in task force meetings.
-- **Editors**: Coordinate with Task Force Conveners; Support cross-team communication.
-- **Task Force Conveners**: Facilitate collaboration within the task force; Coordinate with other conveners and the Working Group Chair.
-- **Working Group Chair**: Coordinate all task forces; Ensure alignment with project goals; Facilitate inter-task force collaboration.
-- **Maintainers**: Coordinate technical work across teams; Manage integration of contributions; Support cross-functional communication.
-- **Program Manager**: Ensure cohesive collaboration among all teams; Address process issues; Align team efforts with strategic goals.
-
-#### 4. Community & Engagement
-
-- **Contributors**: Engage with the community; Provide support to new contributors.
-- **Editors**: Encourage community participation; Facilitate discussions on editorial improvements.
-- **Task Force Conveners**: Engage with stakeholders; Promote task force activities; Gather feedback.
-- **Working Group Chair**: Facilitate community discussions; Engage with external stakeholders; Promote the project's mission.
-- **Maintainers**: Foster community engagement; Support new contributors; Mentor community members.
-- **Program Manager**: Primary contact for stakeholders; Maintain stakeholder engagement; Promote project visibility and community involvement.
-
-#### 5. Documentation & Reporting
-
-- **Contributors**: Contribute to documentation; Advocate for clarity and accessibility.
-- **Editors**: Oversee document updates; Ensure accuracy and adherence to editorial standards.
-- **Task Force Conveners**: Document task force activities; Ensure documentation reflects technical accuracy and completeness.
-- **Working Group Chair**: Ensure comprehensive documentation; Report task force activities to stakeholders; Address documentation gaps.
-- **Maintainers**: Maintain overall documentation; Keep communication channels updated; Ensure repository accuracy.
-- **Program Manager**: Comprehensive documentation; Prepare detailed status reports; Communicate project progress and challenges.
-
-#### 6. Monitoring & Maintenance
-
-- **Contributors**: Participate in monitoring discussions; Report issues.
-- **Editors**: Oversee editorial quality and consistency in documentation.
-- **Task Force Conveners**: Monitor task force-specific contributions; Ensure ongoing relevance and accuracy.
-- **Working Group Chair**: Monitor overall project quality; Ensure task forces are meeting their objectives; Address quality issues.
-- **Maintainers**: Regular monitoring of repositories; Ensure technical accuracy and compliance; Implement best practices.
-- **Program Manager**: Monitor overall project health and adherence to timelines; Ensure milestones are met.
-
-#### 7. Learning & Improvement
-
-- **Contributors**: Stay informed and updated; Participate in training sessions.
-- **Editors**: Conduct editorial reviews; Recommend improvements based on best practices.
-- **Task Force Conveners**: Facilitate technical learning within the task force; Implement improvements based on feedback.
-- **Working Group Chair**: Lead continuous improvement initiatives; Encourage innovation and the adoption of best practices.
-- **Maintainers**: Continuous learning and implementation of new technologies; Mentor team members.
-- **Program Manager**: Lead and promote a culture of continuous improvement; Facilitate training and professional development.
-
-#### 8. Stakeholder Management
-
-- **Contributors**: Provide feedback from the community; Participate in stakeholder discussions.
-- **Task Force Conveners**: Engage with stakeholders for feedback on task force outputs; Ensure stakeholder needs are addressed.
-- **Working Group Chair**: Serve as the primary liaison for stakeholders; Integrate stakeholder feedback into the project.
-- **Maintainers**: Engage with stakeholders on technical matters; Ensure stakeholder expectations are met.
-- **Program Manager**: Primary liaison for all stakeholder communication; Integrate feedback into strategic planning; Manage stakeholder relationships.
-
->Note: the group may decide to render the above content as a table:
+The table below outlines the key roles and responsibilities across eight critical areas of our project, designed to enhance collaboration, uphold standards, and promote community engagement.
 
 <table border="1">
   <thead>
