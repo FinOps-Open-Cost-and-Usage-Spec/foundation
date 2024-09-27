@@ -40,18 +40,34 @@ FOCUS Operating Procedures
 
   Organizational Roles involved in performing work within the Project or as a member of a FOCUS Working Group are:
 
-  * FOCUS Group members (FG member)
-  * FOCUS Group Maintainer
-  * FOCUS Group Chair(s)
-  * Support Staff
+  * FOCUS Group Contributor (Members)
+  * FOCUS Group Editor
+  * FOCUS Group Task Force Convener
+  * FOCUS Group Maintainers
+  * FOCUS Working Group Chair
+  * FOCUS Group Support Staff
 
-### 2.2.1 FOCUS Group members (FG member)
 
-  An FG member is any individual creating content or commenting on an issue or pull request.
+### 2.2.1 Contributor
 
-  FG members MUST read the Project documentation (e.g.: this operational document, contribution guidelines, README, Contributing, and Release Planning documents) before attempting to submit an Issue or Pull Request
+An FOCUS Group Member or Contributor is any individual creating content or commenting on an issue or pull request.
 
-### 2.2.2 FOCUS Group Maintainer
+FOCUS Contributors MUST read the Project documentation (e.g.: this operational document, contribution guidelines, [README](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/README.md), [CONTRIBUTING](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/CONTRIBUTING.md), and [RELEASE_PLANNING](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/RELEASE-PLANNING.md) documents) before attempting to submit an Issue or Pull Request.
+
+Contributors of the FOCUS project play a fundamental role in maintaining the collaborative and dynamic nature of the project by contributing to a variety of tasks. Their responsibilities encompass actively participating in members' and task force meetings, as well as engaging on GitHub. Contributors are crucial in labeling issues and pull requests, ensuring that these accurately reflect the content's nature and urgency. They are also involved in reviewing and providing constructive feedback on pull requests and issues, thus directly contributing to the refinement of project specifications and adherence to editorial guidelines.
+
+In collaboration with Editors and Maintainers, Contributors help drive the evolution of project standards and participate in decision-making processes. Their engagement extends to the wider community through participation in discussions, staying informed about project updates and continuously enhancing their understanding of the evolving standards. Additionally, they provide essential input on project documentation, advocating for clarity, accuracy, and accessibility to ensure the documentation serves as a reliable resource.
+
+### 2.2.2 Editor
+
+Editors within the FOCUS project are tasked with the crucial role of overseeing the quality and accuracy of documentation. Editor responsibilities include incorporating and notifying Members of the incorporation of editorial pull requests, managing document updates, and maintaining standards across all project materials. Editors collaborate closely with team members and task force conveners to refine project specifications and integrate new findings effectively. Additionally, they are responsible for enforcing editorial guidelines to ensure all contributions meet the project's quality expectations and are in line with established practices. This role is pivotal in sustaining the integrity and progression of the FOCUS project's documentation efforts.
+
+### 2.2.3 Task Force Convener
+
+Task Force Conveners are dedicated Maintainers within the FinOps FOCUS project who take on the responsibility of leading specific technical workstreams or topics within Task Forces. This leadership role involves guiding the development and implementation of specialized areas of the project, ensuring that all activities align with the project's broader objectives. Conveners are essential in driving detailed technical work, fostering collaboration, and maintaining high standards within their respective domains.
+
+
+### 2.2.4 FOCUS Group Maintainer
   
   FG Maintainers are a subset of the FOCUS Group members who have been given write access to one or more FOCUS Working Group repositories within the FOCUS Project's Github organization. They will advance the day-to-day evolution of the specification and related work products.
 
@@ -73,7 +89,7 @@ FOCUS Operating Procedures
 
   An FG may select a new FG Maintainer or FG Maintainers upon Approval of the FG members, with the approval of the FG’s Chair.
 
-### 2.2.3 FOCUS Group Chair(s)
+### 2.2.5 FOCUS Group Chair(s)
 
   Chair(s) are a subset of the FOCUS Group members and are responsible for organizing activities around work product(s) developed by the FG, including:
   
@@ -97,7 +113,7 @@ FOCUS Operating Procedures
 
   The work and progress of the group is appropriately communicated through regular status reports to the SC. The Chair(s) MAY delegate tasks to other Chair(s).
 
-### 2.2.4 Support Staff
+### 2.2.6 Support Staff
 
   Where possible the FinOps Foundation staff will support the operations of the FOCUS Project. This may include:
 
@@ -105,6 +121,103 @@ FOCUS Operating Procedures
   * Project Management
   * Contractor time for dedicated contributions
   * Review and feedback on operational and technical content
+
+  > Note: The following section outlines the responsibilities and tasks specific to the Program Manager role.
+
+### FinOps FOCUS Project Task Organization
+The FinOps FOCUS Project is structured to ensure efficient collaboration and coordination among various roles, each contributing to the overall success and continuous improvement of the project. The key tasks include creating, reviewing, and providing feedback on pull requests, managing labeling and triage, fostering community engagement, and maintaining comprehensive documentation. The project also emphasizes collaboration across teams, monitoring and maintaining project quality, and continuous learning. Stakeholder management is central to aligning the project with external needs and expectations. Each role, from Contributors to the Program Manager, plays a vital part in driving the project's mission forward, ensuring technical standards are met and fostering a supportive and inclusive community.
+
+The table below outlines the key roles and responsibilities across eight critical areas of our project, designed to enhance collaboration, uphold standards, and promote community engagement.
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Grouped Tasks</th>
+      <th>Contributors</th>
+      <th>Editors</th>
+      <th>Task Force Conveners</th>
+      <th>Working Group Chair</th>
+      <th>Maintainers</th>
+      <th>Program Manager</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Create, Review & Feedback</td>
+      <td>Create, review and comment on PRs and issues; Provide constructive feedback</td>
+      <td>Approve editorial PRs; Enforce documentation standards</td>
+      <td>Lead task force meetings to review technical contributions; Approve or reject contributions</td>
+      <td>Lead working group meetings; Oversee comprehensive review processes; Address escalated issues</td>
+      <td>Final review and merge of PRs; Ensure compliance with technical standards; Support Editors</td>
+      <td>Oversee the overall review process; Ensure that project goals are met; Resolve conflicts</td>
+    </tr>
+    <tr>
+      <td>Labeling & Triage</td>
+      <td>Suggest labels for PRs and issues; Participate in labeling discussions</td>
+      <td>Validate and refine labels for editorial consistency</td>
+      <td>Oversee labeling specific to their task force; Ensure technical relevance of labels</td>
+      <td>Monitor overall labeling practices across task forces; Ensure consistency</td>
+      <td>Final approval of labels; Ensure proper categorization; Maintain label definitions</td>
+      <td>Oversee labeling strategy; Ensure alignment with project milestones and objectives</td>
+    </tr>
+    <tr>
+      <td>Collaboration & Coordination</td>
+      <td>Collaborate with Editors and Maintainers; Engage in task force meetings</td>
+      <td>Coordinate with Task Force Conveners; Support cross-team communication</td>
+      <td>Facilitate collaboration within the task force; Coordinate with other conveners and the Working Group Chair</td>
+      <td>Coordinate all task forces; Ensure alignment with project goals; Facilitate inter-task force collaboration</td>
+      <td>Coordinate technical work across teams; Manage integration of contributions; Support cross-functional communication</td>
+      <td>Ensure cohesive collaboration among all teams; Address process issues; Align team efforts with strategic goals</td>
+    </tr>
+    <tr>
+      <td>Community & Engagement</td>
+      <td>Engage with the community; Provide support to new contributors</td>
+      <td>Encourage community participation; Facilitate discussions on editorial improvements</td>
+      <td>Engage with stakeholders; Promote task force activities; Gather feedback</td>
+      <td>Facilitate community discussions; Engage with external stakeholders; Promote the project's mission</td>
+      <td>Foster community engagement; Support new contributors; Mentor community members</td>
+      <td>Primary contact for stakeholders; Maintain stakeholder engagement; Promote project visibility and community involvement</td>
+    </tr>
+    <tr>
+      <td>Documentation & Reporting</td>
+      <td>Contribute to documentation; Advocate for clarity and accessibility</td>
+      <td>Oversee document updates; Ensure accuracy and adherence to editorial standards</td>
+      <td>Document task force activities; Ensure documentation reflects technical accuracy and completeness</td>
+      <td>Ensure comprehensive documentation; Report task force activities to stakeholders; Address documentation gaps</td>
+      <td>Maintain overall documentation; Keep communication channels updated; Ensure repository accuracy</td>
+      <td>Comprehensive documentation; Prepare detailed status reports; Communicate project progress and challenges</td>
+    </tr>
+    <tr>
+      <td>Monitoring & Maintenance</td>
+      <td>Participate in monitoring discussions; Report issues</td>
+      <td>Oversee editorial quality and consistency in documentation</td>
+      <td>Monitor task force-specific contributions; Ensure ongoing relevance and accuracy</td>
+      <td>Monitor overall project quality; Ensure task forces are meeting their objectives; Address quality issues</td>
+      <td>Regular monitoring of repositories; Ensure technical accuracy and compliance; Implement best practices</td>
+      <td>Monitor overall project health and adherence to timelines; Ensure milestones are met</td>
+    </tr>
+    <tr>
+      <td>Learning & Improvement</td>
+      <td>Stay informed and updated; Participate in training sessions</td>
+      <td>Conduct editorial reviews; Recommend improvements based on best practices</td>
+      <td>Facilitate technical learning within the task force; Implement improvements based on feedback</td>
+      <td>Lead continuous improvement initiatives; Encourage innovation and the adoption of best practices</td>
+      <td>Continuous learning and implementation of new technologies; Mentor team members</td>
+      <td>Lead and promote a culture of continuous improvement; Facilitate training and professional development</td>
+    </tr>
+    <tr>
+      <td>Stakeholder Management</td>
+      <td>Provide feedback from the community; Participate in stakeholder discussions</td>
+      <td>N/A</td>
+      <td>Engage with stakeholders for feedback on task force outputs; Ensure stakeholder needs are addressed</td>
+      <td>Serve as the primary liaison for stakeholders; Integrate stakeholder feedback into the project</td>
+      <td>Engage with stakeholders on technical matters; Ensure stakeholder expectations are met</td>
+      <td>Primary liaison for all stakeholder communication; Integrate feedback into strategic planning; Manage stakeholder relationships</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 # 3\. Membership Benefits
 
