@@ -1,9 +1,9 @@
 Current FOCUS Groups
 --------------------
 
-Open Cloud Bill Spec
+Members' Group Information:
   * FOCUS Group Repository: https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec
-  * FOCUS Group Lead: Udam Dewaraja (FinOps Foundation) 
+  * FOCUS Group Lead: Shawn Alpay, (FinOps Foundation) 
 
 Previous FOCUS Groups
 ---------------------
