@@ -16,7 +16,7 @@ Members' Group Information:
  </thead>
  <tbody>
     <tr>
-        <td>8-Oct-24to Present<td> 
+        <td>8-Oct-24to Present</td> 
         <td>Shawn Alpay</td>
         <td>FinOps Foundation</td>
     </tr>
