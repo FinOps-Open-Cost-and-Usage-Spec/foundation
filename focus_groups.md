@@ -13,8 +13,8 @@ Members' Group Information:
         <th>Name</th>
         <th>Affiliation</th>
     </tr>
-</thead>
-<tbody>
+ </thead>
+ <tbody>
     <tr>
         <td>8-Oct-24to Present<td> 
         <td>Shawn Alpay</td>
@@ -25,7 +25,7 @@ Members' Group Information:
         <td>Udam Dewaraja</td>
         <td>FinOps Foundation</td>
     </tr>
-</tbody>
+ </tbody>
 </table>
 
 
