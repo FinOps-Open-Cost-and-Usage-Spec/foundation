@@ -26,11 +26,11 @@ FOCUS Operating Procedures
   There will be no Marketing Committee within the FOCUS Project.
   Marketing and other Shared Services will be provided by the FinOps Foundation as the project’s funding sponsor.
 
-### 2.1.3 FOCUS [Working] Groups (FG)
+### 2.1.3 FOCUS Working Groups (FG)
 
   FOCUS Working Groups are chartered by the SC to handle one or more Work Packages. 
 
-  Each FOCUS Group may extend this operational proceedures with their own proceedures as long as they do not conflict or overrule any of the processes in this document or the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf). Typically each FOCUS Group will work in its own Github repository or in a previously established Github repository within the FOCUS Project's GitHub Organization depending on the FOCUS Group's scope and deliverables. 
+  Each FOCUS Group may extend this operational procedures with their own procedures as long as they do not conflict or overrule any of the processes in this document or the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf). Typically each FOCUS Group will work in its own Github repository or in a previously established Github repository within the FOCUS Project's GitHub Organization depending on the FOCUS Group's scope and deliverables. 
 
   A list of current and previous FOCUS Groups will be maintained in GitHub [focus_groups.md](focus_groups.md).
 
