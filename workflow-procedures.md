@@ -15,6 +15,21 @@
     <figcaption>FOCUS Work Item Creation Phase</figcaption>
 </figure>
 
+### Review & Approval Process
+This diagram depicts the Review & Approval process. 
+
+It highlights:
+* Any objection SHOULD be submitted together with a rational artifact (Pull Request or Issue proposal)
+* In case of Technical Vote: 
+  * Only Steering & General Members can vote in a Supermajority vote.
+  * A Supermajority type of vote is required to resolve technical disputes. 
+    * This means that only the Steering Committee and General members can vote. 
+
+<figure>
+    <img src="images/FOCUS-Process-R&A-4.drawio.png" alt="Review & Approval Process">
+    <figcaption>Review & Approval Process</figcaption>
+</figure>
+
 ### Development Phase
 
 <figure>
