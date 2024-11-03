@@ -19,21 +19,19 @@ FOCUS Operating Procedures
 
 ### 2.1.1 Steering Committee
   
-  The Steering Committee roles, responsibilities and processes are covered in [steering_committee.md](steering_committee.md).
+  The Steering Committee roles, responsibilities, and processes are covered in [steering_committee.md](steering_committee.md).
 
 ### 2.1.2 Marketing Committee Team
 
   There will be no Marketing Committee within the FOCUS Project.
-  Marketing and other Shared Services will be provided by the FinOps Foundation as the project’s funding sponsor.
+  The FinOps Foundation will provide marketing and other Shared Services as the project’s funding sponsor.
 
 ### 2.1.3 FOCUS Working Groups (FG)
 
   FOCUS Working Groups are chartered by the SC to handle one or more Work Packages. 
-
-  Each FOCUS Group may extend this operational procedures with their own procedures as long as they do not conflict or overrule any of the processes in this document or the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf). Typically each FOCUS Group will work in its own Github repository or in a previously established Github repository within the FOCUS Project's GitHub Organization depending on the FOCUS Group's scope and deliverables. 
+  Each FOCUS Group may extend this operational procedures with their own procedures as long as they do not conflict or overrule any of the processes in this document or the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf). Typically each FOCUS Group will work in its own GitHub repository or a previously established GitHub repository within the FOCUS Project's GitHub Organization depending on the FOCUS Group's scope and deliverables. 
 
   A list of current and previous FOCUS Groups will be maintained in GitHub [focus_groups.md](focus_groups.md).
-
   We use the term FOCUS Working Group or FOCUS Group, or the abbreviation FG to refer to the FOCUS working groups in non-legal documentation. In CLAs, licenses and governance documents the term "Working Group". 
 
 ## 2.2 Organization Roles
@@ -50,9 +48,9 @@ FOCUS Operating Procedures
 
 ### 2.2.1 Contributor
 
-An FOCUS Group Member or Contributor is any individual creating content or commenting on an issue or pull request.
+FOCUS Group Member or Contributor is any individual creating content or commenting on an issue or pull request.
 
-FOCUS Contributors MUST read the Project documentation (e.g.: this operational document, contribution guidelines, [README](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/README.md), [CONTRIBUTING](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/CONTRIBUTING.md), and [RELEASE_PLANNING](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/RELEASE-PLANNING.md) documents) before attempting to submit an Issue or Pull Request.
+A FOCUS Contributors MUST read the Project documentation (e.g.: this operational document, contribution guidelines, [README](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/README.md), [CONTRIBUTING](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/CONTRIBUTING.md), and [RELEASE_PLANNING](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/RELEASE-PLANNING.md) documents) before attempting to submit an issue or pull request.
 
 Contributors of the FOCUS project play a fundamental role in maintaining the collaborative and dynamic nature of the project by contributing to a variety of tasks. Their responsibilities encompass actively participating in members' and task force meetings, as well as engaging on GitHub. Contributors are crucial in labeling issues and pull requests, ensuring that these accurately reflect the content's nature and urgency. They are also involved in reviewing and providing constructive feedback on pull requests and issues, thus directly contributing to the refinement of project specifications and adherence to editorial guidelines.
 
@@ -62,6 +60,8 @@ In collaboration with Editors and Maintainers, Contributors help drive the evolu
 
 Editors within the FOCUS project are tasked with the crucial role of overseeing the quality and accuracy of documentation. Editor responsibilities include incorporating and notifying Members of the incorporation of editorial pull requests, managing document updates, and maintaining standards across all project materials. Editors collaborate closely with team members and task force conveners to refine project specifications and integrate new findings effectively. Additionally, they are responsible for enforcing editorial guidelines to ensure all contributions meet the project's quality expectations and are in line with established practices. This role is pivotal in sustaining the integrity and progression of the FOCUS project's documentation efforts.
 
+Editors are designated by the WG Chair and ratified by the Working Group Members.
+
 ### 2.2.3 Task Force Convener
 
 Task Force Conveners are dedicated Maintainers within the FinOps FOCUS project who take on the responsibility of leading specific technical workstreams or topics within Task Forces. This leadership role involves guiding the development and implementation of specialized areas of the project, ensuring that all activities align with the project's broader objectives. Conveners are essential in driving detailed technical work, fostering collaboration, and maintaining high standards within their respective domains.
@@ -69,25 +69,32 @@ Task Force Conveners are dedicated Maintainers within the FinOps FOCUS project w
 
 ### 2.2.4 FOCUS Group Maintainer
   
-  FG Maintainers are a subset of the FOCUS Group members who have been given write access to one or more FOCUS Working Group repositories within the FOCUS Project's Github organization. They will advance the day-to-day evolution of the specification and related work products.
+  FG Maintainers are a subset of the FOCUS Group (FG) members who have been given write access to one or more FOCUS Working Group repositories within the FOCUS Project's Github organization. They will advance the day-to-day evolution of the specification and related work products.
 
   FG Maintainers are responsible for ensuring that the contents of documents and work products accurately reflect the decisions that have been made by the group, and that the specification adheres to formatting and content guidelines. 
 
-  FG Chair(s) will designate a FG Maintainer or FG Maintainers for the FG. FG Maintainer(s) are overseen by of the FG Chair(s).
+  FG Chair(s) designates any FG Maintainer(s) for the FG. FG Maintainers are overseen by the FG Chair(s). Maintainer designations will be revisited at the discretion of the FG chair, typically at the conclusion of a release cycle.  
 
-  The FG Maintainer(s) MUST keep the project documentation up to date (e.g.: contributing, readme and release planning documents).
+  To be designated as a Maintainer, individuals MUST:
 
-  The FG Maintainer(s) MUST apply the "Review & Approval" process—covered in 6.1 of this document—to contributions submitted by the Working Group members.
+   * Be involved as a Contributor consistently over at least one release cycle
+   * Lead or significantly contribute technical content to a major Issue or PR 
+   * Regularly participate in the Review & Approval process, including meeting discussions, issue/PR comments, asynchronous discourse (e.g. Slack), and PR approvals
+   * Continue these activities through each release cycle
+
+  The FG Maintainer(s) MUST keep the project documentation up to date (e.g.: CONTRIBUTING, README and RELEASE PLANNING documents), and MUST have a good working knowledge of GitHub and other Project tools in use.
+
+  The FG Maintainer(s) MUST apply the "Review & Approval" process-covered in this document-to contributions submitted by the Working Group members.
+
+  > Editor Note: Add link to Review & Approval section after adding "FOCUS Work Flow Procedures"
 
   The FG Maintainer(s) SHOULD use GitHub Labels to indicate the type of “Review & Approval” assigned to each Pull Request.
 
-  The FG Maintainer(s) SHOULD keep FOCUS project related communications with members  within GitHub using GitHub Issues or GitHub Pull Requests and corresponding GitHub comment functionality rather than one to one communications.
+  The FG Maintainer(s) SHOULD keep FOCUS project related communications with members  within GitHub using GitHub Issues or GitHub Pull Requests and corresponding GitHub comment functionality rather than one-to-one communications.
 
-  The FG Maintainer(s) SHOULD close contributions that do not follow the rules, or meet the right quality or are related to features that are in the scope of the Release Version under development.
+  The FG Maintainer(s) MAY suggest to close contributions that do not follow the rules, fail to meet the required quality standards, or are unrelated to the features in the scope of the Release Version under development.
 
   If an FG is working in Hybrid Contribution mode where some edits are being made outside of GitHub, the FG Maintainer will be responsible for exporting Github content into a FG working document format, and the subsequent porting of that updated working document content back into GitHub content. All access to exported working documents will be limited to the members of the FOCUS group only, no external contributions are allowed.
-
-  An FG may select a new FG Maintainer or FG Maintainers upon Approval of the FG members, with the approval of the FG’s Chair.
 
 ### 2.2.5 FOCUS Group Chair(s)
 
