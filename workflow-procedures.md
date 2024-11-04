@@ -15,7 +15,7 @@
 5. **Steering Committee Ratification:** Obtain higher-level oversight and approval for public release from the steering committee.
 6. **Technical Specification Publication:** Officially publish and release the specification with a version number for stakeholder implementation.
 
-### Work Item Creation Phase
+### 1. Work Item Creation Phase
 The below diagram illustrates the Work Item Creation phase, which is the first stage in the Specifications Lifecycle for the FinOps FOCUS project. The main purpose of this phase is to define and refine the scope for the next FOCUS release, such as e.g. v1.2, ensuring that all proposed work items align with strategic priorities and are well-documented and actionable.
 
 <figure>
@@ -37,8 +37,37 @@ The below diagram illustrates the Work Item Creation phase, which is the first s
 
 6. **Epic Assignment and Steering Committee Ratification:** Completed requirements are grouped into epics and presented to the Steering Committee for review. Through ratification, the committee finalizes which epics and associated work items will be included in the scope for the targeted release version, such as e.g., v1.2.
 
+### 2. Development Phase
+The **Specification Development** phase is a structured process in the FinOps FOCUS project, implemented in GitHub, that guides contributions from ideation to final approval. This phase ensures that all contributions—whether new features, modifications, or corrections—are thoroughly reviewed, aligned with project goals, and integrated into the technical baseline when approved. The workflow progresses through the following stages:
 
-### Review & Approval Process
+<figure>
+    <img src="images/FOCUS-Process-spec-dev-workflow.drawio.png" alt="Specification Development Phase">
+    <figcaption>FOCUS Specification Development Phase</figcaption>
+</figure>
+
+1. **Creation:**
+ * **WG Members Generate Contributions:** Working Group (WG) members initiate contributions by creating Issues or Pull Requests (PRs) on GitHub. These contributions represent proposed changes, new features, or corrections aligned with the project’s defined scope.
+ * **Parking Lot (Qualifiers):** Items that are either not immediately actionable or need further clarification are placed in the **Parking Lot** for future consideration. This stage allows the project to capture ideas and prioritize contributions that require additional refinement before moving forward.
+
+2. **Discussion:**
+ * **Triage:** All contributions are reviewed by the **Maintainers** who assess each item’s relevance, urgency, and alignment with project goals. During this **Triage** stage, maintainers determine which items should proceed to development, be redirected for more information, or remain in the **Parking Lot**.
+ * **Work in Progress:**
+    * Contributions approved in triage move to **Work in Progress**, where they undergo in-depth discussion and development.
+    * **Task Forces** (e.g., Task Force 1, 2, or 3) lead the discussion and development of contributions, focusing on technical details, implications, and solutions.
+    * **Maintainers** guide these discussions, ensuring that work progresses within project standards and timelines and that contributions align with the project’s broader objectives.
+
+3. **Review & Approval:**
+
+ * **WG Member Review & Approval:** Once contributions reach a mature state, they enter the **Review & Approval** phase. Here, WG members and maintainers thoroughly scrutinize each item for technical accuracy, completeness, and consistency with project standards.
+ * **Consensus-Based Decision:** Contributions are reviewed in a structured manner, with members engaging in discussions to address feedback and achieve consensus. If consensus is reached, the contribution moves forward. If further modifications are required, the item may be sent back for additional work or revision.
+
+4. **Conclusion:**
+
+ * **Merged or Closed:** At the end of the development phase, contributions are either:
+    * **Merged** into the technical baseline, formally incorporating the changes into the project.
+    * **Closed** if they are deemed unnecessary, outdated, or not aligned with current project goals.
+
+#### Review & Approval Process
 The diagram in this section outlines the **Review & Approval (R&A)** process, which is activated whenever consensus is required on proposed documents or decisions in the FOCUS project. This process typically takes place during FOCUS Members' Meetings, where members discuss, review, and seek to reach agreement on key items needing formal approval.
 
 The R&A process follows a structured path, emphasizing open discussion, consensus-building, and, if necessary, voting to resolve objections. The diagram serves as a guide for this process, detailing each stage and the possible outcomes.
@@ -51,44 +80,37 @@ The R&A process follows a structured path, emphasizing open discussion, consensu
 #### Key Highlights of the R&A Process:
 
 1. **Objections and Artifacts:**
-* Members who wish to object to a proposal are encouraged to submit an Objection Artifact, such as a Pull Request or Issue proposal, to clearly articulate their concerns and offer constructive alternatives.
+ * Members who wish to object to a proposal are encouraged to submit an Objection Artifact, such as a Pull Request or Issue proposal, to clearly articulate their concerns and offer constructive alternatives.
 
 2. **Decision Path:**
-* **Discussion:** The process begins with a collaborative discussion among members to understand different perspectives and address any concerns. The goal is to achieve consensus without formal voting.
-* **Decision:** Following discussion, a decision is made. If there are no objections, the proposal is marked as **Agreed** and merged or approved.
+ * **Discussion:** The process begins with a collaborative discussion among members to understand different perspectives and address any concerns. The goal is to achieve consensus without formal voting.
+ * **Decision:** Following discussion, a decision is made. If there are no objections, the proposal is marked as **Agreed** and merged or approved.
 
 3. **Handling Objections:**
-* If an objection is raised, members attempt to resolve it through consensus.
-* If consensus cannot be achieved, the objection is sustained, and the proposal moves to a Vote.
+ * If an objection is raised, members attempt to resolve it through consensus.
+ * If consensus cannot be achieved, the objection is sustained, and the proposal moves to a Vote.
+
 > Note: Vote a proposal is the last resort and while possible the group is highly encouraged to find a resolution witout voting.
 
 4. **Voting Requirements:**
-* **For Technical Votes:**
+ * **For Technical Votes:**
     * Only **Steering Members** and **General Members** are eligible to participate.
     * A **Supermajority Vote** is required to resolve technical disputes, ensuring that only the most critical disagreements necessitate formal voting and higher levels of consensus.
     * If the vote results in an agreement, the proposal proceeds as **Agreed** and is merged. If rejected, it may require further changes or be closed.
 
 5. **Final Outcomes:**
-* **Agreed / Merged:** If consensus is achieved or a vote passes, the proposal is approved and implemented.
-* **Rejected / Closed:** If consensus cannot be reached and the vote fails, the proposal is either closed or returned for further modifications.
+ * **Agreed / Merged:** If consensus is achieved or a vote passes, the proposal is approved and implemented.
+ * **Rejected / Closed:** If consensus cannot be reached and the vote fails, the proposal is either closed or returned for further modifications.
 
-This R&A process fosters an inclusive, structured approach to decision-making, ensuring that all member concerns are addressed, and important technical issues are resolved with input from both Steering and General Members. By establishing clear steps for consensus-building and a formal voting mechanism, the R&A process maintains rigor and accountability within the FOCUS project.
+This **R&A** process fosters an inclusive, structured approach to decision-making, ensuring that all member concerns are addressed, and important technical issues are resolved with input from both Steering and General Members. By establishing clear steps for consensus-building and a formal voting mechanism, the R&A process maintains rigor and accountability within the FOCUS project.
 
-### Development Phase
-
-<figure>
-    <img src="images/FOCUS-Process-spec-dev-workflow.drawio.png" alt="Specification Development Phase">
-    <figcaption>FOCUS Specification Development Phase</figcaption>
-</figure>
+### 3. Consistency & IPR Reviews
 
 
-### Consistency & IPR Reviews
+### 4. Working Group Final Approval
 
 
-### Working Group Final Approval
+### 5. Steering Committee Ratification
 
 
-### Steering Committee Ratification
-
-
-### Publication
+### 6. Publication
