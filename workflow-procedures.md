@@ -17,7 +17,7 @@ The **Specification Lifecycle** outlines the end-to-end process for creating, re
 6. **Technical Specification Publication:** Officially publish and release the specification with a version number for stakeholder implementation.
 
 ### 1. Work Item Creation Phase
-The below diagram illustrates the Work Item Creation phase, which is the first stage in the Specifications Lifecycle for the FinOps FOCUS project. The main purpose of this phase is to define and refine the scope for the next FOCUS release, such as e.g. v1.2, ensuring that all proposed work items align with strategic priorities and are well-documented and actionable.
+The below diagram illustrates the **Work Item Creation** phase, which is the first stage in the Specifications Lifecycle for the FinOps FOCUS project. The main purpose of this phase is to define and refine the scope for the next FOCUS release, such as e.g. v1.2, ensuring that all proposed work items align with strategic priorities and are well-documented and actionable.
 
 <figure>
     <img src="images/FOCUS-Process-work-item-creation-4.drawio.png" alt="Work Item Creation Phase">
@@ -47,12 +47,12 @@ The **Specification Development** phase is a structured process in the FinOps FO
 </figure>
 
 1. **Creation:**
- * **WG Members Generate Contributions:** Working Group (WG) members initiate contributions by creating Issues or Pull Requests (PRs) on GitHub. These contributions represent proposed changes, new features, or corrections aligned with the project’s defined scope.
- * **Parking Lot (Qualifiers):** Items that are either not immediately actionable or need further clarification are placed in the **Parking Lot** for future consideration. This stage allows the project to capture ideas and prioritize contributions that require additional refinement before moving forward.
+  * **WG Members Generate Contributions:** Working Group (WG) members initiate contributions by creating Issues or Pull Requests (PRs) on GitHub. These contributions represent proposed changes, new features, or corrections aligned with the project’s defined scope.
+  * **Parking Lot (Qualifiers):** Items that are either not immediately actionable or need further clarification are placed in the **Parking Lot** for future consideration. This stage allows the project to capture ideas and prioritize contributions that require additional refinement before moving forward.
 
 2. **Discussion:**
- * **Triage:** All contributions are reviewed by the **Maintainers** who assess each item’s relevance, urgency, and alignment with project goals. During this **Triage** stage, maintainers determine which items should proceed to development, be redirected for more information, or remain in the **Parking Lot**.
- * **Work in Progress:**
+  * **Triage:** All contributions are reviewed by the **Maintainers** who assess each item’s relevance, urgency, and alignment with project goals. During this **Triage** stage, maintainers determine which items should proceed to development, be redirected for more information, or remain in the **Parking Lot**.
+  * **Work in Progress:**
     * Contributions approved in triage move to **Work in Progress**, where they undergo in-depth discussion and development.
     * **Task Forces** (e.g., Task Force 1, 2, or 3) lead the discussion and development of contributions, focusing on technical details, implications, and solutions.
     * **Maintainers** guide these discussions, ensuring that work progresses within project standards and timelines and that contributions align with the project’s broader objectives.
