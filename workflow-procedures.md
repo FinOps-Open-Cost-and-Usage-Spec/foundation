@@ -52,26 +52,26 @@ The **Specification Development** phase is a structured process in the FinOps FO
 
 2. **Discussion:**
     * **Triage:** All contributions are reviewed by the **Maintainers** who assess each item’s relevance, urgency, and alignment with project goals. During this **Triage** stage, maintainers determine which items should proceed to development, be redirected for more information, or remain in the **Parking Lot**.
-     * **Work in Progress:**
+    * **Work in Progress:**
         * Contributions approved in triage move to **Work in Progress**, where they undergo in-depth discussion and development.
          * **Task Forces** (e.g., Task Force 1, 2, or 3) lead the discussion and development of contributions, focusing on technical details, implications, and solutions.
          * **Maintainers** guide these discussions, ensuring that work progresses within project standards and timelines and that contributions align with the project’s broader objectives.
 
 3. **Review & Approval:**
 
- * **WG Member Review & Approval:** Once contributions reach a mature state, they enter the **Review & Approval** phase. Here, WG members and maintainers thoroughly scrutinize each item for technical accuracy, completeness, and consistency with project standards.
- * **Consensus-Based Decision:** Contributions are reviewed in a structured manner, with members engaging in discussions to address feedback and achieve consensus. If consensus is reached, the contribution moves forward. If further modifications are required, the item may be sent back for additional work or revision.
+    * **WG Member Review & Approval:** Once contributions reach a mature state, they enter the **Review & Approval** phase. Here, WG members and maintainers thoroughly scrutinize each item for technical accuracy, completeness, and consistency with project standards.
+    * **Consensus-Based Decision:** Contributions are reviewed in a structured manner, with members engaging in discussions to address feedback and achieve consensus. If consensus is reached, the contribution moves forward. If further modifications are required, the item may be sent back for additional work or revision.
 
 4. **Conclusion:**
 
- * **Merged or Closed:** At the end of the development phase, contributions are either:
-    * **Merged** into the technical baseline, formally incorporating the changes into the project.
-    * **Closed** if they are deemed unnecessary, outdated, or not aligned with current project goals.
+    * **Merged or Closed:** At the end of the development phase, contributions are either:
+        * **Merged** into the technical baseline, formally incorporating the changes into the project.
+        * **Closed** if they are deemed unnecessary, outdated, or not aligned with current project goals.
 
 #### Review & Approval Process
 The diagram in this section outlines the **Review & Approval (R&A)** process, which is activated whenever consensus is required on proposed documents or decisions in the FOCUS project. This process typically takes place during FOCUS Members' Meetings, where members discuss, review, and seek to reach agreement on key items needing formal approval.
 
-The R&A process follows a structured path, emphasizing open discussion, consensus-building, and, if necessary, voting to resolve objections. The diagram serves as a guide for this process, detailing each stage and the possible outcomes.
+The **R&A** process follows a structured path, emphasizing open discussion, consensus-building, and, if necessary, voting to resolve objections. The diagram serves as a guide for this process, detailing each stage and the possible outcomes.
 
 <figure>
     <img src="images/FOCUS-Process-R&A-4.drawio.png" alt="Review & Approval Process">
@@ -81,17 +81,17 @@ The R&A process follows a structured path, emphasizing open discussion, consensu
 #### Key Highlights of the R&A Process:
 
 1. **Objections and Artifacts:**
- * Members who wish to object to a proposal are encouraged to submit an Objection Artifact, such as a Pull Request or Issue proposal, to clearly articulate their concerns and offer constructive alternatives.
+    * Members who wish to object to a proposal are encouraged to submit an Objection Artifact, such as a Pull Request or Issue proposal, to clearly articulate their concerns and offer constructive alternatives.
 
 2. **Decision Path:**
- * **Discussion:** The process begins with a collaborative discussion among members to understand different perspectives and address any concerns. The goal is to achieve consensus without formal voting.
- * **Decision:** Following discussion, a decision is made. If there are no objections, the proposal is marked as **Agreed** and merged or approved.
+    * **Discussion:** The process begins with a collaborative discussion among members to understand different perspectives and address any concerns. The goal is to achieve consensus without formal voting.
+    * **Decision:** Following discussion, a decision is made. If there are no objections, the proposal is marked as **Agreed** and merged or approved.
 
 3. **Handling Objections:**
- * If an objection is raised, members attempt to resolve it through consensus.
- * If consensus cannot be achieved, the objection is sustained, and the proposal moves to a Vote.
+    * If an objection is raised, members attempt to resolve it through consensus.
+    * If consensus cannot be achieved, the objection is sustained, and the proposal moves to a Vote.
 
-> Note: Vote a proposal is the last resort and while possible the group is highly encouraged to find a resolution witout voting.
+> Note: Voting on a proposal is considered a last resort. While voting is possible, the group is strongly encouraged to reach a resolution through discussion and consensus wherever feasible.
 
 4. **Voting Requirements:**
  * **For Technical Votes:**
@@ -101,7 +101,7 @@ The R&A process follows a structured path, emphasizing open discussion, consensu
 
 5. **Final Outcomes:**
  * **Agreed / Merged:** If consensus is achieved or a vote passes, the proposal is approved and implemented.
- * **Rejected / Closed:** If consensus cannot be reached and the vote fails, the proposal is either closed or returned for further modifications.
+ * **Rejected / Closed:** If consensus cannot be reached and the vote fails, the proposal is closed.
 
 This **R&A** process fosters an inclusive, structured approach to decision-making, ensuring that all member concerns are addressed, and important technical issues are resolved with input from both Steering and General Members. By establishing clear steps for consensus-building and a formal voting mechanism, the R&A process maintains rigor and accountability within the FOCUS project.
 
