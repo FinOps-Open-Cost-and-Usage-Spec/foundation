@@ -2,6 +2,7 @@
 
 
 ## Specification LifeCycle
+The **Specification Lifecycle** outlines the end-to-end process for creating, refining, reviewing, and releasing specifications in the FinOps FOCUS project. This lifecycle ensures that each specification is rigorously developed, approved, and made publicly available for stakeholder implementation.
 
 <figure>
     <img src="images/FOCUS-Process-spec-life-cycle-2.drawio.png" alt="Technical Specifications Lifecycle">
