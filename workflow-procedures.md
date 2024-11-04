@@ -39,19 +39,40 @@ The below diagram illustrates the Work Item Creation phase, which is the first s
 
 
 ### Review & Approval Process
-This diagram depicts the Review & Approval process. 
+The diagram in this section outlines the **Review & Approval (R&A)** process, which is activated whenever consensus is required on proposed documents or decisions in the FOCUS project. This process typically takes place during FOCUS Members' Meetings, where members discuss, review, and seek to reach agreement on key items needing formal approval.
 
-It highlights:
-* Any objection SHOULD be submitted together with a rational artifact (Pull Request or Issue proposal)
-* In case of Technical Vote: 
-  * Only Steering & General Members can vote in a Supermajority vote.
-  * A Supermajority type of vote is required to resolve technical disputes. 
-    * This means that only the Steering Committee and General members can vote. 
+The R&A process follows a structured path, emphasizing open discussion, consensus-building, and, if necessary, voting to resolve objections. The diagram serves as a guide for this process, detailing each stage and the possible outcomes.
 
 <figure>
     <img src="images/FOCUS-Process-R&A-4.drawio.png" alt="Review & Approval Process">
     <figcaption>Review & Approval Process</figcaption>
 </figure>
+
+#### Key Highlights of the R&A Process:
+
+1. **Objections and Artifacts:**
+* Members who wish to object to a proposal are encouraged to submit an Objection Artifact, such as a Pull Request or Issue proposal, to clearly articulate their concerns and offer constructive alternatives.
+
+2. **Decision Path:**
+* **Discussion:** The process begins with a collaborative discussion among members to understand different perspectives and address any concerns. The goal is to achieve consensus without formal voting.
+* **Decision:** Following discussion, a decision is made. If there are no objections, the proposal is marked as **Agreed** and merged or approved.
+
+3. **Handling Objections:**
+* If an objection is raised, members attempt to resolve it through consensus.
+* If consensus cannot be achieved, the objection is sustained, and the proposal moves to a Vote.
+> Note: Vote a proposal is the last resort and while possible the group is highly encouraged to find a resolution witout voting.
+
+4. **Voting Requirements:**
+* **For Technical Votes:**
+    * Only **Steering Members** and **General Members** are eligible to participate.
+    * A **Supermajority Vote** is required to resolve technical disputes, ensuring that only the most critical disagreements necessitate formal voting and higher levels of consensus.
+    * If the vote results in an agreement, the proposal proceeds as **Agreed** and is merged. If rejected, it may require further changes or be closed.
+
+5. **Final Outcomes:**
+* **Agreed / Merged:** If consensus is achieved or a vote passes, the proposal is approved and implemented.
+* **Rejected / Closed:** If consensus cannot be reached and the vote fails, the proposal is either closed or returned for further modifications.
+
+This R&A process fosters an inclusive, structured approach to decision-making, ensuring that all member concerns are addressed, and important technical issues are resolved with input from both Steering and General Members. By establishing clear steps for consensus-building and a formal voting mechanism, the R&A process maintains rigor and accountability within the FOCUS project.
 
 ### Development Phase
 
