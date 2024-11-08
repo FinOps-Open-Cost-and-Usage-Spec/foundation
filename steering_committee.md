@@ -1,7 +1,7 @@
 
 # FinOps Open Cost and Usage Specification (FOCUS) - Steering Committee (SC)
 
-The FOCUS Steering Comittee will be responsible for all oversight of the open source projects. In particular, the Steering Committee is responsible for approving official FOCUS specification releases and coordinating between projects.
+The FOCUS Steering Committee will be responsible for all oversight of the open source projects. In particular, the Steering Committee is responsible for approving official FOCUS specification releases and coordinating between projects.
 
 ## Charter and Code of Conduct
 
@@ -66,6 +66,6 @@ Security concerns that impact repos under the [FOCUS GitHub org](https://github.
  
 Our goal is to provide complete, accurate, and actionable disclosures once a reported issue has been sufficiently understood and there has been a reasonable opportunity to deploy fixes responsibly. At no time should a Steering Committee member release information on a pre-disclosed vulnerability to anyone besides other Steering Committee members, Foundation staff, legal counsel, or required authorities unless there is consensus to do so. A Steering Committee member may call for a formal vote to determine an appropriate path forward at any time in the process, if needed.
 
-In the case of responsible disclosures, the Steering Committee is expected to work in good faith toward a resolution that is in the best interest of the community, including coordinating with maintainers on pre-disclosure patches and the CVE process. As responsible and knowledgable stewards of the FOCUS ecosystem, the Steering Committee is empowered to negotiate the priority level and timelines for announcements and fixes.
+In the case of responsible disclosures, the Steering Committee is expected to work in good faith toward a resolution that is in the best interest of the community, including coordinating with maintainers on pre-disclosure patches and the CVE process. As responsible and knowledgeable stewards of the FOCUS ecosystem, the Steering Committee is empowered to negotiate the priority level and timelines for announcements and fixes.
 
 In the case of irresponsible disclosure, regardless of the circumstances, the Steering Committee is expected to make themselves available to convene urgently and to decide upon a communications and action plan.
