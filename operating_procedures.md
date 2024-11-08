@@ -232,7 +232,7 @@ Table 3.0-1: Membership Benefits
 |                        | Eligible for a FOCUS (Working) Maintainer position                       |    Yes** |   N/A   |     Yes**   |
 | **Participation**                                                                                                                    |
 |                        | Eligible to join a Working Group                                         |    Yes   |   N/A   |     Yes     |
-|                        | Eligible to join the Steering Committee Meetings                         |    Yes   |   N/A   |     Yes***  |
+|                        | Eligible to join the Steering Committee Meetings                         |    Yes   |   N/A   |     No  |
 | **Contribution**                                                                                                                     |
 |                        | Contribute to Working Groups                                             |    Yes   |   N/A   |     Yes     |
 |                        | Propose new working groups                                               |    Yes   |   N/A   |     Yes     |
@@ -252,7 +252,6 @@ Table 3.0-1: Membership Benefits
 
 \* The FOCUS SC may appoint individuals to these roles at its discretion
 \*\* Approval by the FOCUS Group chairperson
-\*\*\* No voting rights
 
 # 4\. FOCUS Working Group (FG) 
 
