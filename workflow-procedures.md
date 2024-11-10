@@ -124,5 +124,6 @@ The outcome of the IPR Review should ensure that the specification can be widely
 
 ### 5. Steering Committee Ratification
 
-
+**Steering Committee Ratification:** Following the working group’s approval, the specification progresses to the **
+** phase. This phase involves higher-level oversight where the Steering Committee reviews the specification to ensure it meets the overarching objectives and quality criteria for public release. The committee's ratification process is designed to be a final checkpoint that verifies the specification's adherence to the intended goals and its compliance with intellectual property rights (IPR). This stage is particularly important for ensuring that the specification has incorporated all necessary feedback and adjustments without compromising its foundational objectives. It serves as a safeguard against potential conflicts or overlooked issues that could undermine the specification’s effectiveness and acceptance.
 ### 6. Publication
