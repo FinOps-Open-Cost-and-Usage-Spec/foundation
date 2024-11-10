@@ -107,6 +107,17 @@ This **R&A** process fosters an inclusive, structured approach to decision-makin
 
 ### 3. Consistency & IPR Reviews
 
+**Consistency Review:** The Consistency Review phase in the FinOps FOCUS Project Specifications Lifecycle is a critical step that ensures the draft specification maintains coherence, clarity, and uniformity with the project's defined scope and objectives. During this review, which typically lasts two weeks, all members of the working group are encouraged to meticulously scrutinize the document. They are tasked with identifying any discrepancies, ambiguities, or inconsistencies that could undermine the specification's effectiveness or its interoperability with other standards.
+
+Feedback from this review is typically formalized through the creation of new Issues or Pull Requests on the project's management platform (GitHub). This structured feedback mechanism allows for systematic tracking, discussion, and resolution of concerns raised during the review. It's a collaborative process that ensures all potential problems are addressed before the specification advances to the next stage. The aim is to refine the specification to a point where it not only meets but exceeds the expectations for clarity and consistency required for a robust standard.
+
+**IPR Review:** Following the closure of the **Consistency Review**, the IPR (Intellectual Property Rights) Review commences. This review lasts typically 30 days and is a safeguarding measure to protect the legal integrity of the specification. The IPR Review addresses the crucial aspect of ensuring that the content of the specification does not inadvertently infringe upon existing patents held by stakeholders or external entities. This period allows participants to issue Exclusion Notices, which are formal declarations that certain patents they hold are not to be considered part of the open licensing commitments that often accompany standardized technologies.
+
+This proactive measure is important because it allows contributors to protect their proprietary innovations while still participating in the collaborative standard-setting process. By declaring certain technologies or methodologies as out of bounds for the standard’s licensing requirements, companies can maintain control over their intellectual property. This step is essential for preventing future legal disputes over patent infringement and for ensuring that all contributions to the standard are made with clear licensing intentions.
+
+The outcome of the IPR Review should ensure that the specification can be widely adopted without concerns over intellectual property conflicts, thereby supporting a smooth and conflict-free implementation of the standard across various industries and applications. This review not only protects the rights of the contributors but also enhances the standard’s credibility and enforceability in the broader market.
+
+**Interplay Between Consistency and IPR Reviews:** Both the **Consistency** and **IPR Reviews** are interconnected in that they ensure the specification is both technically sound and legally compliant. The rigorous examination during the Consistency Review ensures the specification is clear and unified, which in turn facilitates a more straightforward IPR Review, as clearer specifications are less likely to inadvertently infringe on intellectual property. Together, these reviews form a comprehensive vetting process that enhances the overall quality, legality, and market readiness of the final published standard.
 
 ### 4. Working Group Final Approval
 
