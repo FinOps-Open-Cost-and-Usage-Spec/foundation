@@ -60,6 +60,26 @@ Section 3 of the [Project Charter](FOCUS_-_Membership_Agreement_Package_for_use.
 
   FinOps Foundation Governing Board designates all FOCUS Steering Committee members. The FinOps Foundation Governing Board may add/remove FOCUS Steering Committee members and reserve the right to alter the criteria.
 
+### Steering Committee Meetings and Governance Process
+
+1.	Meeting Schedule and Purpose
+
+The Steering Committee shall convene regular monthly meetings and, as needed, to address special topics or undertake specific actions, including but not limited to ratifications or votes on process or governance issues requiring immediate attention. While members of the Steering Committee may meet in the absence of a quorum, decisions and actions requiring a recorded vote shall only be considered valid and binding when the required quorum of members is in attendance. A quorum is defined as a majority of the current members listed in this document as Steering Committee members.
+
+2.	Attendance and Participation
+
+The Chairperson of the FOCUS Working Group shall attend monthly Steering Committee meetings to present a summary of project activities, accompanied by a list of items requiring Steering Committee input. Representatives from special topic research groups may also attend Steering Committee meetings at the invitation of the FOCUS Working Group Chairperson to present summaries of their activities and request Steering Committee input.
+
+3.	Special Topics and Research Groups
+
+During regular monthly meetings, the Steering Committee shall review special topics, which may include, but are not limited to, updates on the progress or outcomes of special topic research groups, as well as items identified by and assigned to Steering Committee members.
+
+When a work item or topic requiring additional research and input is identified, the Steering Committee may establish a special topic research group. Each special topic research group shall be assigned to a Steering Committee representative and the FOCUS Working Group Chairperson, who will be tasked with drafting a scope document defining the group’s purpose and objectives. The scope document must be reviewed and ratified by a majority of the Steering Committee within one month of the group’s establishment.
+
+4.	Project Status and Scope Definition for FOCUS Releases
+
+The Steering Committee is responsible for ratifying the scope of each FOCUS release, as defined by a collection of well-described work items developed in collaboration with the FOCUS Working Group. Once the scope of a release has been ratified by the Steering Committee it can only be changed by a formal vote by the Steering Committee to add or remove items in response to changes in requirements or updates related to progress.   A Steering Committee member can move to reconsider a work item or an item related to the scope of a release during a Steering Commmittee meeting, and modifications to the scope of an in-progress work item may require an additional meeting of the Steering Committee along with Maintainers to discuss work items under consideration.
+
 ### Security policy
 
 Security concerns that impact repos under the [FOCUS GitHub org](https://github.com/FinOps-Open-Cost-and-Usage-Spec) (including reference implementations and official tools) may be responsibly disclosed to the Steering Committee via any current Steering Committee member, with the expectation that they will be discussed and triaged by the Steering Committee as a whole. You may reach a subset of current Steering Committee members via [focus@finops.org](mailto:focus@finops.org).
@@ -69,3 +89,4 @@ Our goal is to provide complete, accurate, and actionable disclosures once a rep
 In the case of responsible disclosures, the Steering Committee is expected to work in good faith toward a resolution that is in the best interest of the community, including coordinating with maintainers on pre-disclosure patches and the CVE process. As responsible and knowledgeable stewards of the FOCUS ecosystem, the Steering Committee is empowered to negotiate the priority level and timelines for announcements and fixes.
 
 In the case of irresponsible disclosure, regardless of the circumstances, the Steering Committee is expected to make themselves available to convene urgently and to decide upon a communications and action plan.
+
