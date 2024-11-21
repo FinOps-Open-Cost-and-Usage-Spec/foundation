@@ -20,7 +20,7 @@ The current members of the FOCUS Steering Committee are:
 | Tim O'Brien                                        | Walmart               | 10/10/2023   | 10/10/2025    |
 | Anne Johnston                                      | Capital One           | 10/10/2023   | 10/10/2025    |
 | Richard Steck | Adobe   | 11/08/2024 | 11/08/2026 |
-| Chris Harris | Datadog | 11/08/2024 | 11/08/2026 |
+| Christopher Harris | Datadog | 11/08/2024 | 11/08/2026 |
 | Amit Kinha | Citi    | 11/08/2024 | 11/08/2026 |
 
 #### Emeriti
