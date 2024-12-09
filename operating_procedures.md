@@ -84,7 +84,7 @@ Task Force Conveners are dedicated Maintainers within the FinOps FOCUS project w
 
 The FG Maintainer(s) MUST keep the project documentation up to date (e.g.: CONTRIBUTING, README and RELEASE PLANNING documents), and MUST have a good working knowledge of GitHub and other Project tools in use.
 
-  The FG Maintainer(s) MUST apply the "Review & Approval" process-covered in this document-to contributions submitted by the Working Group members.
+The FG Maintainer(s) MUST apply the "Review & Approval" process — covered in this document — to contributions submitted by the Working Group members.
 
   > Editor Note: Add link to Review & Approval section after adding "FOCUS Work Flow Procedures"
 
