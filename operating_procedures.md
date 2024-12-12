@@ -91,7 +91,14 @@ The FG Maintainer(s) MUST apply the [Review & Approval](/workflow-procedures.md#
   The FG Maintainer(s) SHOULD keep FOCUS project related communications with members  within GitHub using GitHub Issues or GitHub Pull Requests and corresponding GitHub comment functionality rather than one-to-one communications.
 
   The FG Maintainer(s) MAY suggest to close contributions that do not follow the rules, fail to meet the required quality standards, or are unrelated to the features in the scope of the Release Version under development.
+Each Github Issue in the scope of the Release Version under development SHOULD be sponsored by at least one FG Maintainer.  At least one of the Maintainer sponsors of an Issue MUST:
 
+- Assemble a team to consider and development the Issue
+- Provide technical guidance and oversight for development
+- Consistently attend the recurring Task Force meetings to which the Issue has been assigned
+- Provide progress updates in recurring Task Force meetings
+- Help unblock technical hurdles encountered during development
+- Ensure the timely resolution of the Issue, based on the release planning timeline
   If an FG is working in Hybrid Contribution mode where some edits are being made outside of GitHub, the FG Maintainer will be responsible for exporting Github content into a FG working document format, and the subsequent porting of that updated working document content back into GitHub content. All access to exported working documents will be limited to the members of the FOCUS group only, no external contributions are allowed.
 
 ### 2.2.5 FOCUS Group Chair(s)
