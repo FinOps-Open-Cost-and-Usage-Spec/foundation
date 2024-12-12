@@ -2,7 +2,7 @@
 
 These guiding principles enhance cooperation, respect, and efficiency in the FOCUS group's standard-setting efforts. Implementing these rules will help create a more effective and harmonious working environment.
 
-1. __Proposal-Driven Objections:__ If you object to a proposal, you MUST suggest a concrete alternative. This could involve changes to the existing pull request (PR) or submitting a new PR. When presenting an alternative, you MUST also provide clear reasoning, highlighting the pros and cons of both the original proposal and the alternative. If the PR’s owner is not willing to incorporate your suggestions, be prepared to submit your amendment. This ensures that objections are constructive and geared towards progress.
+1. __Proposal-Driven Objections:__ If you object to a proposal, you MUST suggest a concrete alternative. This could involve changes to the existing pull request (PR) or submitting a new PR. When presenting an alternative, you MUST also provide clear reasoning, highlighting the pros and cons of both the original proposal and the alternative. If the PR’s owner is not willing to incorporate your suggestions, be prepared to submit your own PR. This ensures that objections are constructive and geared towards progress.
 
 2. __Timely Objections:__ Bring up any objections at the earliest opportunity. Waiting until the last moment to present a significant issue ("11th-hour objections") disrupts the process and is viewed as uncooperative. This behavior will not be tolerated, as it undermines the spirit of consensus and collaboration.
 
