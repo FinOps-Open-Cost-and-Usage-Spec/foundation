@@ -69,7 +69,7 @@ Task Force Conveners are dedicated Maintainers within the FinOps FOCUS project w
 
 ### 2.2.4 FOCUS Group Maintainer
   
-  FG Maintainers are a subset of the FOCUS Group (FG) members who have been given write access to one or more FOCUS Working Group repositories within the FOCUS Project's Github organization. They will advance the day-to-day evolution of the specification and related work products.
+  FOCUS Group (FG) Maintainers are a subset of the FG members who have been given write access to one or more FOCUS Working Group repositories within the FOCUS Project's Github organization. They will advance the day-to-day evolution of the specification and related work products.
 
   FG Maintainers are responsible for ensuring that the contents of documents and work products accurately reflect the decisions that have been made by the group, and that the specification adheres to formatting and content guidelines. 
 
