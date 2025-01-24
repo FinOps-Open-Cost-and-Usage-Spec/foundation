@@ -29,7 +29,7 @@ We thank all our prior Steering Committee members for their contribution:
 
 | Name                                               | Affiliation           | Term began  | Term ended   |
 | -------------------------------------------------- | --------------------- | ----------- | ------------ |
-| Eleni Rundle                                       | Google                | 3/29/2023   | 10/9/2025    |
+| Eleni Rundle                                       | Google                | 3/29/2023   | 10/09/2025    |
 | Roy Wolman                                         | Amazon                | 10/10/2023   | 1/22/2025    |
 
 
