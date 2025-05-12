@@ -21,7 +21,6 @@ The current members of the FOCUS Steering Committee are:
 | Anne Johnston      | Capital One      | 10/10/2023              | 10/10/2025            | 10/10/2023         | 10/10/2025       |
 | Richard Steck      | Adobe            | 11/08/2024              | 11/08/2026            | 11/08/2024         | 11/08/2026       |
 | Christopher Harris | Datadog          | 11/08/2024              | 11/08/2026            | 11/08/2024         | 11/08/2026       |
-| Amit Kinha         | Citi             | 11/08/2024              | 11/08/2026            | 11/08/2024         | 11/08/2026       |
 
 #### Emeriti
 
@@ -31,6 +30,7 @@ We thank all our prior Steering Committee members for their contribution:
 | ------------ | ----------- | ----------------- | ----------------- |
 | Eleni Rundle | Google      | 3/29/2023         | 10/09/2023        |
 | Roy Wolman   | Amazon      | 10/10/2023        | 1/22/2025         |
+| Amit Kinha   | Citi        | 11/08/2024        | TBD               |
 
 
 One of the more important duties of the Steering Committee is the approval of the Specifications and other works produced as a consensus product of the FOCUS Working Groups.
