@@ -386,11 +386,11 @@ This **R&A** process fosters an inclusive, structured approach to decision-makin
 ## 6.1 GitHub Access Rights
 
 Table 8.1-1: GitHub Access Rights
-|     Role           |                                                              Access Rights                                                                |   |
-|:------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|---|
-| FOCUS Members      | TRIAGE - Can read and clone this repository, and push to a repository feature branches. Can also manage `GitHub Issues` and Pull Requests.|   |
-| FOCUS Maintainers  | WRITE - FOCUS Member permissions, plus merge to `working_draft` branch and work on `GitHub Projects`.                                     |   |
-| FOCUS Chair        | ADMINISTRATOR - FOCUS Maintainers permissions, they can also manage GitHub repository settings.                                           |   |
+|     Role           |                                                              Access Rights                                                                                                     |   |
+|:------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|---|
+| FOCUS Members      | **WRITE** – Can read and clone the repository, push to feature branches, open and edit pull requests, and manage `GitHub Issues` and Discussions.                              |   |
+| FOCUS Maintainers  | **WRITE+** – All FOCUS Member permissions, plus WRITE access to the FOCUS Working Group GitHub Project. Cannot merge pull requests into the protected `working_draft` branch.  |   |
+| FOCUS Chair        | **ADMIN** – All Maintainer permissions, with full administrative control, including managing repository settings, branch protections, and access rights.                       |   |
 
 All Members are required to have 2FA enabled.
 
