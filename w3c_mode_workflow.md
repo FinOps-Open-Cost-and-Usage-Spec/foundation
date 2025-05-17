@@ -38,10 +38,18 @@ As per the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/
 
 The Steering Committee will review and confirm any exclusions on essential claims have been resolved before the pull request is merged into `main`. Upon approval by the Steering Committee content will be merged into the `main` branch. Each merge into `main` will be tagged with a [Semantic Versioning 2.0](https://semver.org/spec/v2.0.0.html) tag. This will make it easily possible to switch to each previous version of the specification.
 
-Minor corrections which do not materially change the document, such as:
+### Editorial Changes During IPR Review
 
-* Spelling mistakes
-* Miss labeled figures
-* Spacing issues
+During the 30-day IPR Review period, any **editorial changes**—such as corrections to grammar, formatting, or other non-normative adjustments—must follow a defined process to ensure transparency and proper oversight.
 
-Can be corrected via branch, pull request and merge. This is to avoid having to do the full release cycle to make these minor corrections.
+If an editorial issue is identified:
+
+1. **Create a new branch** from the `candidate_recommendation` branch.
+2. Submit an **editorial pull request (PR)** from that branch.
+3. The PR may be reviewed and discussed during the IPR Review window, but **no merges will occur until the review period ends**.
+4. At the conclusion of the IPR Review:
+   - The PR must be **approved by the Working Group**.
+   - It must then be **ratified by the Steering Committee** before being merged into `candidate_recommendation`.
+5. Once ratified, the updated `candidate_recommendation` content can proceed to final publication and be merged into `main`.
+
+This process ensures that editorial corrections are handled with transparency and receive proper approval without disrupting the formal review timeline.
