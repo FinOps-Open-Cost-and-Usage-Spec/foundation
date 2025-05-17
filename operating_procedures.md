@@ -288,7 +288,7 @@ The **Specification Lifecycle** outlines the end-to-end process for creating, re
 7. **Feedback Process:** Collect input from implementers and stakeholders post-publication to identify opportunities for clarifications, bug fixes, or new feature proposals. This feedback may lead to the initiation of new Work Items and improvements in future versions of the specification.
 
 ### 5.1.1\. Scope Definition
-The **S5cope Definition** phase establishes the strategic foundation for the upcoming FOCUS release. During this phase, participants identify and refine the high-level goals that the release should address, ensuring that all proposed work items are aligned with project priorities and are sufficiently defined to support downstream development.
+The **Scope Definition** phase establishes the strategic foundation for the upcoming FOCUS release. During this phase, participants identify and refine the high-level goals that the release should address, ensuring that all proposed work items are aligned with project priorities and are sufficiently defined to support downstream development.
 
 The primary output of this phase is the **release scope**—a concise list of high-level requirements (often referred to as marketing-level requirements) that describe the desired capabilities or improvements for the release. These requirements should be clearly stated and actionable, but not overly detailed.
 
@@ -313,6 +313,8 @@ Feedback from this review is typically formalized through the creation of new Is
 This proactive measure is important because it allows contributors to protect their proprietary innovations while still participating in the collaborative standard-setting process. By declaring certain technologies or methodologies as out of bounds for the standard’s licensing requirements, companies can maintain control over their intellectual property. This step is essential for preventing future legal disputes over patent infringement and for ensuring that all contributions to the standard are made with clear licensing intentions.
 
 The outcome of the IPR Review should ensure that the specification can be widely adopted without concerns over intellectual property conflicts, thereby supporting a smooth and conflict-free implementation of the standard across various industries and applications. This review not only protects the rights of the contributors but also enhances the standard’s credibility and enforceability in the broader market.
+
+> Any notification of exclusion should be submitted via email to the FOCUS Working Group Chair using the official <a href="https://docs.google.com/document/d/1Tp5dYQlEPtqqsLe8Ig6c7Ru37UxSOVXivIgBLyHBeiU/edit?tab=t.0#heading=h.1e9vhes50zvf" target="_blank">FOCUS Exclusion Notice Form</a>. Please complete the form and include it with your email submission.
 
 **Interplay Between Consistency and IPR Reviews:** Both the **Consistency** and **IPR Reviews** are interconnected in that they ensure the specification is both technically sound and legally compliant. The rigorous examination during the Consistency Review ensures the specification is clear and unified, which in turn facilitates a more straightforward IPR Review, as clearer specifications are less likely to inadvertently infringe on intellectual property. Together, these reviews form a comprehensive vetting process that enhances the overall quality, legality, and market readiness of the final published standard.
 
