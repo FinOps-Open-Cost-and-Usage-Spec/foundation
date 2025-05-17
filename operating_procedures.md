@@ -273,7 +273,7 @@ Each FOCUS Working group may have an operational_proceedures.md document in the 
 
 The workflow for all Working Groups covered by Patent Policy Option 4: W3C Mode will follow the guidelines in [w3c_mode_workflow.md](w3c_mode_workflow.md).
 
-## Specification LifeCycle
+## 5.1\. Specification LifeCycle
 The **Specification Lifecycle** outlines the end-to-end process for creating, refining, reviewing, and releasing specifications in the FinOps FOCUS project. This lifecycle ensures that each specification is rigorously developed, approved, and made publicly available for stakeholder implementation.
 
 <figure>
@@ -289,13 +289,43 @@ The **Specification Lifecycle** outlines the end-to-end process for creating, re
 6. **Technical Specification Publication:** Officially publish and release the specification with a version number for stakeholder implementation.
 7. **Feedback Process:** Collect input from implementers and stakeholders post-publication to identify opportunities for clarifications, bug fixes, or new feature proposals. This feedback may lead to the initiation of new Work Items and improvements in future versions of the specification.
 
-### 1. Scope Definition
+### 5.5.1\. Scope Definition
 The below diagram illustrates the **Work Item Creation** phase, which is the first stage in the Specifications Lifecycle for the FinOps FOCUS project. The main purpose of this phase is to define and refine the scope for the next FOCUS release, such as e.g. v1.2, ensuring that all proposed work items align with strategic priorities and are well-documented and actionable.
 
-### 2. Development Phase
+### 5.5.2\. Development Phase
 The **Specification Development** phase is a structured process in the FinOps FOCUS project, implemented in GitHub, that guides contributions from ideation to final approval. This phase ensures that all contributions—whether new features, modifications, or corrections—are thoroughly reviewed, aligned with project goals, and integrated into the technical baseline when approved. The workflow progresses through the following stages:
 
-#### Review & Approval Process
+### 5.5.3\. Consistency & IPR Reviews
+
+**Consistency Review:** The Consistency Review phase in the FinOps FOCUS Project Specifications Lifecycle is a critical step that ensures the draft specification maintains coherence, clarity, and uniformity with the project's defined scope and objectives. During this review, which typically lasts two weeks, all members of the working group are encouraged to meticulously scrutinize the document. They are tasked with identifying any discrepancies, ambiguities, or inconsistencies that could undermine the specification's effectiveness or its interoperability with other standards.
+
+Feedback from this review is typically formalized through the creation of new Issues or Pull Requests on the project's management platform (GitHub). This structured feedback mechanism allows for systematic tracking, discussion, and resolution of concerns raised during the review. It's a collaborative process that ensures all potential problems are addressed before the specification advances to the next stage. The aim is to refine the specification to a point where it not only meets but exceeds the expectations for clarity and consistency required for a robust standard.
+
+**IPR Review:** Following the closure of the **Consistency Review**, the IPR (Intellectual Property Rights) Review commences. This review lasts typically 30 days and is a safeguarding measure to protect the legal integrity of the specification. The IPR Review addresses the crucial aspect of ensuring that the content of the specification does not inadvertently infringe upon existing patents held by stakeholders or external entities. This period allows participants to issue Exclusion Notices, which are formal declarations that certain patents they hold are not to be considered part of the open licensing commitments that often accompany standardized technologies.
+
+This proactive measure is important because it allows contributors to protect their proprietary innovations while still participating in the collaborative standard-setting process. By declaring certain technologies or methodologies as out of bounds for the standard’s licensing requirements, companies can maintain control over their intellectual property. This step is essential for preventing future legal disputes over patent infringement and for ensuring that all contributions to the standard are made with clear licensing intentions.
+
+The outcome of the IPR Review should ensure that the specification can be widely adopted without concerns over intellectual property conflicts, thereby supporting a smooth and conflict-free implementation of the standard across various industries and applications. This review not only protects the rights of the contributors but also enhances the standard’s credibility and enforceability in the broader market.
+
+**Interplay Between Consistency and IPR Reviews:** Both the **Consistency** and **IPR Reviews** are interconnected in that they ensure the specification is both technically sound and legally compliant. The rigorous examination during the Consistency Review ensures the specification is clear and unified, which in turn facilitates a more straightforward IPR Review, as clearer specifications are less likely to inadvertently infringe on intellectual property. Together, these reviews form a comprehensive vetting process that enhances the overall quality, legality, and market readiness of the final published standard.
+
+### 5.5.4\. Working Group Final Approval
+**Final Specification Working Group Approval:** The Final Specification Working Group Approval follows the completion of the Consistency and IPR Reviews, the entire specification advances to the **Final Specification Working Group Approval** phase. This stage is essential for affirming that the specification conforms to all predetermined technical and quality standards established by the working group. Unlike earlier stages that might focus on individual proposed revisions (PRs), this phase emphasizes the approval of the complete specification.
+
+During this phase, the working group conducts a comprehensive review of the entire document to ensure that every element of the specification aligns with the group’s expectations and industry standards. The review process is designed to validate the coherence, technical accuracy, and completeness of the specification. It is a critical checkpoint that guarantees the specification not only meets but ideally exceeds the necessary quality benchmarks.
+
+Approval at this stage signifies a collective endorsement by the working group that the specification is ready for broader scrutiny and eventual implementation. This approval is crucial as it transitions the specification from a developmental phase into a potential industry standard, setting the stage for the subsequent Steering Committee Ratification.
+
+### 5.5.5\. Steering Committee Ratification
+**Steering Committee Ratification:** Following the working group’s approval, the specification progresses to the **
+** phase. This phase involves higher-level oversight where the Steering Committee reviews the specification to ensure it meets the overarching objectives and quality criteria for public release. The committee's ratification process is designed to be a final checkpoint that verifies the specification's adherence to the intended goals and its compliance with intellectual property rights (IPR). This stage is particularly important for ensuring that the specification has incorporated all necessary feedback and adjustments without compromising its foundational objectives. It serves as a safeguard against potential conflicts or overlooked issues that could undermine the specification’s effectiveness and acceptance.
+
+### 5.5.6\. Publication
+**Technical Specification Publication:** Once ratified by the steering committee, the specification reaches the **Technical Specification Publication** phase. This final stage marks the official release of the specification, complete with a version number, making it available for implementation by stakeholders. The publication signifies that the specification has undergone comprehensive development, review, and approval processes and is deemed ready for widespread adoption. The release of the specification is a critical moment, as it transitions from a developmental document into a standard that will guide practical implementations and influence future developments within the field.
+
+### 5.5.7\. Feedback Process
+
+## 5.2\ Review & Approval
 The diagram in this section outlines the **Review & Approval (R&A)** process, which is activated whenever consensus is required on proposed documents or decisions in the FOCUS project. This process typically takes place during FOCUS Members' Meetings, where members discuss, review, and seek to reach agreement on key items needing formal approval.
 
 The **R&A** process follows a structured path, emphasizing open discussion, consensus-building, and, if necessary, voting to resolve objections. The diagram serves as a guide for this process, detailing each stage and the possible outcomes.
@@ -331,36 +361,6 @@ The **R&A** process follows a structured path, emphasizing open discussion, cons
  * **Rejected / Closed:** If consensus cannot be reached and the vote fails, the proposal is closed.
 
 This **R&A** process fosters an inclusive, structured approach to decision-making, ensuring that all member concerns are addressed, and important technical issues are resolved with input from both Steering and General Members. By establishing clear steps for consensus-building and a formal voting mechanism, the R&A process maintains rigor and accountability within the FOCUS project.
-
-### 3. Consistency & IPR Reviews
-
-**Consistency Review:** The Consistency Review phase in the FinOps FOCUS Project Specifications Lifecycle is a critical step that ensures the draft specification maintains coherence, clarity, and uniformity with the project's defined scope and objectives. During this review, which typically lasts two weeks, all members of the working group are encouraged to meticulously scrutinize the document. They are tasked with identifying any discrepancies, ambiguities, or inconsistencies that could undermine the specification's effectiveness or its interoperability with other standards.
-
-Feedback from this review is typically formalized through the creation of new Issues or Pull Requests on the project's management platform (GitHub). This structured feedback mechanism allows for systematic tracking, discussion, and resolution of concerns raised during the review. It's a collaborative process that ensures all potential problems are addressed before the specification advances to the next stage. The aim is to refine the specification to a point where it not only meets but exceeds the expectations for clarity and consistency required for a robust standard.
-
-**IPR Review:** Following the closure of the **Consistency Review**, the IPR (Intellectual Property Rights) Review commences. This review lasts typically 30 days and is a safeguarding measure to protect the legal integrity of the specification. The IPR Review addresses the crucial aspect of ensuring that the content of the specification does not inadvertently infringe upon existing patents held by stakeholders or external entities. This period allows participants to issue Exclusion Notices, which are formal declarations that certain patents they hold are not to be considered part of the open licensing commitments that often accompany standardized technologies.
-
-This proactive measure is important because it allows contributors to protect their proprietary innovations while still participating in the collaborative standard-setting process. By declaring certain technologies or methodologies as out of bounds for the standard’s licensing requirements, companies can maintain control over their intellectual property. This step is essential for preventing future legal disputes over patent infringement and for ensuring that all contributions to the standard are made with clear licensing intentions.
-
-The outcome of the IPR Review should ensure that the specification can be widely adopted without concerns over intellectual property conflicts, thereby supporting a smooth and conflict-free implementation of the standard across various industries and applications. This review not only protects the rights of the contributors but also enhances the standard’s credibility and enforceability in the broader market.
-
-**Interplay Between Consistency and IPR Reviews:** Both the **Consistency** and **IPR Reviews** are interconnected in that they ensure the specification is both technically sound and legally compliant. The rigorous examination during the Consistency Review ensures the specification is clear and unified, which in turn facilitates a more straightforward IPR Review, as clearer specifications are less likely to inadvertently infringe on intellectual property. Together, these reviews form a comprehensive vetting process that enhances the overall quality, legality, and market readiness of the final published standard.
-
-### 4. Working Group Final Approval
-**Final Specification Working Group Approval:** The Final Specification Working Group Approval follows the completion of the Consistency and IPR Reviews, the entire specification advances to the **Final Specification Working Group Approval** phase. This stage is essential for affirming that the specification conforms to all predetermined technical and quality standards established by the working group. Unlike earlier stages that might focus on individual proposed revisions (PRs), this phase emphasizes the approval of the complete specification.
-
-During this phase, the working group conducts a comprehensive review of the entire document to ensure that every element of the specification aligns with the group’s expectations and industry standards. The review process is designed to validate the coherence, technical accuracy, and completeness of the specification. It is a critical checkpoint that guarantees the specification not only meets but ideally exceeds the necessary quality benchmarks.
-
-Approval at this stage signifies a collective endorsement by the working group that the specification is ready for broader scrutiny and eventual implementation. This approval is crucial as it transitions the specification from a developmental phase into a potential industry standard, setting the stage for the subsequent Steering Committee Ratification.
-
-
-
-### 5. Steering Committee Ratification
-**Steering Committee Ratification:** Following the working group’s approval, the specification progresses to the **
-** phase. This phase involves higher-level oversight where the Steering Committee reviews the specification to ensure it meets the overarching objectives and quality criteria for public release. The committee's ratification process is designed to be a final checkpoint that verifies the specification's adherence to the intended goals and its compliance with intellectual property rights (IPR). This stage is particularly important for ensuring that the specification has incorporated all necessary feedback and adjustments without compromising its foundational objectives. It serves as a safeguard against potential conflicts or overlooked issues that could undermine the specification’s effectiveness and acceptance.
-
-### 6. Publication
-**Technical Specification Publication:** Once ratified by the steering committee, the specification reaches the **Technical Specification Publication** phase. This final stage marks the official release of the specification, complete with a version number, making it available for implementation by stakeholders. The publication signifies that the specification has undergone comprehensive development, review, and approval processes and is deemed ready for widespread adoption. The release of the specification is a critical moment, as it transitions from a developmental document into a standard that will guide practical implementations and influence future developments within the field.
 
 # 6\. Github Flows
 
