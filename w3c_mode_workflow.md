@@ -26,7 +26,7 @@ Pull requests opened from the `working_draft` branch to the `candidate_recommend
 Pull requests opened from the `candidate_recommendation` branch to the `main` branch are equal to the "Final Approval" in the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
 
 
-Git tags using [Semantic Versioning 2.0](https://semver.org/spec/v2.0.0.html) will be used to mark the official releases.
+Git tags based on [Semantic Versioning 2.0](https://semver.org/spec/v2.0.0.html) will be used to mark the official releases.
 
 ![Git Workflow](images/FOCUS_GIT_Workflow_v1.0.3.png?raw=true "Git Workflow")
 
@@ -36,7 +36,7 @@ Once a working group milestone has been reached for release a pull request is me
 
 As per the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf) any exclusions on essential claims must be made to the FOCUS working group chair prior to adoption of a Draft Deliverable as an Approved Deliverable, this can be achieved via email on (focus@finops.org). Any exclusions of essential claims will be associcated with a GitHub Issue ticket and all tickets must be resolved before a pull request is able to be raised from the `candidate_recommendation` branch into the `main` branch.
 
-The Steering Committee will review and confirm any exclusions on essential claims have been resolved before the pull request is merged into `main`. Upon approval by the Steering Committee content will be merged into the `main` branch. Each merge into `main` will be tagged with a [Semantic Versioning 2.0](https://semver.org/spec/v2.0.0.html) tag. This will make it easily possible to switch to each previous version of the specification.
+The Steering Committee will review and confirm any exclusions on essential claims have been resolved before the pull request is merged into `main`. Upon approval by the Steering Committee content will be merged into the `main` branch. Each merge into `main` will be given a tag based on [Semantic Versioning 2.0](https://semver.org/spec/v2.0.0.html). This will facilitate viewing each previous version of the specification.
 
 ### Editorial Changes During IPR Review
 
