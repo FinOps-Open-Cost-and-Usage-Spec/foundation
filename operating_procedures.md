@@ -279,29 +279,42 @@ The **Specification Lifecycle** outlines the end-to-end process for creating, re
     <figcaption>FOCUS Specifications Lifecycle</figcaption>
 </figure>
 
-1. **Scope Definition:** Propose and define the scope and objectives of a new specification.
-2. **Specification Development:** Draft and refine technical content to ensure the specification meets its intended goals.
-3. **Consistency, IPR Review:** Review the draft for coherence, intellectual property rights compliance, and alignment with the defined scope.
-4. **Final Specification Working Group Approval:** Validate the specification against technical and quality standards set by the working group.
-5. **Steering Committee Ratification:** Obtain higher-level oversight and approval for public release from the steering committee.
-6. **Technical Specification Publication:** Officially publish and release the specification with a version number for stakeholder implementation.
-7. **Feedback Process:** Collect input from implementers and stakeholders post-publication to identify opportunities for clarifications, bug fixes, or new feature proposals. This feedback may lead to the initiation of new Work Items and improvements in future versions of the specification.
+1. **Product Discovery:** Collect input from implementers and stakeholders post-publication to identify opportunities for clarifications, bug fixes, or new feature proposals. This feedback may lead to the initiation of new Work Items and improvements in future versions of the specification.
+2. **Scope Definition:** Propose and define the scope and objectives of a new specification.
+3. **Specification Development:** Draft and refine technical content to ensure the specification meets its intended goals.
+4. **Consistency, IPR Review:** Review the draft for coherence, intellectual property rights compliance, and alignment with the defined scope.
+5. **Final Specification Working Group Approval:** Validate the specification against technical and quality standards set by the working group.
+6. **Steering Committee Ratification:** Obtain higher-level oversight and approval for public release from the steering committee.
+7. **Publication:** Officially publish and release the specification with a version number for stakeholder implementation.
 
-### 5.1.1\. Scope Definition
+### 5.1.1\. Product Discovery
+The **Product Discovery** phase plays a vital role in maintaining the relevance and quality of the FOCUS specification. It provides a structured mechanism for gathering input from both the broader **Practitioners Community** and active **FOCUS Contributors**, ensuring that the specification continues to address real-world challenges and evolving needs.
+
+This phase captures feedback on published specifications, including:
+
+- Implementation experiences  
+- Usability insights  
+- Feature gaps  
+
+Particular attention is given to **practitioner pain-points**—recurring challenges or inefficiencies observed in day-to-day FinOps operations. These insights help inform future enhancements by guiding the creation of actionable work items that directly improve usability and effectiveness.
+
+As with all phases in the FOCUS **Specification Lifecycle**, the **Feedback Process** is described here at a high level. The operational details and contribution mechanisms are documented in the [GitHub repository](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec) used by the Working Group to manage specification development.
+
+### 5.1.2\. Scope Definition
 The **Scope Definition** phase establishes the strategic foundation for the upcoming FOCUS release. During this phase, participants identify and refine the high-level goals that the release should address, ensuring that all proposed work items are aligned with project priorities and are sufficiently defined to support downstream development.
 
 The primary output of this phase is the **release scope**—a concise list of high-level requirements (often referred to as marketing-level requirements) that describe the desired capabilities or improvements for the release. These requirements should be clearly stated and actionable, but not overly detailed.
 
 Before transitioning to specification development, the proposed release scope must be formally approved by the **Working Group** and ratified by the **Steering Committee**.
 
-### 5.1.2\. Development Phase
-The **Development** phase focuses on translating the approved release scope into concrete technical content. During this phase, contributions such as new features, modifications, and corrections are proposed, refined, and reviewed to ensure alignment with project goals and consistency with the overall specification architecture.
+### 5.1.3\. Specification Development
+The **Specification Development** phase focuses on translating the approved release scope into concrete technical content. During this phase, contributions such as new features, modifications, and corrections are proposed, refined, and reviewed to ensure alignment with project goals and consistency with the overall specification architecture.
 
 Work progresses through a structured workflow that includes drafting, collaborative discussion, iterative updates, and formal review checkpoints. Only contributions that meet the project’s quality and consistency standards are integrated into the technical baseline.
 
 As with all phases in the FOCUS Specification Lifecycle, this description reflects a high-level process. Detailed implementation guidance, workflows, and contribution procedures are maintained in the GitHub repository where the Working Group develops the specifications.
 
-### 5.1.3\. Consistency & IPR Reviews
+### 5.1.4\. Consistency & IPR Reviews
 The workflow for all Working Groups covered by Patent Policy Option 4: W3C Mode will follow the guidelines in [w3c_mode_workflow.md](w3c_mode_workflow.md).
 
 **Consistency Review:** The Consistency Review phase in the FinOps FOCUS Project Specifications Lifecycle is a critical step that ensures the draft specification maintains coherence, clarity, and uniformity with the project's defined scope and objectives. During this review, which typically lasts two weeks, all members of the working group are encouraged to meticulously scrutinize the document. They are tasked with identifying any discrepancies, ambiguities, or inconsistencies that could undermine the specification's effectiveness or its interoperability with other standards.
@@ -318,31 +331,18 @@ The outcome of the IPR Review should ensure that the specification can be widely
 
 **Interplay Between Consistency and IPR Reviews:** Both the **Consistency** and **IPR Reviews** are interconnected in that they ensure the specification is both technically sound and legally compliant. The rigorous examination during the Consistency Review ensures the specification is clear and unified, which in turn facilitates a more straightforward IPR Review, as clearer specifications are less likely to inadvertently infringe on intellectual property. Together, these reviews form a comprehensive vetting process that enhances the overall quality, legality, and market readiness of the final published standard.
 
-### 5.1.4\. Working Group Final Approval
-**Final Specification Working Group Approval:** The Final Specification Working Group Approval follows the completion of the Consistency and IPR Reviews, the entire specification advances to the **Final Specification Working Group Approval** phase. This stage is essential for affirming that the specification conforms to all predetermined technical and quality standards established by the working group. Unlike earlier stages that might focus on individual proposed revisions (PRs), this phase emphasizes the approval of the complete specification.
+### 5.1.5\. Final Specification Working Group Approval
+The **Final Specification Working Group Approval** phase follows the completion of the Consistency and IPR Reviews. This stage is essential for affirming that the specification conforms to all predetermined technical and quality standards established by the working group. Unlike earlier stages that might focus on individual proposed revisions (PRs), this phase emphasizes the approval of the complete specification.
 
 During this phase, the working group conducts a comprehensive review of the entire document to ensure that every element of the specification aligns with the group’s expectations and industry standards. The review process is designed to validate the coherence, technical accuracy, and completeness of the specification. It is a critical checkpoint that guarantees the specification not only meets but ideally exceeds the necessary quality benchmarks.
 
 Approval at this stage signifies a collective endorsement by the working group that the specification is ready for broader scrutiny and eventual implementation. This approval is crucial as it transitions the specification from a developmental phase into a potential industry standard, setting the stage for the subsequent Steering Committee Ratification.
 
-### 5.1.5\. Steering Committee Ratification
-**Steering Committee Ratification:** Following the working group’s approval, the specification progresses to the **Steering Committee Ratification** phase. This phase involves higher-level oversight where the Steering Committee reviews the specification to ensure it meets the overarching objectives and quality criteria for public release. The committee's ratification process is designed to be a final checkpoint that verifies the specification's adherence to the intended goals and its compliance with intellectual property rights (IPR). This stage is particularly important for ensuring that the specification has incorporated all necessary feedback and adjustments without compromising its foundational objectives. It serves as a safeguard against potential conflicts or overlooked issues that could undermine the specification’s effectiveness and acceptance.
+### 5.1.6\. Steering Committee Ratification
+Following the working group’s approval, the specification progresses to the **Steering Committee Ratification** phase. This phase involves higher-level oversight where the Steering Committee reviews the specification to ensure it meets the overarching objectives and quality criteria for public release. The committee's ratification process is designed to be a final checkpoint that verifies the specification's adherence to the intended goals and its compliance with intellectual property rights (IPR). This stage is particularly important for ensuring that the specification has incorporated all necessary feedback and adjustments without compromising its foundational objectives. It serves as a safeguard against potential conflicts or overlooked issues that could undermine the specification’s effectiveness and acceptance.
 
-### 5.1.6\. Publication
-**Technical Specification Publication:** Once ratified by the steering committee, the specification reaches the **Technical Specification Publication** phase. This final stage marks the official release of the specification, complete with a version number, making it available for implementation by stakeholders. The publication signifies that the specification has undergone comprehensive development, review, and approval processes and is deemed ready for widespread adoption. The release of the specification is a critical moment, as it transitions from a developmental document into a standard that will guide practical implementations and influence future developments within the field.
-
-### 5.1.7\. Feedback Process
-The **Feedback Process** plays a vital role in maintaining the relevance and quality of the FOCUS specification. It provides a structured mechanism for gathering input from both the broader **Practitioners Community** and active **FOCUS Contributors**, ensuring that the specification continues to address real-world challenges and evolving needs.
-
-This phase captures feedback on published specifications, including:
-
-- Implementation experiences  
-- Usability insights  
-- Feature gaps  
-
-Particular attention is given to **practitioner pain-points**—recurring challenges or inefficiencies observed in day-to-day FinOps operations. These insights help inform future enhancements by guiding the creation of actionable work items that directly improve usability and effectiveness.
-
-As with all phases in the FOCUS **Specification Lifecycle**, the **Feedback Process** is described here at a high level. The operational details and contribution mechanisms are documented in the [GitHub repository](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec) used by the Working Group to manage specification development.
+### 5.1.7\. Publication
+Once ratified by the steering committee, the specification reaches the **Publication** phase. This final stage marks the official release of the specification, complete with a version number, making it available for implementation by stakeholders. The publication signifies that the specification has undergone comprehensive development, review, and approval processes and is deemed ready for widespread adoption. The release of the specification is a critical moment, as it transitions from a developmental document into a standard that will guide practical implementations and influence future developments within the field.
 
 ## 5.2\. Review & Approval
 The diagram in this section outlines the **Review & Approval (R&A)** process, which is activated whenever consensus is required on proposed documents or decisions in the FOCUS project. This process typically takes place during FOCUS Members' Meetings, where members discuss, review, and seek to reach agreement on key items needing formal approval.
