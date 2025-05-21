@@ -271,7 +271,7 @@ Each FOCUS Working group may have an operational_proceedures.md document in the 
 
 # 5\. FOCUS Process Flows
 
-## 5.1\. Specification LifeCycle
+## 5.1\. Specification Lifecycle
 The **Specification Lifecycle** outlines the end-to-end process for creating, refining, reviewing, and releasing specifications in the FinOps FOCUS project. This lifecycle ensures that each specification is rigorously developed, approved, and made publicly available for stakeholder implementation.
 
 <figure>
@@ -354,7 +354,7 @@ The **R&A** process follows a structured path, emphasizing open discussion, cons
     <figcaption>Review & Approval Process</figcaption>
 </figure>
 
-#### Key Highlights of the R&A Process:
+#### Key Highlights of the R&A Process
 
 1. **Objections and Artifacts:**
     * Members who wish to object to a proposal are encouraged to submit an Objection Artifact, such as a Pull Request or Issue proposal, to clearly articulate their concerns and offer constructive alternatives.
