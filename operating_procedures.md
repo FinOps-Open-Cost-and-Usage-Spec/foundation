@@ -271,7 +271,7 @@ Each FOCUS Working group may have an operational_proceedures.md document in the 
 
 # 5\. FOCUS Process Flows
 
-## 5.1\. Specification LifeCycle
+## 5.1\. Specification Lifecycle
 The **Specification Lifecycle** outlines the end-to-end process for creating, refining, reviewing, and releasing specifications in the FinOps FOCUS project. This lifecycle ensures that each specification is rigorously developed, approved, and made publicly available for stakeholder implementation.
 
 <figure>
