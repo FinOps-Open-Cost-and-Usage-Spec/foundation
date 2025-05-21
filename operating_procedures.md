@@ -354,7 +354,7 @@ The **R&A** process follows a structured path, emphasizing open discussion, cons
     <figcaption>Review & Approval Process</figcaption>
 </figure>
 
-#### Key Highlights of the R&A Process:
+#### Key Highlights of the R&A Process
 
 1. **Objections and Artifacts:**
     * Members who wish to object to a proposal are encouraged to submit an Objection Artifact, such as a Pull Request or Issue proposal, to clearly articulate their concerns and offer constructive alternatives.
