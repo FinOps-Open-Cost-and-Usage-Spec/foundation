@@ -17,8 +17,8 @@ The current members of the FOCUS Steering Committee are:
 | Michael Flanakin   | Microsoft        | 3/29/2023               | 3/29/2025             | 3/29/2023          | 3/29/2025        |
 | Sarah McMullin     | Google           | 3/29/2023               | 3/29/2025             | 10/10/2023         | 3/29/2025        |
 | Letian Feng        | Amazon           | 10/10/2023              | 10/10/2025            | 1/23/2025          | 10/10/2025       |
-| Jerzy Grzywinski   | Capital One      | 10/10/2023              | 10/10/2025            | TBD                | 10/10/2025       |
 | Tim O'Brien        | Walmart          | 10/10/2023              | 10/10/2025            | 10/10/2023         | 10/10/2025       |
+| Jerzy Grzywinski   | Capital One      | 10/10/2023              | 10/10/2025            | TBD                | 10/10/2025       |
 | Richard Steck      | Adobe            | 11/08/2024              | 11/08/2026            | 11/08/2024         | 11/08/2026       |
 | Christopher Harris | Datadog          | 11/08/2024              | 11/08/2026            | 11/08/2024         | 11/08/2026       |
 
