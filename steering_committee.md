@@ -30,8 +30,8 @@ We thank all our prior Steering Committee members for their contribution:
 | ------------- | ----------- | ----------------- | ----------------- |
 | Eleni Rundle  | Google      | 3/29/2023         | 10/09/2023        |
 | Roy Wolman    | Amazon      | 10/10/2023        | 1/22/2025         |
-| Amit Kinha    | Citi        | 11/08/2024        | 6/03/2025         |
 | Anne Johnston | Capital One | 10/10/2023        | TBD               |
+| Amit Kinha    | Citi        | 11/08/2024        | 6/03/2025         |
 
 
 One of the more important duties of the Steering Committee is the approval of the Specifications and other works produced as a consensus product of the FOCUS Working Groups.
