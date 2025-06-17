@@ -51,5 +51,6 @@ If an editorial issue is identified:
    - The PR must be **approved by the Working Group**.
    - It must then be **ratified by the Steering Committee** before being merged into `candidate_recommendation`.
 5. Once ratified, the updated `candidate_recommendation` content can proceed to final publication and be merged into `main`.
+6. All editorial changes will then need to be merged back into the `working_draft` branch by means of a PR from `candidate_recommendation` into `working_draft`.
 
 This process ensures that editorial corrections are handled with transparency and receive proper approval without disrupting the formal review timeline.
