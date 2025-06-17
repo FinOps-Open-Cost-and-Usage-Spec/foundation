@@ -36,7 +36,7 @@ Once a working group milestone has been reached for release a pull request is me
 
 As per the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf) any exclusions on essential claims must be made to the FOCUS working group chair prior to adoption of a Draft Deliverable as an Approved Deliverable, this can be achieved via email on (focus@finops.org). Any exclusions of essential claims will be associcated with a GitHub Issue ticket and all tickets must be resolved before a pull request is able to be raised from the `candidate_recommendation` branch into the `main` branch.
 
-The Steering Committee will review and confirm any exclusions on essential claims have been resolved before the pull request is merged into `main`. Upon approval by the Steering Committee content will be merged into the `main` branch. Each merge into `main` will be given a tag based on [Semantic Versioning 2.0](https://semver.org/spec/v2.0.0.html). This will facilitate viewing each previous version of the specification.
+The Steering Committee will review and confirm any exclusions on essential claims have been resolved before the pull request is merged into `main`. Upon approval by the Steering Committee content will be merged into the `main` branch. Each merge into `main` will be given a tag using the format `v<version_number>`. This will facilitate viewing each previous version of the specification.
 
 ### Editorial Changes During IPR Review
 
