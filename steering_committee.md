@@ -11,26 +11,27 @@ The FOCUS Steering Committee is governed by the [Project Charter](FOCUS_-_Member
 
 The current members of the FOCUS Steering Committee are:
 
-| Name               | Affiliation      | Affiliation term begins | Affiliation term ends | Member term begins | Member term ends |
-| ------------------ | ---------------- | ----------------------- | --------------------- | ------------------ | ---------------- |
-| Mike Fuller        | Linux Foundation | 3/29/2023               | 3/29/2025             | 3/29/2023          | 3/29/2025        |
-| Michael Flanakin   | Microsoft        | 3/29/2023               | 3/29/2025             | 3/29/2023          | 3/29/2025        |
-| Sarah McMullin     | Google           | 3/29/2023               | 3/29/2025             | 10/10/2023         | 3/29/2025        |
-| Letian Feng        | Amazon           | 10/10/2023              | 10/10/2025            | 1/23/2025          | 10/10/2025       |
-| Tim O'Brien        | Walmart          | 10/10/2023              | 10/10/2025            | 10/10/2023         | 10/10/2025       |
-| Anne Johnston      | Capital One      | 10/10/2023              | 10/10/2025            | 10/10/2023         | 10/10/2025       |
-| Richard Steck      | Adobe            | 11/08/2024              | 11/08/2026            | 11/08/2024         | 11/08/2026       |
-| Christopher Harris | Datadog          | 11/08/2024              | 11/08/2026            | 11/08/2024         | 11/08/2026       |
-| Amit Kinha         | Citi             | 11/08/2024              | 11/08/2026            | 11/08/2024         | 11/08/2026       |
+| Member           | Representative     | Member term begins      | Member term ends      | Representative term begins | Representative term ends |
+|------------------| ------------------ | ----------------------- | --------------------- | -------------------------- | ------------------------ |
+| Linux Foundation | Mike Fuller        | 3/29/2023               | 3/29/2027             | 3/29/2023                  | 3/29/2027                |
+| Microsoft        | Michael Flanakin   | 3/29/2023               | 3/29/2027             | 3/29/2023                  | 3/29/2027                |
+| Google           | Sarah McMullin     | 3/29/2023               | 3/29/2027             | 10/10/2023                 | 3/29/2027                |
+| Amazon           | Letian Feng        | 10/10/2023              | 10/10/2025            | 1/23/2025                  | 10/10/2025               |
+| Walmart          | Tim O'Brien        | 10/10/2023              | 10/10/2025            | 10/10/2023                 | 10/10/2025               |
+| Capital One      | Jerzy Grzywinski   | 10/10/2023              | 10/10/2025            | 6/02/2025                  | 10/10/2025               |
+| Adobe            | Richard Steck      | 11/08/2024              | 11/08/2026            | 11/08/2024                 | 11/08/2026               |
+| Datadog          | Christopher Harris | 11/08/2024              | 11/08/2026            | 11/08/2024                 | 11/08/2026               |
 
 #### Emeriti
 
 We thank all our prior Steering Committee members for their contribution:
 
-| Name         | Affiliation | Member term began | Member term ended |
-| ------------ | ----------- | ----------------- | ----------------- |
-| Eleni Rundle | Google      | 3/29/2023         | 10/09/2023        |
-| Roy Wolman   | Amazon      | 10/10/2023        | 1/22/2025         |
+| Member      | Representative | Representative term began | Representative term ended |
+| ----------- | -------------- | ------------------------- | ------------------------- |
+| Google      | Eleni Rundle   | 3/29/2023                 | 10/09/2023                |
+| Amazon      | Roy Wolman     | 10/10/2023                | 1/22/2025                 |
+| Capital One | Anne Johnston  | 10/10/2023                | 6/02/2025                 |
+| Citi        | Amit Kinha     | 11/08/2024                | 6/03/2025                 |
 
 
 One of the more important duties of the Steering Committee is the approval of the Specifications and other works produced as a consensus product of the FOCUS Working Groups.
