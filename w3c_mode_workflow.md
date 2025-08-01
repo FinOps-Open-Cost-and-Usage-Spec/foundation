@@ -26,7 +26,7 @@ Pull requests opened from the `working_draft` branch to the `candidate_recommend
 Pull requests opened from the `candidate_recommendation` branch to the `main` branch are equal to the "Final Approval" in the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
 
 
-Git tags using [Semantic Versioning 2.0](https://semver.org/spec/v2.0.0.html) will be used to mark the official releases.
+Git tags based on [Semantic Versioning 2.0](https://semver.org/spec/v2.0.0.html) will be used to mark the official releases.
 
 ![Git Workflow](images/FOCUS_GIT_Workflow_v1.0.3.png?raw=true "Git Workflow")
 
@@ -36,12 +36,21 @@ Once a working group milestone has been reached for release a pull request is me
 
 As per the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf) any exclusions on essential claims must be made to the FOCUS working group chair prior to adoption of a Draft Deliverable as an Approved Deliverable, this can be achieved via email on (focus@finops.org). Any exclusions of essential claims will be associcated with a GitHub Issue ticket and all tickets must be resolved before a pull request is able to be raised from the `candidate_recommendation` branch into the `main` branch.
 
-The Steering Committee will review and confirm any exclusions on essential claims have been resolved before the pull request is merged into `main`. Upon approval by the Steering Committee content will be merged into the `main` branch. Each merge into `main` will be tagged with a [Semantic Versioning 2.0](https://semver.org/spec/v2.0.0.html) tag. This will make it easily possible to switch to each previous version of the specification.
+The Steering Committee will review and confirm any exclusions on essential claims have been resolved before the pull request is merged into `main`. Upon approval by the Steering Committee content will be merged into the `main` branch. Each merge into `main` will be given a tag using the format `v<version_number>`. This will facilitate viewing each previous version of the specification.
 
-Minor corrections which do not materially change the document, such as:
+### Editorial Changes During IPR Review
 
-* Spelling mistakes
-* Miss labeled figures
-* Spacing issues
+During the 30-day IPR Review period, any **editorial changes**—such as corrections to grammar, formatting, or other non-normative adjustments—must follow a defined process to ensure transparency and proper oversight.
 
-Can be corrected via branch, pull request and merge. This is to avoid having to do the full release cycle to make these minor corrections.
+If an editorial issue is identified:
+
+1. **Create a new branch** from the `candidate_recommendation` branch.
+2. Submit an **editorial pull request (PR)** from that branch.
+3. The PR may be reviewed and discussed during the IPR Review window, but **no merges will occur until the review period ends**.
+4. At the conclusion of the IPR Review:
+   - The PR must be **approved by the Working Group**.
+   - It must then be **ratified by the Steering Committee** before being merged into `candidate_recommendation`.
+5. Once ratified, the updated `candidate_recommendation` content can proceed to final publication and be merged into `main`.
+6. All editorial changes will then need to be merged back into the `working_draft` branch by means of a PR from `candidate_recommendation` into `working_draft`.
+
+This process ensures that editorial corrections are handled with transparency and receive proper approval without disrupting the formal review timeline.
