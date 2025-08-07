@@ -21,6 +21,7 @@ The current members of the FOCUS Steering Committee are:
 | Capital One      | Jerzy Grzywinski   | 10/10/2023              | 10/10/2025            | 6/02/2025                  | 10/10/2025               |
 | Adobe            | Richard Steck      | 11/08/2024              | 11/08/2026            | 11/08/2024                 | 11/08/2026               |
 | Datadog          | Christopher Harris | 11/08/2024              | 11/08/2026            | 11/08/2024                 | 11/08/2026               |
+| (Open)           | (Unassigned)       | --                      | --                    | --                         | --                       |
 
 #### Emeriti
 
