@@ -14,24 +14,26 @@ The current members of the FOCUS Steering Committee are:
 | Member           | Representative     | Member term begins      | Member term ends      | Representative term begins | Representative term ends |
 |------------------| ------------------ | ----------------------- | --------------------- | -------------------------- | ------------------------ |
 | Linux Foundation | Mike Fuller        | 3/29/2023               | 3/29/2027             | 3/29/2023                  | 3/29/2027                |
-| Microsoft        | Michael Flanakin   | 3/29/2023               | 3/29/2027             | 3/29/2023                  | 3/29/2027                |
+| Microsoft        | Vikram Desai       | 3/29/2023               | 3/29/2027             | 8/01/2025                  | 3/29/2027                |
 | Google           | Sarah McMullin     | 3/29/2023               | 3/29/2027             | 10/10/2023                 | 3/29/2027                |
 | Amazon           | Letian Feng        | 10/10/2023              | 10/10/2025            | 1/23/2025                  | 10/10/2025               |
 | Walmart          | Tim O'Brien        | 10/10/2023              | 10/10/2025            | 10/10/2023                 | 10/10/2025               |
 | Capital One      | Jerzy Grzywinski   | 10/10/2023              | 10/10/2025            | 6/02/2025                  | 10/10/2025               |
 | Adobe            | Richard Steck      | 11/08/2024              | 11/08/2026            | 11/08/2024                 | 11/08/2026               |
 | Datadog          | Christopher Harris | 11/08/2024              | 11/08/2026            | 11/08/2024                 | 11/08/2026               |
+| (Open)           | (Unassigned)       | --                      | --                    | --                         | --                       |
 
 #### Emeriti
 
 We thank all our prior Steering Committee members for their contribution:
 
-| Member      | Representative | Representative term began | Representative term ended |
-| ----------- | -------------- | ------------------------- | ------------------------- |
-| Google      | Eleni Rundle   | 3/29/2023                 | 10/09/2023                |
-| Amazon      | Roy Wolman     | 10/10/2023                | 1/22/2025                 |
-| Capital One | Anne Johnston  | 10/10/2023                | 6/02/2025                 |
-| Citi        | Amit Kinha     | 11/08/2024                | 6/03/2025                 |
+| Member      | Representative   | Representative term began | Representative term ended |
+| ----------- | ---------------- | ------------------------- | ------------------------- |
+| Google      | Eleni Rundle     | 3/29/2023                 | 10/09/2023                |
+| Amazon      | Roy Wolman       | 10/10/2023                | 1/22/2025                 |
+| Capital One | Anne Johnston    | 10/10/2023                | 6/02/2025                 |
+| Citi        | Amit Kinha       | 11/08/2024                | 6/03/2025                 |
+| Microsoft   | Michael Flanakin | 3/29/2023                 | 8/01/2025                 |
 
 
 One of the more important duties of the Steering Committee is the approval of the Specifications and other works produced as a consensus product of the FOCUS Working Groups.
