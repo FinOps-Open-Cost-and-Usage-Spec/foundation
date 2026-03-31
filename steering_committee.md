@@ -11,7 +11,6 @@ The FOCUS Steering Committee is governed by the [Project Charter](FOCUS_-_Member
 
 The current members of the FOCUS Steering Committee are:
 
-
 | Member             | Representative     | Member term begins | Member term ends | Representative term begins | Representative term ends |
 | ------------------ | ------------------ | ------------------ | ---------------- | -------------------------- | ------------------------ |
 | Linux Foundation   | Mike Fuller        | 3/29/2023          | 3/29/2027        | 3/29/2023                  | 3/29/2027                |
