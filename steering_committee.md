@@ -24,7 +24,7 @@ The current members of the FOCUS Steering Committee are:
 | Walmart            | Karl Kraft         | 11/10/2025         | 10/10/2027       | 10/10/2023                 | 10/10/2027               |
 | Capital One        | John Ely           | 10/10/2023         | 10/10/2027       | 3/03/2026                  | 10/10/2027               |
 | Adobe              | Ben Olson          | 11/08/2024         | 11/08/2026       | 10/03/2025                 | 11/08/2026               |
-| Datadog            | Christopher Harris | 11/08/2024         | 11/08/2026       | 11/08/2024                 | 11/08/2026               |
+| Datadog            | Deeja Cruz         | 11/08/2024         | 11/08/2026       | 3/30/2026                  | 11/08/2026               |
 | IBM Cloudability   | Casey Doran        | 11/20/2025         | 11/20/2027       | 11/20/2025                 | 11/20/2027               |
 
 #### Emeriti
@@ -41,6 +41,7 @@ We thank all our prior Steering Committee members for their contribution:
 | Adobe       | Richard Steck    | 11/08/2024                | 10/03/2025                |
 | Walmart     | Tim O'Brien      | 10/10/2023                | 11/10/2025                |
 | Capital One | Jerzy Grzywinski | 6/02/2025                 | 3/03/2026                 |
+| Datadog     | Christopher Harris | 11/08/2024              | 3/30/2026                 |
 
 One of the more important duties of the Steering Committee is the approval of the Specifications and other works produced as a consensus product of the FOCUS Working Groups.
 
