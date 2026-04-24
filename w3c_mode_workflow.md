@@ -28,9 +28,9 @@ Pull requests opened from the `candidate_recommendation` branch to the `main` br
 
 Git tags based on [Semantic Versioning 2.0](https://semver.org/spec/v2.0.0.html) will be used to mark the official releases.
 
-![Git Workflow](images/FOCUS_GIT_Workflow_v1.0.3.png?raw=true "Git Workflow")
+![Git Workflow](images/FOCUS-Process-w3c-git-flow-revision.drawio.png?raw=true "Git Workflow")
 
-All development work will be completed in the `working_draft` branch or in topic branches that are strictly merged back into the `working_draft` branch. When the specification hits development milestones and is ready to released a pull request is raised from the `working_draft` branch into the `candidate_recommendation` branch. This pull request is reviewed by the working_group before it is approved and merged by the Working Group Chair. 
+All development work is completed in `working_draft` branch or in topic branches that are strictly merged back into the `working_draft` branch, except during the IPR Review period, where new feature development is performed in `working_draft_interim` branch. When the specification hits development milestones and is ready to released a pull request is raised from the `working_draft` branch into the `candidate_recommendation` branch. This pull request is reviewed by the working_group before it is approved and merged by the Working Group Chair. 
 
 Once a working group milestone has been reached for release a pull request is merged into the `candidate_recommendation` branch upon approval by the Working Group Chair. The Joint Development Foundation Projects, LLC, FinOps Open Cost and Usage Specification (FOCUS) Project has decided to have a hold period of 30 days for content that is in the Working Group Approval state before progressing to Final Approval in order to allow members to provide exclusions on essential claims prior to the adoption of a Draft Deliverable as an Approved Deliverable. No contributions that have not been held in the `candidate_recommendation` branch can be progressed into the `main` branch. 
 
@@ -40,17 +40,40 @@ The Steering Committee will review and confirm any exclusions on essential claim
 
 ### Editorial Changes During IPR Review
 
-During the 30-day IPR Review period, any **editorial changes**—such as corrections to grammar, formatting, or other non-normative adjustments—must follow a defined process to ensure transparency and proper oversight.
+During the 30-day IPR Review period, the `candidate_recommendation` branch is treated as the **frozen release candidate**. To ensure stability and avoid disrupting the review process, all changes must follow a controlled branching strategy.
 
-If an editorial issue is identified:
+#### Editorial Changes for the Current Release
 
-1. **Create a new branch** from the `candidate_recommendation` branch.
-2. Submit an **editorial pull request (PR)** from that branch.
-3. The PR may be reviewed and discussed during the IPR Review window, but **no merges will occur until the review period ends**.
-4. At the conclusion of the IPR Review:
-   - The PR must be **approved by the Working Group**.
-   - It must then be **ratified by the Steering Committee** before being merged into `candidate_recommendation`.
-5. Once ratified, the updated `candidate_recommendation` content can proceed to final publication and be merged into `main`.
-6. All editorial changes will then need to be merged back into the `working_draft` branch by means of a PR from `candidate_recommendation` into `working_draft`.
+If an editorial issue is identified (e.g., grammar, formatting, or other non-normative corrections):
 
-This process ensures that editorial corrections are handled with transparency and receive proper approval without disrupting the formal review timeline.
+1. **Create a branch from `working_draft`.**
+2. Submit an **editorial pull request (PR)** targeting the `working_draft` branch.
+3. The PR may be reviewed and merged into `working_draft` during the IPR Review period, provided it is strictly **editorial (non-normative)** in scope.
+4. The `candidate_recommendation` branch remains unchanged during the IPR Review window.
+
+At the conclusion of the IPR Review:
+
+5. All approved editorial changes accumulated in `working_draft` are **merged into `candidate_recommendation`** via a PR.
+6. The updated `candidate_recommendation` branch is then:
+   - **Approved by the Working Group**, and  
+   - **Ratified by the Steering Committee**, prior to release.
+7. Once ratified, `candidate_recommendation` is merged into `main`, and the release is tagged.
+
+#### Development of the Next Release
+
+To ensure that new feature development does not interfere with the IPR Review:
+
+1. All **new features or normative changes** must be developed in the `working_draft_interim` branch, created from `working_draft` at the start of the IPR Review.
+2. Topic branches for new work must be created from and merged into `working_draft_interim`.
+3. No new features or normative changes are permitted in `working_draft` or `candidate_recommendation` during the IPR Review period.
+
+After the IPR Review concludes and the release is finalized:
+
+4. The `working_draft_interim` branch is **merged back into `working_draft`**, establishing the baseline for the next release cycle.
+
+---
+
+This process ensures:
+- The **stability of the release candidate** during IPR Review  
+- The ability to **apply editorial fixes in a controlled manner**  
+- The continued **progress of next-release development without conflict**
