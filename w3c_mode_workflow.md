@@ -63,7 +63,7 @@ At the conclusion of the IPR Review:
 
 To ensure that new feature development does not interfere with the IPR Review:
 
-1. All **new features or normative changes** must be developed in the `working_draft_interim` branch.
+1. All **new features or normative changes** must be developed in the `working_draft_interim` branch, created from `working_draft` at the start of the IPR Review.
 2. Topic branches for new work must be created from and merged into `working_draft_interim`.
 3. No new features or normative changes are permitted in `working_draft` or `candidate_recommendation` during the IPR Review period.
 
