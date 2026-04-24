@@ -28,7 +28,7 @@ Pull requests opened from the `candidate_recommendation` branch to the `main` br
 
 Git tags based on [Semantic Versioning 2.0](https://semver.org/spec/v2.0.0.html) will be used to mark the official releases.
 
-![Git Workflow](images/FOCUS_GIT_Workflow_v1.0.3.png?raw=true "Git Workflow")
+![Git Workflow](images/FOCUS-Process-w3c-git-flow-revision.drawio.png?raw=true "Git Workflow")
 
 All development work will be completed in the `working_draft` branch or in topic branches that are strictly merged back into the `working_draft` branch. When the specification hits development milestones and is ready to released a pull request is raised from the `working_draft` branch into the `candidate_recommendation` branch. This pull request is reviewed by the working_group before it is approved and merged by the Working Group Chair. 
 
