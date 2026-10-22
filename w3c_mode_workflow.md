@@ -40,7 +40,7 @@ The Steering Committee will review and confirm any exclusions on essential claim
 
 ### Review Artifacts
 
-A review artifact (see [Operating Procedures 5.3](operating_procedures.md#53-previews-and-review-artifacts)) stays on the pull request branch where it was created. A tag on that branch freezes its content. The tagged commit is included in the same IPR Review period as the release, with the same 30-day hold and exclusion-notice handling, and exclusion notices name the deliverable they apply to. At the end of the period, the Working Group approves each deliverable separately (the release, including any previews, and each review artifact), and the Steering Committee ratifies each one. As an exception agreed by Members, a review artifact may have its own 30-day IPR Review period outside the release cycle, following the same steps.
+A review artifact (see [Operating Procedures 5.3](operating_procedures.md#53-review-artifacts-and-previews)) stays on the pull request branch where it was created. A tag on that branch freezes its content. The tagged commit is included in the same IPR Review period as the release, with the same 30-day hold and exclusion-notice handling, and exclusion notices name the deliverable they apply to. At the end of the period, the Working Group approves each deliverable separately (the release, including any previews, and each review artifact), and the Steering Committee ratifies each one. As an exception agreed by Members, a review artifact may have its own 30-day IPR Review period outside the release cycle, following the same steps.
 
 The tagged commit is not merged into `candidate_recommendation` or `main`. If the content is later incorporated into a release, it enters `working_draft` and follows the normal workflow.
 
