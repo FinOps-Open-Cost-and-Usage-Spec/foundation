@@ -287,6 +287,8 @@ The **Specification Lifecycle** outlines the end-to-end process for creating, re
 6. **Steering Committee Ratification:** Obtain higher-level oversight and approval for public release from the steering committee.
 7. **Publication:** Officially publish and release the specification with a version number for stakeholder implementation.
 
+This lifecycle applies to all content, including review artifacts and previews (see [5.3](#53-review-artifacts-and-previews)).
+
 ### 5.1.1\. Product Discovery
 The **Product Discovery** phase plays a vital role in maintaining the relevance and quality of the FOCUS specification. It provides a structured mechanism for gathering input from both the broader **Practitioners Community** and active **FOCUS Contributors**, ensuring that the specification continues to address real-world challenges and evolving needs.
 
@@ -295,6 +297,8 @@ This phase captures feedback on published specifications, including:
 - Implementation experiences  
 - Usability insights  
 - Feature gaps  
+
+Feedback on review artifacts and previews (see [5.3](#53-review-artifacts-and-previews)) is gathered the same way, and informs whether that content is promoted, incorporated into a release, or closed.
 
 Particular attention is given to **practitioner pain-points**—recurring challenges or inefficiencies observed in day-to-day FinOps operations. These insights help inform future enhancements by guiding the creation of actionable work items that directly improve usability and effectiveness.
 
@@ -381,6 +385,20 @@ The **R&A** process follows a structured path, emphasizing open discussion, cons
 
 This **R&A** process fosters an inclusive, structured approach to decision-making, ensuring that all member concerns are addressed, and important technical issues are resolved with input from both Steering and General Members. By establishing clear steps for consensus-building and a formal voting mechanism, the R&A process maintains rigor and accountability within the FOCUS project.
 
+## 5.3\. Review Artifacts and Previews
+Besides normal specification content, the Working Group has two tools for content that needs implementer feedback before it is final: a **review artifact** and a **preview**. All three follow the same Specification Lifecycle (5.1) and Review & Approval process (5.2), including the Consistency and IPR Reviews (5.1.4), Final Specification Working Group Approval (5.1.5), and Steering Committee Ratification (5.1.6). FOCUS does not publish content that has not completed this lifecycle. Members decide, through the Review & Approval process, which tool to use for given content.
+
+|                 | Normal content             | Review artifact                                                                                             | Preview                                                       |
+|-----------------|----------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| **Published**   | In a release               | Separately from a release, labeled as a review artifact. It is not a release.                               | In a release, labeled as a preview                            |
+| **Conformance** | Evaluated                  | Not applicable                                                                                              | Not evaluated                                                 |
+| **IPR Review**  | In `candidate_recommendation` | On a tagged commit of its own branch, not merged into `candidate_recommendation` (see [w3c_mode_workflow.md](w3c_mode_workflow.md#review-artifacts)) | In `candidate_recommendation`, with its release            |
+| **How it ends** | Normal change management   | Members incorporate it into a later release through this lifecycle, or close it without incorporation       | At each later release, Members promote, extend, or remove it  |
+
+Review artifacts and previews are normally planned to complete the lifecycle together with the release they accompany, in the same IPR Review period. At the end of that period, each deliverable (the release, including any previews, and each review artifact) is approved and ratified separately. As an exception, Members may agree to run a review artifact's IPR Review in a separate period, following the same steps.
+
+Operational procedures for each tool are maintained in the [FOCUS_Spec repository](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec).
+
 # 6\. Github Flows
 
 ## 6.1 GitHub Access Rights
@@ -400,9 +418,13 @@ All Members are required to have 2FA enabled.
 
 Published releases of the FG outputs will be maintained on the `main` branch of the respective FG REPOs. Each merge on this branch will be [tagged](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/managing-tags) with a version following Symantic Versioning. A [`RELEASE-PLANNING.md`](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/RELEASE-PLANNING.md) file will be maintained in the REPO to allow consumers of the FG outputs to determine what has changed and when releases occurred.
 
+A review artifact (see [5.3](#53-review-artifacts-and-previews)) is tagged on the branch where it was created. That tag is not a release tag and does not use the version format of a release.
+
 ## 7.2 Website Releases
 
 Some releases may be converted to web friendly formats (such as, PDF, HTML) and made available via the website [focus.finops.org](https://focus.finops.org/). These releases will clearly attribute the ownership of the material to the FOCUS Project and make it easy to identify the version of the publication.
+
+Review artifacts and previews (see [5.3](#53-review-artifacts-and-previews)) are clearly labeled as such wherever they are published. A review artifact is not announced as a release, and a closed review artifact is no longer shared.
 
 # 8\. Documentation
 

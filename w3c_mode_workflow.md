@@ -38,6 +38,12 @@ As per the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/
 
 The Steering Committee will review and confirm any exclusions on essential claims have been resolved before the pull request is merged into `main`. Upon approval by the Steering Committee content will be merged into the `main` branch. Each merge into `main` will be given a tag using the format `v<version_number>`. This will facilitate viewing each previous version of the specification.
 
+### Review Artifacts
+
+A review artifact (see [Operating Procedures 5.3](operating_procedures.md#53-review-artifacts-and-previews)) stays on the pull request branch where it was created. A tag on that branch freezes its content. The tagged commit is included in the same IPR Review period as the release, with the same 30-day hold and exclusion-notice handling, and exclusion notices name the deliverable they apply to. At the end of the period, the Working Group approves each deliverable separately (the release, including any previews, and each review artifact), and the Steering Committee ratifies each one. As an exception agreed by Members, a review artifact may have its own 30-day IPR Review period outside the release cycle, following the same steps.
+
+The tagged commit is not merged into `candidate_recommendation` or `main`. If the content is later incorporated into a release, it enters `working_draft` and follows the normal workflow.
+
 ### Editorial Changes During IP Review
 
 During the 30-day IP Review period, the `candidate_recommendation` branch is treated as the **frozen release candidate**. To ensure stability and avoid disrupting the review process, all changes must follow a controlled branching strategy.
